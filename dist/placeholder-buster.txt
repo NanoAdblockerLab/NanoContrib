@@ -32,6 +32,9 @@ cryptomininggame.com##.panel-warning:has(:scope > header > h2:has-text(Advertise
 # https://github.com/NanoMeow/QuickReports/issues/189
 foodnetwork.com##body:style(margin-top: 0px !important;)
 
+# https://github.com/NanoMeow/QuickReports/issues/218
+cloudncode.blog##.wpcnt
+
 # ---------------------------------------------------------------------------- #
 
 # Portuguese
