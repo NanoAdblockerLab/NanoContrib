@@ -29,6 +29,9 @@ cryptomininggame.com##.row:has(:scope > .col-md-4 > .text-center > ins[class^="b
 cryptomininggame.com##.panel-success:has(:scope > header > h2:has-text(Advertisements))
 cryptomininggame.com##.panel-warning:has(:scope > header > h2:has-text(Advertisements))
 
+# https://github.com/NanoMeow/QuickReports/issues/189
+foodnetwork.com##body:style(margin-top: 0px !important;)
+
 # ---------------------------------------------------------------------------- #
 
 # Portuguese
