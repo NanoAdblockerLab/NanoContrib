@@ -35,9 +35,6 @@ foodnetwork.com##body:style(margin-top: 0px !important;)
 # https://github.com/NanoMeow/QuickReports/issues/218
 cloudncode.blog##.wpcnt
 
-# https://github.com/NanoMeow/QuickReports/issues/343
-stealive.club##.linktl_flashad_reset.linktl_flashad_wrap
-
 # ---------------------------------------------------------------------------- #
 
 # Portuguese
