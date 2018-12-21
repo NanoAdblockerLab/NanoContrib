@@ -28,4 +28,11 @@ link.tl##.jetborsa-banner
 link.tl##.mobsplOverlay
 link.tl##.mobsplBox
 
+# https://github.com/NanoMeow/QuickReports/issues/156
+cryptomininggame.com###sticky_bot_right
+cryptomininggame.com##a[href^="https://coinad.com/?a=Buy"]
+cryptomininggame.com##.row:has(:scope > .col-md-4 > .text-center > ins[class^="bmadblock-"])
+cryptomininggame.com##.panel-success:has(:scope > header > h2:has-text(Advertisements))
+cryptomininggame.com##.panel-warning:has(:scope > header > h2:has-text(Advertisements))
+
 # ---------------------------------------------------------------------------- #
