@@ -23,4 +23,9 @@ streamhentaimovies.com##.popmake-overlay
 jn.pt,tsf.pt##.t-pubbox-inner
 dn.pt##.t-pub-inner
 
+# https://github.com/jspenguin2017/uBlockProtector/issues/835
+link.tl##.jetborsa-banner
+link.tl##.mobsplOverlay
+link.tl##.mobsplBox
+
 # ---------------------------------------------------------------------------- #
