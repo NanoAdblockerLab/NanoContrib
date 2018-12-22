@@ -39,6 +39,10 @@ rockpapershotgun.com##.mpu.collapsible:has(:scope > p:has-text(Advertisement))
 # https://github.com/NanoMeow/QuickReports/issues/218
 cloudncode.blog##.wpcnt
 
+# https://github.com/NanoMeow/QuickReports/issues/434
+linux.org##.sectionMain.funbox:has(ins.adsbygoogle)
+linux.org##div:has(:scope > ins.adsbygoogle)
+
 # https://github.com/NanoMeow/QuickReports/issues/447
 whoiscute.com##.tl-states-root
 
