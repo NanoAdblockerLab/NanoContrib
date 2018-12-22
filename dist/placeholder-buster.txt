@@ -39,6 +39,9 @@ cloudncode.blog##.wpcnt
 rockpapershotgun.com##.leaderboards
 rockpapershotgun.com##.mpu.collapsible:has(:scope > p:has-text(Advertisement))
 
+# https://github.com/NanoMeow/QuickReports/issues/447
+whoiscute.com##.tl-states-root
+
 # ---------------------------------------------------------------------------- #
 
 # Portuguese
