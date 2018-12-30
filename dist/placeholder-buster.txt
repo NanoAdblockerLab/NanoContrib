@@ -46,21 +46,45 @@ linux.org##div:has(:scope > ins.adsbygoogle)
 # https://github.com/NanoMeow/QuickReports/issues/447
 whoiscute.com##.tl-states-root
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/1
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592241
 avsforum.com##.large-4.medium-6.small-12:has([class=ad-wrapper])
-fileinfo.com##.linkAds
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592242
 gadgethacks.com##.whtaph-floatbox
-investopedia.com###partnerlinks_1-0
-investopedia.com##.right-rail--ad-container
-issuu.com##div[class*="adPlacementContainer"]
-lame.buanzo.org###ads
-mariowiki.com###mw-content-text > table > tbody > tr > td:nth-of-type(1)
-picktorrent.com##.aBut > .no2ref
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592252
+tomshardware.*##.p-u-md-1-3.p-u-1:has(div[class*="block-ads"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
 pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592283
+mariowiki.com###mw-content-text > table > tbody > tr > td:nth-of-type(1)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592289
 ssbwiki.com###mw-content-text > table > tbody > tr > td:nth-of-type(2)
-tomshardware.*##.p-u-md-1-3.p-u-1:has(div[class*="block-ads"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592293
+issuu.com##div[class*="adPlacementContainer"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592296
+fileinfo.com##.linkAds
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592297
+investopedia.com###partnerlinks_1-0
+investopedia.com##.right-rail--ad-container
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592305
+lame.buanzo.org###ads
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592315
 tvtropes.org##.sb-ad-unit
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592323
+picktorrent.com##.aBut > .no2ref
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592327
 yeggi.com##.adbttm_right_300
 
 # ---------------------------------------------------------------------------- #
