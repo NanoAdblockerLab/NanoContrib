@@ -47,9 +47,6 @@ linux.org##div:has(:scope > ins.adsbygoogle)
 whoiscute.com##.tl-states-root
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1
-##.ad-rail-container
-##.ima-ads-container
-##.mobile_instream_ad
 avsforum.com##.large-4.medium-6.small-12:has([class=ad-wrapper])
 fileinfo.com##.linkAds
 gadgethacks.com##.whtaph-floatbox
