@@ -46,7 +46,7 @@ linux.org##div:has(:scope > ins.adsbygoogle)
 # https://github.com/NanoMeow/QuickReports/issues/447
 whoiscute.com##.tl-states-root
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pulls/1
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1
 ##.ad-rail-container
 ##.ima-ads-container
 ##.mobile_instream_ad
