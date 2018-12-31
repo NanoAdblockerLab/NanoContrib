@@ -90,21 +90,41 @@ picktorrent.com##.aBut > .no2ref
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592327
 yeggi.com##.adbttm_right_300
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/2
-color-hex.com###addivider
-filehorse.com##.dx-pr-1
-filehorse.com##.dx-sb-1
-fourfourtwo.com###leaderboard
-gamespot.com##div[x-enc="id class"]:has(div > div[data-ad-type])
-healthline.com##aside:has(div[data-ad="true"])
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608673
+thehungersite.greatergood.com##.ctg-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608696
 knowyourmeme.com##.combo-right
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608704
+fourfourtwo.com###leaderboard
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608707
+filehorse.com##.dx-sb-1
+filehorse.com##.dx-pr-1
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608728
+color-hex.com###addivider
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608733
+healthline.com##aside:has(div[data-ad="true"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608748
+gamespot.com##div[x-enc="id class"]:has(div > div[data-ad-type])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608757
 kotaku.com,avclub.com,gizmodo.com,deadspin.com,jalopnik.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,theinventory.com##.contained-ad-container
-mashable.com###pathing-banner
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608760
 thedroidguy.com###secondary
 thedroidguy.com##.g1-collection-item:has(div[class^="g1-advertisement"])
-thehungersite.greatergood.com##.ctg-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608764
 writerscafe.org###header_pay
 writerscafe.org##div.box:has(div[class*="pay-provider-google"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608769
+mashable.com###pathing-banner
 
 # ------------------------------------------------------------------------------------------------ #
 
@@ -120,9 +140,15 @@ dn.pt##.t-pub-inner
 
 # Dhivehi
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/2
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608678
 avas.mv###app > .bg-white
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608682
+sun.mv##.component-sponsor:has(div > :not([src*="hotline.png"]))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608692
 dhuvas.mv##.vc_column-inner:has(img[alt="lifeside"])
 dhuvas.mv##.vc_column-inner:has(img[alt="muniad"])
 dhuvas.mv##.vc_column-inner:has(img[alt="sportsad"])
-sun.mv##.component-sponsor:has(div > :not([src*="hotline.png"]))
+
+# ------------------------------------------------------------------------------------------------ #
