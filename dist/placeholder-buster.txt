@@ -80,8 +80,9 @@ gadgethacks.com##.whtaph-floatbox
 tomshardware.*##.p-u-md-1-3.p-u-1:has(div[class*="block-ads"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592283
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592289
 mariowiki.com###mw-content-text > table > tbody > tr > td:nth-of-type(1)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592289
 ssbwiki.com###mw-content-text > table > tbody > tr > td:nth-of-type(2)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592293
@@ -148,9 +149,10 @@ mashable.com###pathing-banner
 # Portuguese
 
 # https://github.com/jspenguin2017/uBlockProtector/issues/843
-# https://github.com/jspenguin2017/uBlockProtector/issues/848
 # https://github.com/jspenguin2017/uBlockProtector/issues/869
 jn.pt,tsf.pt##.t-pubbox-inner
+
+# https://github.com/jspenguin2017/uBlockProtector/issues/848
 dn.pt##.t-pub-inner
 
 # -------------------------------------------------------------------------------------------------------------------- #
