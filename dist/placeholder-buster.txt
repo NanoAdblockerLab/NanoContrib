@@ -90,6 +90,22 @@ picktorrent.com##.aBut > .no2ref
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592327
 yeggi.com##.adbttm_right_300
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2
+color-hex.com###addivider
+filehorse.com##.dx-pr-1
+filehorse.com##.dx-sb-1
+fourfourtwo.com###leaderboard
+gamespot.com##div[x-enc="id class"]:has(div > div[data-ad-type])
+healthline.com##aside:has(div[data-ad="true"])
+knowyourmeme.com##.combo-right
+kotaku.com,avclub.com,gizmodo.com,deadspin.com,jalopnik.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,theinventory.com##.contained-ad-container
+mashable.com###pathing-banner
+thedroidguy.com###secondary
+thedroidguy.com##.g1-collection-item:has(div[class^="g1-advertisement"])
+thehungersite.greatergood.com##.ctg-ad
+writerscafe.org###header_pay
+writerscafe.org##div.box:has(div[class*="pay-provider-google"])
+
 # ------------------------------------------------------------------------------------------------ #
 
 # Portuguese
@@ -101,3 +117,12 @@ jn.pt,tsf.pt##.t-pubbox-inner
 dn.pt##.t-pub-inner
 
 # ------------------------------------------------------------------------------------------------ #
+
+# Dhivehi
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2
+avas.mv###app > .bg-white
+dhuvas.mv##.vc_column-inner:has(img[alt="lifeside"])
+dhuvas.mv##.vc_column-inner:has(img[alt="muniad"])
+dhuvas.mv##.vc_column-inner:has(img[alt="sportsad"])
+sun.mv##.component-sponsor:has(div > :not([src*="hotline.png"]))
