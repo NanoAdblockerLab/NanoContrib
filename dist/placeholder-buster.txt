@@ -15,6 +15,21 @@ pixiv.net##.ads-top-info
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Dhivehi
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608678
+avas.mv###app > .bg-white
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608682
+sun.mv##.component-sponsor:has(div > :not([src*="hotline.png"]))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608692
+dhuvas.mv##.vc_column-inner:has(img[alt="lifeside"])
+dhuvas.mv##.vc_column-inner:has(img[alt="muniad"])
+dhuvas.mv##.vc_column-inner:has(img[alt="sportsad"])
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # English
 
 # https://github.com/jspenguin2017/uBlockProtector/issues/835
@@ -137,20 +152,5 @@ mashable.com###pathing-banner
 # https://github.com/jspenguin2017/uBlockProtector/issues/869
 jn.pt,tsf.pt##.t-pubbox-inner
 dn.pt##.t-pub-inner
-
-# -------------------------------------------------------------------------------------------------------------------- #
-
-# Dhivehi
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608678
-avas.mv###app > .bg-white
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608682
-sun.mv##.component-sponsor:has(div > :not([src*="hotline.png"]))
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608692
-dhuvas.mv##.vc_column-inner:has(img[alt="lifeside"])
-dhuvas.mv##.vc_column-inner:has(img[alt="muniad"])
-dhuvas.mv##.vc_column-inner:has(img[alt="sportsad"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
