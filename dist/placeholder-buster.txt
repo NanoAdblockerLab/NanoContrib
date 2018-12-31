@@ -3,6 +3,7 @@
 # Title: Nano Contrib Filter - Placeholder Buster
 # Expires: 5 days
 # Homepage: https://github.com/NanoAdblockerLab/NanoContrib
+# Description: Removes empty ads placeholders
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
