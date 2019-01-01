@@ -13,6 +13,9 @@
 pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/3
+reddit.com##div.fePAzF:has(div[id^="sidebar-"])
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # Dhivehi
@@ -144,9 +147,21 @@ writerscafe.org##div.box:has(div[class*="pay-provider-google"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608769
 mashable.com###pathing-banner
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/3
+supercheats.com##div[id^="bottom_ad_"]
+supercheats.com##.cboth_sm
+supercheats.com##.page_right > div.cboth:nth-of-type(3)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/3
+sourceforge.net##.l-gutter
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/3
+smallbusiness.chron.com##.leaderboard
+smallbusiness.chron.com###top-300
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
-# Enlish NSFW
+# English NSFW
 
 # https://github.com/NanoMeow/QuickReports/issues/489
 yespornplease.com##.well:has(:scope > center > iframe[src^="https://a.adtng.com/get/"])
