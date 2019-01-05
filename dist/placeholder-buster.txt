@@ -159,6 +159,15 @@ sourceforge.net##.l-gutter
 smallbusiness.chron.com##.leaderboard
 smallbusiness.chron.com###top-300
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/4
+knowyourmeme.com##.content-unit-refresh-wrapper
+knowyourmeme.com##.complex-ad-wrapper
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/4
+time.com##.rundown-sidebar
+time.com##.padded-mobile.bottom-recirc
+||time.com/kismet/spacer.png$image
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # English NSFW
