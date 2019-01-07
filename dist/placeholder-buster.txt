@@ -168,6 +168,38 @@ time.com##.rundown-sidebar
 time.com##.padded-mobile.bottom-recirc
 ||time.com/kismet/spacer.png$image
 
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+mywindowshub.com##.textwidget:has(script[src*="adsbygoogle.js"])
+mywindowshub.com##.td-pb-span12.tdc-column.vc_column_container:has(ins[class="adsbygoogle"])
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+download3k.com##p:has(script[src*="adsbygoogle.js"])
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+pureinfotech.com##.code-block:has(script[src*="adsbygoogle.js"])
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+windows101tricks.com##.single-post-content.clearfix.entry-content > div:has(script[src*="adsbygoogle.js"])
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+itpro.co.uk###dfp-ad-lead_gen_native_slot
+itpro.co.uk##.lazyadslot
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+reddit.com###overlay-comment-atf
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+thedrum.com##.nocontent.footer__more
+thedrum.com##.outbrain
+thedrum.com##.advert--wallpaper
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+experts-exchange.com##.adBanner-comment
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+online-convert.com##.flex_banner_bottom
+online-convert.com##div[class^="banner_"]:has(ins[class="adsbygoogle"])
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # English NSFW
