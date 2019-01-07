@@ -182,6 +182,7 @@ pureinfotech.com##.code-block:has(script[src*="adsbygoogle.js"])
 windows101tricks.com##.single-post-content.clearfix.entry-content > div:has(script[src*="adsbygoogle.js"])
 
 ! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+itpro.co.uk##.block-dfp
 itpro.co.uk###dfp-ad-lead_gen_native_slot
 itpro.co.uk##.lazyadslot
 
