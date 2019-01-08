@@ -195,8 +195,11 @@ experts-exchange.com##.adBanner-comment
 online-convert.com##.flex_banner_bottom
 online-convert.com##div[class^="banner_"]:has(ins[class="adsbygoogle"])
 
-https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
 mariowiki.com,ssbwiki.com###mw-content-text > table > tbody > tr > td:has-text(Ads keep):has-text(independent and free :)
+
+! https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+excite.it##.cLeft.alpha.g_3
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
