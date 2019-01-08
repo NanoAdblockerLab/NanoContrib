@@ -14,7 +14,9 @@ pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
 reddit.com##div.fePAzF:has(div[id^="sidebar-"])
+reddit.com###overlay-comment-atf
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
@@ -179,9 +181,6 @@ windows101tricks.com##.single-post-content.clearfix.entry-content > div:has(scri
 itpro.co.uk##.block-dfp
 itpro.co.uk###dfp-ad-lead_gen_native_slot
 itpro.co.uk##.lazyadslot
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
-reddit.com###overlay-comment-atf
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149686
 thedrum.com##.nocontent.footer__more
