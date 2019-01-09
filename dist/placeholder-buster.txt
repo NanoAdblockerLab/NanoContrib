@@ -200,6 +200,22 @@ mariowiki.com,ssbwiki.com###mw-content-text > table > tbody > tr > td:has-text(A
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149803
 excite.it##.cLeft.alpha.g_3
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+onmsft.com##.text-center.article-img
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+mcpmag.com##.xContent
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+tekrevue.com##.widget_text.widget
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+techcrunch.com##.sidebar--main
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/5
+imore.com##div.sidebar__section
+imore.com##.sidebar
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # English NSFW
