@@ -197,19 +197,19 @@ online-convert.com##div[class^="banner_"]:has(ins[class="adsbygoogle"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149735
 mariowiki.com,ssbwiki.com###mw-content-text > table > tbody > tr > td:has-text(Ads keep):has-text(independent and free :)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/6
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/6#issuecomment-452931469
 onmsft.com##.text-center.article-img
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/6
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/6#issuecomment-452931482
 mcpmag.com##.xContent
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/6
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/6#issuecomment-452931513
 tekrevue.com##.widget_text.widget
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/6
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/6#issuecomment-452931615
 techcrunch.com##.sidebar--main
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/6
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/6#issuecomment-452931644
 imore.com##div.sidebar__section
 imore.com##.sidebar
 
