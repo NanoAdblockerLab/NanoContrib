@@ -213,12 +213,12 @@ techcrunch.com##.sidebar--main
 imore.com##div.sidebar__section
 imore.com##.sidebar
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/7
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/7#issuecomment-453868145
 runt-of-the-web.com##.leaderboard
 runt-of-the-web.com##.pbh_inline
 runt-of-the-web.com##.mrec
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/7
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/7#issuecomment-453868153
 accountkiller.com##.section_box[style="background-color: rgb(102, 181, 255);"]
 
 # -------------------------------------------------------------------------------------------------------------------- #
