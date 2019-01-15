@@ -18,10 +18,6 @@ pixiv.net##.ads-top-info
 reddit.com##div.fePAzF:has(div[id^="sidebar-"])
 reddit.com###overlay-comment-atf
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
-##.whtaph
-##.whtaph-floatbox
-
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # Dhivehi
@@ -238,6 +234,10 @@ berkshireeagle.com##div.text-center.credits.col-md-3.hidden-xs
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8
 technorms.com##.td-header-header
 technorms.com##.td-container > div.td-pb-row > .td-pb-span12
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
+gadgethacks.com,reality.news##.whtaph
+wonderhowto.com,reality.news##.whtaph-floatbox
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
