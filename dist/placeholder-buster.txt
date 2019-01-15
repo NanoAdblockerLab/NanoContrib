@@ -18,6 +18,10 @@ pixiv.net##.ads-top-info
 reddit.com##div.fePAzF:has(div[id^="sidebar-"])
 reddit.com###overlay-comment-atf
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
+##.whtaph
+##.whtaph-floatbox
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # Dhivehi
@@ -220,6 +224,20 @@ runt-of-the-web.com##.mrec
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/7#issuecomment-453868153
 accountkiller.com##.section_box[style="background-color: rgb(102, 181, 255);"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
+forums.whirlpool.net.au##div.reply-archived.reply:has(ins[class="adsbygoogle"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
+kb6nu.com##.textwidget:has(div[id^="div-gpt-ad-"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
+berkshireeagle.com##.pk-landing-default > div.container > .noear.default.pk-layer:has(.margins > .row > .pk-section.section-6col > .section-margins > .box > .text-center)
+berkshireeagle.com##div.text-center.credits.col-md-3.hidden-xs
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
+technorms.com##.td-header-header
+technorms.com##.td-container > div.td-pb-row > .td-pb-span12
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
