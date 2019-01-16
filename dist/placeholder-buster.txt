@@ -239,12 +239,20 @@ technorms.com##.td-container > div.td-pb-row > .td-pb-span12
 gadgethacks.com,reality.news##.whtaph
 wonderhowto.com,reality.news##.whtaph-floatbox
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
+alcpu.com###topbarad
+alcpu.com###navlinkad
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # English NSFW
 
 # https://github.com/NanoMeow/QuickReports/issues/489
 yespornplease.com##.well:has(:scope > center > iframe[src^="https://a.adtng.com/get/"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8
+motherless.com###main > .text-center:has(div[id^="ad-footer-"])
+motherless.com##.text-right.col-lg-4.col-xs-12.col-sm-12.view-right > div:nth-of-type(1)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
