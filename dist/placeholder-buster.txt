@@ -152,7 +152,9 @@ supercheats.com##.cboth_sm
 supercheats.com##.page_right > div.cboth:nth-of-type(3)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736305
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806100
 sourceforge.net##.l-gutter
+sourceforge.net##.main-content > section.sterling
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736308
 smallbusiness.chron.com##.leaderboard
@@ -251,9 +253,6 @@ reality.news##.whtaph-floatbox
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454620247
 alcpu.com###topbarad
 alcpu.com###navlinkad
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806100
-sourceforge.net##.main-content > section.sterling
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806107
 borncity.com##.code-block
