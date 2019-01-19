@@ -10,7 +10,7 @@
 # Multilingual
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/9
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
 pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
 pixiv.net##.sc-gMcBNU
@@ -252,10 +252,10 @@ reality.news##.whtaph-floatbox
 alcpu.com###topbarad
 alcpu.com###navlinkad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/9
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806100
 sourceforge.net##.main-content > section.sterling
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/9
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806107
 borncity.com##.code-block
 
 # -------------------------------------------------------------------------------------------------------------------- #
