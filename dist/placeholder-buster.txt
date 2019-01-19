@@ -10,8 +10,11 @@
 # Multilingual
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/9
 pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
+pixiv.net##.sc-gMcBNU
+pixiv.net##div:nth-of-type(2) > ._3jgsYyw
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
@@ -248,6 +251,12 @@ reality.news##.whtaph-floatbox
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454620247
 alcpu.com###topbarad
 alcpu.com###navlinkad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/9
+sourceforge.net##.main-content > section.sterling
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/9
+borncity.com##.code-block
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
