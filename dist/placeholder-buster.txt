@@ -11,9 +11,9 @@
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
+pixiv.net##._1N-LC6t
 pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
-pixiv.net##.sc-gMcBNU
 pixiv.net##div:nth-of-type(2) > ._3jgsYyw
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
