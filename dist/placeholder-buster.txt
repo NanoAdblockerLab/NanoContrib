@@ -21,7 +21,7 @@ pixiv.net##div:nth-of-type(2) > ._3jgsYyw
 reddit.com##div.fePAzF:has(div[id^="sidebar-"])
 reddit.com###overlay-comment-atf
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/10
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593858
 quizlet.com##.ModeLayout-ad
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -260,10 +260,10 @@ alcpu.com###navlinkad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806107
 borncity.com##.code-block
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/10
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593865
 mythicscribes.com##aside[id^="ai_widget-"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/10
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593889
 itstillworks.com##div.whitecard:has(script[src*="/pagead/"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
