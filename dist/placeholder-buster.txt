@@ -24,11 +24,11 @@ reddit.com###overlay-comment-atf
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593858
 quizlet.com##.ModeLayout-ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/11
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024293
 pokemonpets.com##.NiceBg:-abp-has(script)
 pokemonpets.com##.NiceBg[style^="width: 120px; "]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/11
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024370
 mightytext.net###ad-block-holder
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -273,10 +273,10 @@ mythicscribes.com##aside[id^="ai_widget-"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593889
 itstillworks.com##div.whitecard:has(script[src*="/pagead/"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/11
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024467
 ||m.majorgeeks.com/mg/mg.html$subdocument
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/11
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024499
 ultimate-guitar.com##.js-top-adv
 ultimate-guitar.com##.js-tab-banner-middle
 ultimate-guitar.com##bidding-wrapper
