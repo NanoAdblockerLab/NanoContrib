@@ -282,6 +282,9 @@ ultimate-guitar.com##.js-tab-banner-middle
 ultimate-guitar.com##bidding-wrapper
 ultimate-guitar.com##.js-ad-alternative
 
+# https://github.com/NanoMeow/QuickReports/issues/714
+travelchannel.com##body:style(margin: 0px !important)
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # English NSFW
