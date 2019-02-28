@@ -11,7 +11,7 @@
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/12
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
 pixiv.net##._1N-LC6t
 pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
@@ -287,10 +287,12 @@ ultimate-guitar.com##.js-ad-alternative
 # https://github.com/NanoMeow/QuickReports/issues/714
 travelchannel.com##body:style(margin: 0px !important)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/12
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103825
 flipside.keenspot.com###draobredael
 flipside.keenspot.com###darewot
 flipside.keenspot.com###flip_dafoot
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103880
 fallouttoyworks.keenspot.com##div[class="shadow"]:has(div[id^="div-gpt-ad-"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
