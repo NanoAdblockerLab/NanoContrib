@@ -11,10 +11,12 @@
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/12
 pixiv.net##._1N-LC6t
 pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
 pixiv.net##div:nth-of-type(2) > ._3jgsYyw
+pixiv.net##iframe[name="footer"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
@@ -25,7 +27,7 @@ reddit.com###overlay-comment-atf
 quizlet.com##.ModeLayout-ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024293
-pokemonpets.com##.NiceBg:-abp-has(script)
+pokemonpets.com##.NiceBg:has(script)
 pokemonpets.com##.NiceBg[style^="width: 120px; "]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024370
@@ -284,6 +286,12 @@ ultimate-guitar.com##.js-ad-alternative
 
 # https://github.com/NanoMeow/QuickReports/issues/714
 travelchannel.com##body:style(margin: 0px !important)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/12
+flipside.keenspot.com###draobredael
+flipside.keenspot.com###darewot
+flipside.keenspot.com###flip_dafoot
+fallouttoyworks.keenspot.com##div[class="shadow"]:has(div[id^="div-gpt-ad-"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
