@@ -304,6 +304,24 @@ simkl.com##.blockplacecenter
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935577
 color-hex.com##hr
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/14
+clik.pw##.adsbygoogle
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/14
+roleplay.me###copyright1
+roleplay.me##div.center:has-text(Advertisement)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/14
+firstonetv.live##center:has(a[onclick*="bit.ly"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/14
+fearby.com###custom_html-21.widget
+fearby.com###custom_html-25.widget
+fearby.com##p:has(script)
+fearby.com##.entry-content > p:has-text(Advertisement:)
+fearby.com###custom_html-19 > .widget-wrap.widget_text > .widget-title.widgettitle
+fearby.com###custom_html-22 > .widget-wrap.widget_text
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # English NSFW
@@ -324,6 +342,22 @@ excite.it##.cLeft.alpha.g_3
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935679
 guidatv.quotidiano.net###Leader
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Japanese
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/14
+atwiki.jp##.at_h_clearfix
+atwiki.jp##.adsbygoogle
+atwiki.jp###ads
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Japanese NSFW
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/14
+momoniji.com##iframe[src="http://momoniji.com/rss/momonijitopRSS.html"]
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
