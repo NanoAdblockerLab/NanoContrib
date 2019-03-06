@@ -33,7 +33,7 @@ pokemonpets.com##.NiceBg[style^="width: 120px; "]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024370
 mightytext.net###ad-block-holder
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/13
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935679
 filehorse.com##div[class^="dx-pr-"]
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -298,10 +298,10 @@ flipside.keenspot.com###flip_dafoot
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103880
 fallouttoyworks.keenspot.com##div[class="shadow"]:has(div[id^="div-gpt-ad-"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/13
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935557
 simkl.com##.blockplacecenter
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/13
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935577
 color-hex.com##hr
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -322,7 +322,7 @@ motherless.com##.text-right.col-lg-4.col-xs-12.col-sm-12.view-right > div:nth-of
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149803
 excite.it##.cLeft.alpha.g_3
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/13
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935679
 guidatv.quotidiano.net###Leader
 
 # -------------------------------------------------------------------------------------------------------------------- #
