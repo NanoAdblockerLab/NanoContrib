@@ -304,9 +304,6 @@ simkl.com##.blockplacecenter
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935577
 color-hex.com##hr
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/14#issuecomment-469960183
-clik.pw##.adsbygoogle
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/14#issuecomment-469960254
 roleplay.me###copyright1
 roleplay.me##div.center:has-text(Advertisement)
