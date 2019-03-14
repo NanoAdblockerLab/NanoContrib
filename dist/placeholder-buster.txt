@@ -36,6 +36,10 @@ mightytext.net###ad-block-holder
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935679
 filehorse.com##div[class^="dx-pr-"]
 
+# https://github.com/NanoAdblocker/NanoFilters/issues/286
+encoretvb.com###square-ad-1
+encoretvb.com###leaderboard-ad-1
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # Dhivehi
