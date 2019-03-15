@@ -12,11 +12,13 @@
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/16
 pixiv.net##._1N-LC6t
 pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
 pixiv.net##div:nth-of-type(2) > ._3jgsYyw
 pixiv.net##iframe[name="footer"]
+pixiv.net##.ad-frame-container
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
@@ -43,6 +45,13 @@ encoretvb.com###leaderboard-ad-1
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121519
 gamejolt.com##.-ad
 gamejolt.com##.section-thin.section
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Chinese Simplified
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/16
+weibo.com##.UG_bn_a
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
@@ -329,6 +338,9 @@ fearby.com###custom_html-22 > .widget-wrap.widget_text
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121542
 thesimsresource.com##.crtv-top-wrapper
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/16
+myspace.com##.container-main > ul > li:has(div[id="ad-placement"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
