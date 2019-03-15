@@ -40,7 +40,7 @@ filehorse.com##div[class^="dx-pr-"]
 encoretvb.com###square-ad-1
 encoretvb.com###leaderboard-ad-1
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/15
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121519
 gamejolt.com##.-ad
 gamejolt.com##.section-thin.section
 
@@ -327,7 +327,7 @@ fearby.com##.entry-content > p:has-text(Advertisement:)
 fearby.com###custom_html-19 > .widget-wrap.widget_text > .widget-title.widgettitle
 fearby.com###custom_html-22 > .widget-wrap.widget_text
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/15
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121542
 thesimsresource.com##.crtv-top-wrapper
 
 # -------------------------------------------------------------------------------------------------------------------- #
