@@ -46,6 +46,9 @@ encoretvb.com###leaderboard-ad-1
 gamejolt.com##.-ad
 gamejolt.com##.section-thin.section
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/16
+dailymotion.com##div[class^="AdDiscovery"]
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # Chinese Simplified
