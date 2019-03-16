@@ -18,7 +18,9 @@ pixiv.net##._2vNejsc
 pixiv.net##.ads-top-info
 pixiv.net##div:nth-of-type(2) > ._3jgsYyw
 pixiv.net##iframe[name="footer"]
+!#if env_mobile
 pixiv.net##.ad-frame-container
+!#endif
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
