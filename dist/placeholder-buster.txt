@@ -306,11 +306,13 @@ itstillworks.com##div.whitecard:has(script[src*="/pagead/"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024467
 ||m.majorgeeks.com/mg/mg.html$subdocument
 
+!#if env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024499
 ultimate-guitar.com##.js-top-adv
 ultimate-guitar.com##.js-tab-banner-middle
 ultimate-guitar.com##bidding-wrapper
 ultimate-guitar.com##.js-ad-alternative
+!#endif
 
 # https://github.com/NanoMeow/QuickReports/issues/714
 travelchannel.com##body:style(margin: 0px !important)
