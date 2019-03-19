@@ -13,11 +13,8 @@
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483145
-pixiv.net##._1N-LC6t
-pixiv.net##._2vNejsc
+pixiv.net##div:has(:scope > iframe:not([src]))
 pixiv.net##.ads-top-info
-pixiv.net##div:nth-of-type(2) > ._3jgsYyw
-pixiv.net##iframe[name="footer"]
 !#if env_mobile
 pixiv.net##.ad-frame-container
 !#endif
