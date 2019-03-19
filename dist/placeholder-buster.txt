@@ -384,7 +384,7 @@ atwiki.jp###ads
 # Japanese NSFW
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/14#issuecomment-469960159
-momoniji.com##iframe[src="http://momoniji.com/rss/momonijitopRSS.html"]
+momoniji.com##.widget-content-top:has(script[src*="://blogroll.livedoor.net/js/blogroll.js"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
