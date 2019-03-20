@@ -52,18 +52,9 @@ dailymotion.com##div[class^="AdDiscovery"]
 myspace.com##.container-main > ul > li:has(div[id="ad-placement"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/17
-!#if env_mobile
-instagram.com##footer:style(margin-top: 25px !important)
-!#endif
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/17
-techadvisor.*##.adsbygoogle
 techadvisor.*###topLeaderBoardHolder
 techadvisor.*###marketPlace
 techadvisor.*###bottomLeaderBoardHolder
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/17
-change.org##p:has-text(/^\xA0$/):not(:has-text(/[a-z]/i))
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
@@ -364,7 +355,7 @@ thesimsresource.com##.crtv-top-wrapper
 forbes.com##.adblock-unused
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/17
-howto-connect.com##.widget_text_smart:has(script[src*="adsbygoogle.js"])
+howto-connect.com##.widget_text_smart:has(ins.adsbygoogle)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
