@@ -51,6 +51,11 @@ dailymotion.com##div[class^="AdDiscovery"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483169
 myspace.com##.container-main > ul > li:has(div[id="ad-placement"])
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/17
+techadvisor.*###topLeaderBoardHolder
+techadvisor.*###marketPlace
+techadvisor.*###bottomLeaderBoardHolder
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # Chinese Simplified
@@ -345,6 +350,12 @@ fearby.com###custom_html-22 > .widget-wrap.widget_text
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121542
 thesimsresource.com##.crtv-top-wrapper
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/17
+forbes.com##.adblock-unused
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/17
+howto-connect.com##.widget_text_smart:has(ins.adsbygoogle)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
