@@ -360,6 +360,9 @@ howto-connect.com##.widget_text_smart:has(ins.adsbygoogle)
 # https://github.com/NanoMeow/QuickReports/issues/140
 mangarock.com##div:has(:scope > [id^="taboola"])
 
+# https://github.com/NanoMeow/QuickReports/issues/372
+usgamer.net##.leaderboard-container
+
 # -------------------------------------------------------------------------------------------------------------------- #
 
 # English NSFW
