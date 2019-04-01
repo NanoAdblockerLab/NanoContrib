@@ -56,6 +56,10 @@ techadvisor.*###topLeaderBoardHolder
 techadvisor.*###marketPlace
 techadvisor.*###bottomLeaderBoardHolder
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+whatmobile.com.pk##div[style^="background-color"]:has(script[src*="adsbygoogle.js"])
+whatmobile.com.pk##div[style^="height:610px"]
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -437,20 +441,6 @@ slobodenpecat.mk###stream-item-widget-4:has(img[src*="ADVERTISMENT"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
-# Pakistani languages (incl. Urdu, Punjabi, and Pashto)
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
-express.pk###div-gpt-native
-express.pk##div[id^="div-gpt-mrec"]
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
-whatmobile.com.pk##div[style^="background-color"]:has(script[src*="adsbygoogle.js"])
-whatmobile.com.pk##div[style^="height:610px"]
-
-# End Pakistani languages
-
-# -------------------------------------------------------------------------------------------------------------------- #
-
 # Portuguese
 
 # https://github.com/jspenguin2017/uBlockProtector/issues/843
@@ -464,5 +454,15 @@ dn.pt##.t-pub-inner
 vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 
 # End Portuguese
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Urdu
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+express.pk###div-gpt-native
+express.pk##div[id^="div-gpt-mrec"]
+
+# End Urdu
 
 # -------------------------------------------------------------------------------------------------------------------- #
