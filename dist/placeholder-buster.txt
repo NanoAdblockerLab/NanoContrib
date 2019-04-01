@@ -56,7 +56,7 @@ techadvisor.*###topLeaderBoardHolder
 techadvisor.*###marketPlace
 techadvisor.*###bottomLeaderBoardHolder
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18#issuecomment-478412816
 whatmobile.com.pk##div[style^="background-color"]:has(script[src*="adsbygoogle.js"])
 whatmobile.com.pk##div[style^="height:610px"]
 
@@ -424,17 +424,17 @@ momoniji.com##.widget-content-top:has(script[src*="://blogroll.livedoor.net/js/b
 
 # Macedonian
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18#issuecomment-478412834
 press24.mk##.field-item > div
 press24.mk##p:has-text(/^\xA0$/):not(:has-text(/[a-z]/i))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18#issuecomment-478412859
 kajgana.com##.view-header:has(div[class^="ad "])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18#issuecomment-478412874
 gol.mk###banner-sidebar
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18#issuecomment-478412889
 slobodenpecat.mk###stream-item-widget-4:has(img[src*="ADVERTISMENT"])
 
 # End Macedonian
@@ -459,7 +459,7 @@ vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 
 # Urdu
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18#issuecomment-478412786
 express.pk###div-gpt-native
 express.pk##div[id^="div-gpt-mrec"]
 
