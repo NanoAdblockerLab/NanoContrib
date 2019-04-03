@@ -60,7 +60,23 @@ techadvisor.*###bottomLeaderBoardHolder
 whatmobile.com.pk##div[style^="background-color"]:has(script[src*="adsbygoogle.js"])
 whatmobile.com.pk##div[style^="height:610px"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/19
+echoroukonline.com##.ads-unit
+echoroukonline.com##.t3c__grid > div:has(.side-ads)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/19
+prothomalo.com##.common_google_ads
+
 # End Multilingual
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Arabic
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/19
+ahram.org.eg###AdsFloating_divFloating
+
+# End Arabic
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
