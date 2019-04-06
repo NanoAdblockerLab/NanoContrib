@@ -473,6 +473,15 @@ vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Spanish
+
+# https://github.com/NanoMeow/QuickReports/issues/852
+yoututosjeff.es##.widget-content:has(:scope > .adsbygoogle)
+
+# End Spanish
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # Urdu
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/18#issuecomment-478412786
