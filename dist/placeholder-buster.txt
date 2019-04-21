@@ -319,9 +319,9 @@ reality.news##.whtaph
 reality.news##.whtaph-floatbox
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454620247
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/20#issuecomment-485269965
 alcpu.com###topbarad
 alcpu.com###navlinkad
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
 alcpu.com###breakbarad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806107
@@ -391,7 +391,7 @@ mangarock.com##div:has(:scope > [id^="taboola"])
 # https://github.com/NanoMeow/QuickReports/issues/372
 usgamer.net##.leaderboard-container
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/20#issuecomment-485269960
 manualslib.com##.manualban-bot
 
 # End English
@@ -413,7 +413,7 @@ motherless.com##.text-right.col-lg-4.col-xs-12.col-sm-12.view-right > div:nth-of
 
 # German
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/20#issuecomment-485269968
 manualslib.de##.advertising_box
 
 # End German
