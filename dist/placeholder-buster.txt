@@ -321,6 +321,8 @@ reality.news##.whtaph-floatbox
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454620247
 alcpu.com###topbarad
 alcpu.com###navlinkad
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
+alcpu.com###breakbarad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806107
 borncity.com##.code-block
@@ -391,9 +393,6 @@ usgamer.net##.leaderboard-container
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/18
 manualslib.com##.manualban-bot
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/18
-alcpu.com###breakbarad
 
 # End English
 
