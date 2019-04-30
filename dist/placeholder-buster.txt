@@ -21,8 +21,10 @@ pixiv.net##.ad-frame-container
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/21
 reddit.com##div.fePAzF:has(div[id^="sidebar-"])
 reddit.com###overlay-comment-atf
+reddit.com###comment-atf
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593858
 quizlet.com##.ModeLayout-ad
@@ -393,6 +395,9 @@ usgamer.net##.leaderboard-container
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/20#issuecomment-485269960
 manualslib.com##.manualban-bot
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/21
+opencritic.com##.review-row:has(app-advertisement)
 
 # End English
 
