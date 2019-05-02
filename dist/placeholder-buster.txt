@@ -82,12 +82,15 @@ ahram.org.eg###AdsFloating_divFloating
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
-# Simplified Chinese
+# Chinese (Simplified)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483183
 weibo.com##.UG_bn_a
 
-# End Simplified Chinese
+# https://github.com/uBlockOrigin/uAssets/issues/5489#issuecomment-488207423
+102bank.com##div.sidebar:has(:scope > .adsbygoogle)
+
+# End Chinese (Simplified)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
