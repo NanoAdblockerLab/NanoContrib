@@ -401,6 +401,9 @@ manualslib.com##.manualban-bot
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/21#issuecomment-487796563
 opencritic.com##.review-row:has(app-advertisement)
 
+# https://github.com/NanoMeow/QuickReports/issues/828
+cutestat.com##.top_banner
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
