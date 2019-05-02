@@ -138,7 +138,6 @@ cryptomininggame.com##.panel-warning:has(:scope > header > h2:has-text(Advertise
 foodnetwork.com##body:style(margin-top: 0px !important;)
 
 # https://github.com/NanoMeow/QuickReports/issues/216
-rockpapershotgun.com##.leaderboards
 rockpapershotgun.com##.mpu.collapsible:has(:scope > p:has-text(Advertisement))
 
 # https://github.com/NanoMeow/QuickReports/issues/218
