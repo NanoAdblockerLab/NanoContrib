@@ -78,6 +78,10 @@ prothomalo.com##.common_google_ads
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/19#issuecomment-479280307
 ahram.org.eg###AdsFloating_divFloating
 
+# https://github.com/NanoMeow/QuickReports/issues/1135
+filgoal.com##.ads.mediumrectangle
+filgoal.com##div.nth1:has(:scope > #POSTQUARE_WIDGET_ASIDE)
+
 # End Arabic
 
 # -------------------------------------------------------------------------------------------------------------------- #
