@@ -411,10 +411,10 @@ cutestat.com##.top_banner
 # https://github.com/NanoMeow/QuickReports/issues/971
 techradar.com##[class^="slot-"]:has(:scope > div:has-text(Advertisement))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/22
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/22#issuecomment-489475629
 bartleby.com##li[id^="div-gpt-ad-"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/22
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/22#issuecomment-489475633
 cardgames.io##.don-draper
 
 # End English
