@@ -451,6 +451,9 @@ excite.it##.cLeft.alpha.g_3
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935679
 guidatv.quotidiano.net###Leader
 
+# https://github.com/NanoMeow/QuickReports/issues/1177
+avellinotoday.it,casertanews.it##.slots:has(:scope > .slot)
+
 # End Italian
 
 # -------------------------------------------------------------------------------------------------------------------- #
