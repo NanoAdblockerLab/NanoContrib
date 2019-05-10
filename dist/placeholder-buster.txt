@@ -439,6 +439,9 @@ motherless.com##.text-right.col-lg-4.col-xs-12.col-sm-12.view-right > div:nth-of
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/20#issuecomment-485269968
 manualslib.de##.advertising_box
 
+# https://github.com/NanoMeow/QuickReports/issues/1188
+welt.de##.c-ad__medium-rectangle
+
 # End German
 
 # -------------------------------------------------------------------------------------------------------------------- #
