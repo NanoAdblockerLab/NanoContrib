@@ -70,7 +70,7 @@ echoroukonline.com##.t3c__grid > div:has(.side-ads)
 prothomalo.com##.common_google_ads
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/23
-###WikiaTopAds
+fandom.com,wikia.com###WikiaTopAds
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/23
 reuters.com##.RightRail_sticky:has(.DPSlot_slot)
