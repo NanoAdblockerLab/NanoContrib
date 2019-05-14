@@ -69,6 +69,12 @@ echoroukonline.com##.t3c__grid > div:has(.side-ads)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/19#issuecomment-479280292
 prothomalo.com##.common_google_ads
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/23
+fandom.com,wikia.com###WikiaTopAds
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/23
+reuters.com##.RightRail_sticky:has(.DPSlot_slot)
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
