@@ -423,6 +423,9 @@ bartleby.com##li[id^="div-gpt-ad-"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/22#issuecomment-489475633
 cardgames.io##.don-draper
 
+# https://github.com/NanoMeow/QuickReports/issues/1082
+y2mate.com###adv_box
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
