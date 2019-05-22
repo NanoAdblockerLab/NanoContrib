@@ -75,11 +75,11 @@ fandom.com,wikia.com###WikiaTopAds
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/23#issuecomment-492038353
 reuters.com##.RightRail_sticky:has(.DPSlot_slot)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/24
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494611966
 1001freefonts.com##.topAd
 1001freefonts.com##.footerPageAds
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/24
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494611995
 fonts2u.com###banner_bottom
 
 # End Multilingual
@@ -433,19 +433,19 @@ cardgames.io##.don-draper
 # https://github.com/NanoMeow/QuickReports/issues/1082
 y2mate.com###adv_box
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/24
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494612037
 fontspace.com###column-1 > .pad:has(script[src$="/show_ads.js"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/24
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494612056
 dafontfree.net##.box:has(:scope > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/24
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494612092
 freefontsdownload.net##li:has(:scope > div > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/24
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494612114
 blogfonts.com##.column_right:has(.adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/24
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494612139
 webfonts0.com##div:has(:scope > .adsbygoogle)
 
 # End English
