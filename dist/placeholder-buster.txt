@@ -472,7 +472,6 @@ motherless.com##.text-right.col-lg-4.col-xs-12.col-sm-12.view-right > div:nth-of
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/25
 rule34.paheal.net##section:has(:scope > .blockbody > span > a[href$="/bad_ads"])
-rule34.paheal.net##a:has(:scope > img[src*="/ads/"])
 rule34.paheal.net##.blockbody:has(a[href$="/bad_ads"]) > br
 rule34.paheal.net##.blockbody > [href="https://rule34.paheal.net/wiki/bad_ads"]
 rule34.paheal.net##section:has(:scope > .blockbody > div[align="center"])
