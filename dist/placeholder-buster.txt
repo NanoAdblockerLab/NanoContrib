@@ -82,6 +82,9 @@ reuters.com##.RightRail_sticky:has(.DPSlot_slot)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494611995
 fonts2u.com###banner_bottom
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/25
+grammaire.reverso.net,grammar.reverso.net###ads
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -450,6 +453,9 @@ webfonts0.com##div:has(:scope > .adsbygoogle)
 
 # https://github.com/NanoMeow/QuickReports/issues/1043
 bleepingcomputer.com##.cz-related-article-wrapp:has(:scope > .adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/25
+thehardtimes.net##.code-block:has(script:has-text(googletag))
 
 # End English
 
