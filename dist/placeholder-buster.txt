@@ -82,6 +82,9 @@ reuters.com##.RightRail_sticky:has(.DPSlot_slot)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494611995
 fonts2u.com###banner_bottom
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/25
+grammaire.reverso.net,grammar.reverso.net###ads
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -451,6 +454,9 @@ webfonts0.com##div:has(:scope > .adsbygoogle)
 # https://github.com/NanoMeow/QuickReports/issues/1043
 bleepingcomputer.com##.cz-related-article-wrapp:has(:scope > .adsbygoogle)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/25
+thehardtimes.net##.code-block:has(script:has-text(googletag))
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -463,6 +469,12 @@ yespornplease.com##.well:has(:scope > center > iframe[src^="https://a.adtng.com/
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454620635
 motherless.com###main > .text-center:has(div[id^="ad-footer-"])
 motherless.com##.text-right.col-lg-4.col-xs-12.col-sm-12.view-right > div:nth-of-type(1)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/25
+rule34.paheal.net##section:has(:scope > .blockbody > span > a[href$="/bad_ads"])
+rule34.paheal.net##.blockbody:has(a[href$="/bad_ads"]) > br
+rule34.paheal.net##.blockbody > [href="https://rule34.paheal.net/wiki/bad_ads"]
+rule34.paheal.net##section:has(:scope > .blockbody > div[align="center"])
 
 # End English NSFW
 
