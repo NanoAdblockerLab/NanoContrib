@@ -466,6 +466,9 @@ howtogeek.com##.article-bottom
 # https://github.com/NanoMeow/QuickReports/issues/1289
 postbulletin.com##.automatic-ad
 
+# https://github.com/NanoMeow/QuickReports/issues/1291
+fox10phoenix.com##.mod-inline-taboola
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
