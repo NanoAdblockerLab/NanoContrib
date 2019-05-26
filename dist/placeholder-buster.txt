@@ -463,6 +463,9 @@ itprotoday.com##.banner-top-wrapper
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/26#issuecomment-495962653
 howtogeek.com##.article-bottom
 
+# https://github.com/NanoMeow/QuickReports/issues/1289
+postbulletin.com##.automatic-ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
