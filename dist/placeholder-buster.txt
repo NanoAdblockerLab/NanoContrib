@@ -537,6 +537,7 @@ momoniji.com##.widget-content-top:has(script[src*="://blogroll.livedoor.net/js/b
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/26
 clien.net##.view_center_ad
+clien.net##.view_bottom_ad
 clien.net##.main_center_ad
 clien.net##.main_top_ad
 
