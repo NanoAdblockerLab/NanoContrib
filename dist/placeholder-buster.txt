@@ -457,6 +457,12 @@ bleepingcomputer.com##.cz-related-article-wrapp:has(:scope > .adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/25#issuecomment-495819425
 thehardtimes.net##.code-block:has(script:has-text(googletag))
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/26
+itprotoday.com##.banner-top-wrapper
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/26
+howtogeek.com##.article-bottom
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -524,6 +530,15 @@ atwiki.jp###ads
 momoniji.com##.widget-content-top:has(script[src*="://blogroll.livedoor.net/js/blogroll.js"])
 
 # End Japanese NSFW
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Korean
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/26
+clien.net##.view_center_ad
+
+# End Korean
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
