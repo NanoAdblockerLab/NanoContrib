@@ -457,10 +457,10 @@ bleepingcomputer.com##.cz-related-article-wrapp:has(:scope > .adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/25#issuecomment-495819425
 thehardtimes.net##.code-block:has(script:has-text(googletag))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/26
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/26#issuecomment-495962647
 itprotoday.com##.banner-top-wrapper
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/26
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/26#issuecomment-495962653
 howtogeek.com##.article-bottom
 
 # End English
@@ -535,7 +535,7 @@ momoniji.com##.widget-content-top:has(script[src*="://blogroll.livedoor.net/js/b
 
 # Korean
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/26
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/26#issuecomment-495962642
 clien.net##.view_center_ad
 clien.net##.view_bottom_ad
 clien.net##.main_center_ad
