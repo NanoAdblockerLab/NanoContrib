@@ -85,11 +85,11 @@ fonts2u.com###banner_bottom
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/25#issuecomment-495819437
 grammaire.reverso.net,grammar.reverso.net###ads
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/27
-skiinfo.*,onthesnow.*###adpos_Skyscraper_wrap
-skiinfo.*,onthesnow.*##.leaderboard
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/27#issuecomment-497180207
+onthesnow.*,skiinfo.*###adpos_Skyscraper_wrap
+onthesnow.*,skiinfo.*##.leaderboard
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/27
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/27#issuecomment-497180227
 travellink.*##.od-advertisement-promoblock-wrapper
 travellink.*##.od-home-bottom-advertisement
 
