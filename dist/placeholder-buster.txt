@@ -537,6 +537,9 @@ atwiki.jp##.at_h_clearfix
 atwiki.jp##.adsbygoogle
 atwiki.jp###ads
 
+# https://github.com/NanoMeow/QuickReports/issues/1344
+9ketsuki.info###sougo_rss
+
 # End Japanese
 
 # -------------------------------------------------------------------------------------------------------------------- #
