@@ -480,6 +480,9 @@ fox10phoenix.com##.mod-inline-taboola
 # https://github.com/NanoMeow/QuickReports/issues/1329
 thestar.com##.seo-media-query
 
+# https://github.com/uBlockOrigin/uAssets/issues/5767
+firmwarefiledownload.xyz##center:has(:scope > .adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
