@@ -492,6 +492,9 @@ releases.com##.p-shop-releated
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/28#issuecomment-500096176
 colourmylearning.com##.code-block
 
+# https://github.com/NanoAdblocker/NanoFilters/issues/348
+nexusradio.com##div:has(:scope > .adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
