@@ -521,7 +521,9 @@ rule34.paheal.net##section:has(:scope > .blockbody > div[align="center"])
 manualslib.de##.advertising_box
 
 # https://github.com/NanoMeow/QuickReports/issues/1188
+# https://github.com/NanoMeow/QuickReports/issues/1356
 welt.de##.c-ad__medium-rectangle
+welt.de##.c-placeholder--is-rectangle-ad
 
 # End German
 
