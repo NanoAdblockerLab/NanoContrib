@@ -483,13 +483,13 @@ thestar.com##.seo-media-query
 # https://github.com/uBlockOrigin/uAssets/issues/5767
 firmwarefiledownload.xyz##center:has(:scope > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/28
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/28#issuecomment-500096145
 tbivision.com##.advert
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/28
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/28#issuecomment-500096159
 releases.com##.p-shop-releated
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/28
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/28#issuecomment-500096176
 colourmylearning.com##.code-block
 
 # End English
