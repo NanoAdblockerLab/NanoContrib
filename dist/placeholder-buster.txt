@@ -495,7 +495,7 @@ colourmylearning.com##.code-block
 # https://github.com/NanoAdblocker/NanoFilters/issues/348
 nexusradio.com##div:has(:scope > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/29
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/29#issuecomment-500229662
 www.wishafriend.com##.msg-sec:has(script[src*="/adsbygoogle"])
 www.wishafriend.com##.rw_ad
 www.wishafriend.com##.masonry-brick:has(script[src*="/pagead/"])
