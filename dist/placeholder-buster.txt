@@ -503,6 +503,13 @@ m.wishafriend.com##div[id^="rockcat"] > div:has(script[src*="/adsbygoogle"])
 m.wishafriend.com###mid > div:has(:scope > div > .adsbygoogle)
 m.wishafriend.com###body > div:has(:scope > div > script[src*="/adsbygoogle"])
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/30
+phoronix.com##div:has(:scope > div[id^="div-pg-ad"])
+phoronix.com##aside:has(:scope > div > script[src$="/gpt.js"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/30
+lists.malwarepatrol.net##.right:has(:scope > h3:has-text(Ads by Google))
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
