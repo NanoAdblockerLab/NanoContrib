@@ -48,7 +48,9 @@ gamejolt.com##.-ad
 gamejolt.com##.section-thin.section
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483200
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
 dailymotion.com##div[class^="AdDiscovery"]
+dailymotion.com##div[class*="_adCell_"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483169
 myspace.com##.container-main > ul > li:has(div[id="ad-placement"])
@@ -136,6 +138,15 @@ dhuvas.mv##.vc_column-inner:has(img[alt="muniad"])
 dhuvas.mv##.vc_column-inner:has(img[alt="sportsad"])
 
 # End Dhivehi
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Dutch
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+allenetflixseries.nl##.textwidget > p:has(:scope > script[src*="/adsbygoogle"])
+
+# End Dutch
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
@@ -510,6 +521,12 @@ phoronix.com##aside:has(:scope > div > script[src$="/gpt.js"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/30#issuecomment-501075906
 lists.malwarepatrol.net##.right:has(:scope > h3:has-text(Ads by Google))
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+comicbookrealm.com###rad
+comicbookrealm.com###brad
+comicbookrealm.com###sad
+comicbookrealm.com###tad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -530,6 +547,15 @@ rule34.paheal.net##.blockbody > [href="https://rule34.paheal.net/wiki/bad_ads"]
 rule34.paheal.net##section:has(:scope > .blockbody > div[align="center"])
 
 # End English NSFW
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# French
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+hollywoodpq.com##.oboxads-outstream
+
+# End French
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
