@@ -48,7 +48,7 @@ gamejolt.com##.-ad
 gamejolt.com##.section-thin.section
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483200
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501929990
 dailymotion.com##div[class^="AdDiscovery"]
 dailymotion.com##div[class*="_adCell_"]
 
@@ -143,7 +143,7 @@ dhuvas.mv##.vc_column-inner:has(img[alt="sportsad"])
 
 # Dutch
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501930025
 allenetflixseries.nl##.textwidget > p:has(:scope > script[src*="/adsbygoogle"])
 
 # End Dutch
@@ -521,7 +521,7 @@ phoronix.com##aside:has(:scope > div > script[src$="/gpt.js"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/30#issuecomment-501075906
 lists.malwarepatrol.net##.right:has(:scope > h3:has-text(Ads by Google))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501930011
 comicbookrealm.com###rad
 comicbookrealm.com###brad
 comicbookrealm.com###sad
@@ -552,7 +552,7 @@ rule34.paheal.net##section:has(:scope > .blockbody > div[align="center"])
 
 # French
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501930046
 hollywoodpq.com##.oboxads-outstream
 
 # End French
