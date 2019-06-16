@@ -527,6 +527,9 @@ comicbookrealm.com###brad
 comicbookrealm.com###sad
 comicbookrealm.com###tad
 
+# https://github.com/NanoMeow/QuickReports/issues/1382
+allkpop.com##article:has(script):not(:has(article))
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
