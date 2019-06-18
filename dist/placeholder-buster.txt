@@ -553,15 +553,6 @@ rule34.paheal.net##section:has(:scope > .blockbody > div[align="center"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
-# French
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501930046
-hollywoodpq.com##.oboxads-outstream
-
-# End French
-
-# -------------------------------------------------------------------------------------------------------------------- #
-
 # German
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/20#issuecomment-485269968
