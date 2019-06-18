@@ -587,6 +587,9 @@ guidatv.quotidiano.net###Leader
 # https://github.com/NanoMeow/QuickReports/issues/1177
 avellinotoday.it,casertanews.it##.slots:has(:scope > .slot)
 
+# https://github.com/NanoMeow/QuickReports/issues/1147
+mobimart.it##.widget_text.item:has(script[src^="//served-by.pixfuture.com/"])
+
 # End Italian
 
 # -------------------------------------------------------------------------------------------------------------------- #
