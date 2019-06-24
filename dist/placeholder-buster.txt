@@ -530,10 +530,11 @@ comicbookrealm.com###tad
 # https://github.com/NanoMeow/QuickReports/issues/1382
 allkpop.com##article:has(script):not(:has(article))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800272
 ghanafa.org##.fa-advertising__content
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/31
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800291
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800299
 preview.u-manual.com##.ads_div1
 www.u-manual.com##.sidebar > ul > li:has-text(ADS:)
 
