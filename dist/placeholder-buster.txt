@@ -22,9 +22,11 @@ pixiv.net##.ad-frame-container
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/21#issuecomment-487796545
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
 reddit.com##div.fePAzF:has(div[id^="sidebar-"])
 reddit.com###overlay-comment-atf
 reddit.com###comment-atf
+reddit.com##div[data-redditstyle="false"]:has(div[data-before-content="advertisement"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593858
 quizlet.com##.ModeLayout-ad
@@ -537,6 +539,12 @@ ghanafa.org##.fa-advertising__content
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800299
 preview.u-manual.com##.ads_div1
 www.u-manual.com##.sidebar > ul > li:has-text(ADS:)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
+diskingdom.com##.clearfix.widget_text.widget
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
+windowslatest.com##aside:has-text(Advertisement)
 
 # End English
 
