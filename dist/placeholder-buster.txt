@@ -198,7 +198,10 @@ avsforum.com##.large-4.medium-6.small-12:has([class=ad-wrapper])
 gadgethacks.com##.whtaph-floatbox
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592252
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
 tomshardware.*##.p-u-md-1-3.p-u-1:has(div[class*="block-ads"])
+tomshardware.*###in_article
+tomshardware.*###below_the_article
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592293
 issuu.com##div[class*="adPlacementContainer"]
