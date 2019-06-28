@@ -546,6 +546,9 @@ diskingdom.com##.clearfix.widget_text.widget
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/33
 windowslatest.com##aside:has-text(Advertisement)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
+clydefitchreport.com##center
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
