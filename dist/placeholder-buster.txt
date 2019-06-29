@@ -22,7 +22,7 @@ pixiv.net##.ad-frame-container
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/21#issuecomment-487796545
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915459
 reddit.com##div.fePAzF:has(div[id^="sidebar-"])
 reddit.com###overlay-comment-atf
 reddit.com###comment-atf
@@ -198,7 +198,7 @@ avsforum.com##.large-4.medium-6.small-12:has([class=ad-wrapper])
 gadgethacks.com##.whtaph-floatbox
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592252
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915515
 tomshardware.*##.p-u-md-1-3.p-u-1:has(div[class*="block-ads"])
 tomshardware.*###in_article
 tomshardware.*###below_the_article
@@ -543,13 +543,13 @@ ghanafa.org##.fa-advertising__content
 preview.u-manual.com##.ads_div1
 www.u-manual.com##.sidebar > ul > li:has-text(ADS:)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915470
 diskingdom.com##.clearfix.widget_text.widget
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915486
 windowslatest.com##aside:has-text(Advertisement)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/33
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915507
 clydefitchreport.com##center
 
 # End English
