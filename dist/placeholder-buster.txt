@@ -97,6 +97,18 @@ onthesnow.*,skiinfo.*##.leaderboard
 travellink.*##.od-advertisement-promoblock-wrapper
 travellink.*##.od-home-bottom-advertisement
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+worldcosplay.net###bottomCenter:has(:scope > .ads)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+ateli.com##.mw-xl:has(:scope > ins.adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+emotionflow.com##.Ad3Tile
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+raiot.net##.single-page
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -617,6 +629,22 @@ atwiki.jp###ads
 # https://github.com/NanoMeow/QuickReports/issues/1344
 9ketsuki.info###sougo_rss
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+picrew.me##.search_imagemaker_list_ad
+picrew.me##.search_sidebar
+picrew.me##.imagemaker_ad_wrapper
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+tinami.com##.text:has(:scope > script[src*=".adingo.jp/"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+poipiku.com##.SideBarMid
+poipiku.com##.PcSideBarAd
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+min.dododori.com###fix-space
+min.dododori.com##footer:style(padding-bottom: 10px !important)
+
 # End Japanese
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -625,6 +653,10 @@ atwiki.jp###ads
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/14#issuecomment-469960159
 momoniji.com##.widget-content-top:has(script[src*="://blogroll.livedoor.net/js/blogroll.js"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34
+seiga.nicovideo.jp###top_ads_box
+seiga.nicovideo.jp##.ads_prtext
 
 # End Japanese NSFW
 
