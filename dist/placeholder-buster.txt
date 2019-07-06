@@ -109,7 +109,7 @@ emotionflow.com##.Ad3Tile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508300905
 raiot.net##.single-page
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/35
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/35#issuecomment-508885620
 coingecko.com###top-banner
 
 # End Multilingual
@@ -567,7 +567,7 @@ windowslatest.com##aside:has-text(Advertisement)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915507
 clydefitchreport.com##center
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/35
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/35#issuecomment-508885628
 cleantechnica.com##.widget_text:has(span:has-text(/^Advertisement$/))
 cleantechnica.com##center:has(:scope > script[src$="/adsbygoogle.js"])
 cleantechnica.com###homesolarus-ad
