@@ -624,6 +624,15 @@ welt.de##.c-placeholder--is-rectangle-ad
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Hebrew
+
+# https://github.com/NanoMeow/QuickReports/issues/1420
+13news.co.il,13tv.co.il##div[class^="grid-block"]:has(:scope > iframe[src*="/third-party/dfp/dfp.html"])
+
+# End Hebrew
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # Italian
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149803
