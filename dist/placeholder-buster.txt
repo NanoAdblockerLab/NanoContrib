@@ -112,6 +112,10 @@ raiot.net##.single-page
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/35#issuecomment-508885620
 coingecko.com###top-banner
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/36
+webcams.travel##.ad
+webcams.travel##.ads
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -572,6 +576,9 @@ cleantechnica.com##.widget_text:has(span:has-text(/^Advertisement$/))
 cleantechnica.com##center:has(:scope > script[src$="/adsbygoogle.js"])
 cleantechnica.com###homesolarus-ad
 cleantechnica.com##p:has(:scope > script[src*="/homesolarus.com/"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/36
+charismamag.com###homepageContentFeaturedArticles li:has(div[id*="/CM-Desktop/"])
 
 # End English
 
