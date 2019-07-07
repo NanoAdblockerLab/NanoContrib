@@ -112,7 +112,7 @@ raiot.net##.single-page
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/35#issuecomment-508885620
 coingecko.com###top-banner
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/36
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/36#issuecomment-509035959
 webcams.travel##.ad
 webcams.travel##.ads
 
@@ -577,13 +577,13 @@ cleantechnica.com##center:has(:scope > script[src$="/adsbygoogle.js"])
 cleantechnica.com###homesolarus-ad
 cleantechnica.com##p:has(:scope > script[src*="/homesolarus.com/"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/36
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/36#issuecomment-509035945
 charismamag.com###homepageContentFeaturedArticles li:has(div[id*="/CM-Desktop/"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/36
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/36#issuecomment-509035969
 investorguide.com###wfi-ad-slot-leaderboard
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/36
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/36#issuecomment-509035975
 joe.ie##div:has(:scope > div[id^="div-gpt-river"])
 joe.ie##.hidden-xs.with-ad
 
