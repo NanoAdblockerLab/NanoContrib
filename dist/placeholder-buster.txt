@@ -583,6 +583,10 @@ charismamag.com###homepageContentFeaturedArticles li:has(div[id*="/CM-Desktop/"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/36
 investorguide.com###wfi-ad-slot-leaderboard
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/36
+joe.ie##div:has(:scope > div[id^="div-gpt-river"])
+joe.ie##.hidden-xs.with-ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
