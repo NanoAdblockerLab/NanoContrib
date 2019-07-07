@@ -580,6 +580,9 @@ cleantechnica.com##p:has(:scope > script[src*="/homesolarus.com/"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/36
 charismamag.com###homepageContentFeaturedArticles li:has(div[id*="/CM-Desktop/"])
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/36
+investorguide.com###wfi-ad-slot-leaderboard
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
