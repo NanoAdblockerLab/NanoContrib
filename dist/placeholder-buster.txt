@@ -116,6 +116,9 @@ coingecko.com###top-banner
 webcams.travel##.ad
 webcams.travel##.ads
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/37
+dwarffortresswiki.org###p-Ad
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -586,6 +589,13 @@ investorguide.com###wfi-ad-slot-leaderboard
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/36#issuecomment-509035975
 joe.ie##div:has(:scope > div[id^="div-gpt-river"])
 joe.ie##.hidden-xs.with-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/37
+phoronix.com##div:has(:scope > div[id^="gpt_"])
+phoronix.com##.axd-widget
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/37
+smackjeeves.com###goo_ad
 
 # End English
 
