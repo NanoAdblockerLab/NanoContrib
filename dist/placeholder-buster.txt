@@ -406,9 +406,7 @@ mythicscribes.com##aside[id^="ai_widget-"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593889
 itstillworks.com##div.whitecard:has(script[src*="/pagead/"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024467
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/38
-||m.majorgeeks.com/mg/mg.html$subdocument
 majorgeeks.com##.geekad
 
 !#if env_mobile
