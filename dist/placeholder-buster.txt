@@ -144,7 +144,7 @@ weibo.com##.UG_bn_a
 # https://github.com/uBlockOrigin/uAssets/issues/5489#issuecomment-488207423
 102bank.com##div.sidebar:has(:scope > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/38
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/38#issuecomment-511089781
 disneybox.com##div:has(:scope > script[src*="/pagead/"])
 
 # End Chinese (Simplified)
@@ -406,7 +406,7 @@ mythicscribes.com##aside[id^="ai_widget-"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593889
 itstillworks.com##div.whitecard:has(script[src*="/pagead/"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/38
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/38#issuecomment-511089775
 majorgeeks.com##.geekad
 
 !#if env_mobile
@@ -600,7 +600,7 @@ phoronix.com##.axd-widget
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/37#issuecomment-510285611
 smackjeeves.com###goo_ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/38
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/38#issuecomment-511089770
 domain-status.com##.aunit
 
 # End English
