@@ -119,7 +119,7 @@ webcams.travel##.ads
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/37#issuecomment-510285588
 dwarffortresswiki.org###p-Ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/39
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/39#issuecomment-512090165
 tripadvisor.com##div[class*="_ad_billboard"]
 
 # End Multilingual
@@ -606,7 +606,7 @@ smackjeeves.com###goo_ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/38#issuecomment-511089770
 domain-status.com##.aunit
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/39
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/39#issuecomment-512090192
 downforeveryoneorjustme.com##.is-hidden-mobile:not(:has-text(/[a-z]/))
 
 # End English
