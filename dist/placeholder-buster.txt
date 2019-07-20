@@ -609,6 +609,9 @@ domain-status.com##.aunit
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/39#issuecomment-512090192
 downforeveryoneorjustme.com##.is-hidden-mobile:not(:has-text(/[a-z]/))
 
+# https://github.com/NanoMeow/QuickReports/issues/1541
+hentaifox.com##.atop
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
