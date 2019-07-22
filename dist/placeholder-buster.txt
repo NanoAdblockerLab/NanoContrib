@@ -122,6 +122,9 @@ dwarffortresswiki.org###p-Ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/39#issuecomment-512090165
 tripadvisor.com##div[class*="_ad_billboard"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/40
+rpmseek.com###lbanner_top
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
