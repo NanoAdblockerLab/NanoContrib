@@ -122,7 +122,7 @@ dwarffortresswiki.org###p-Ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/39#issuecomment-512090165
 tripadvisor.com##div[class*="_ad_billboard"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/40
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/40#issuecomment-514010760
 rpmseek.com###lbanner_top
 
 # End Multilingual
@@ -610,17 +610,17 @@ smackjeeves.com###goo_ad
 domain-status.com##.aunit
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/39#issuecomment-512090192
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/40
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/40#issuecomment-514010695
 downforeveryoneorjustme.com##.is-hidden-mobile:not(:has-text(/[a-z]/))
 downforeveryoneorjustme.com##.is-hidden-mobile:has(.native-js)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/40
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/40#issuecomment-514010717
 indiatimes.com##.md_news_box:has(:scope > div[data-ad-id])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/40
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/40#issuecomment-514010729
 stylecaster.com##.wrapper-header-ad-slot
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/40
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/40#issuecomment-514010743
 lonelyplanet.com##.Ad-wrap
 
 # End English
