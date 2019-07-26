@@ -642,6 +642,15 @@ mgoblog.com##div[id^="block-rawadsense"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/41
 popculture.com###header:style(top: 0px !important)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+mhotspot.com##div:has(:scope > script[src$="/adsbygoogle.js"])
+mhotspot.com##.partners
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+forumotion.com##.forumline:has(div[id^="criteo"]):not(:has(.post))
+forumotion.com##.post:has-text(/^Sponsored content/)
+forumotion.com##.post:has-text(/^Sponsored content/) + tr
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
