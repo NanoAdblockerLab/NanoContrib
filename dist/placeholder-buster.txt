@@ -650,6 +650,10 @@ forumotion.com##.forumline:has(div[id^="criteo"]):not(:has(.post))
 forumotion.com##.post:has-text(/^Sponsored content/)
 forumotion.com##.post:has-text(/^Sponsored content/) + tr
 
+# https://github.com/NanoMeow/QuickReports/issues/1589
+chess.com##.index-content-ad-wrapper
+chess.com##.short-sidebar-ad-component
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
