@@ -126,6 +126,9 @@ tripadvisor.com##div[class*="_ad_billboard"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/40#issuecomment-514010760
 rpmseek.com###lbanner_top
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+edition.cnn.com###story-bottom
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -623,6 +626,30 @@ stylecaster.com##.wrapper-header-ad-slot
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/40#issuecomment-514010743
 lonelyplanet.com##.Ad-wrap
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+itpro.co.uk##.sovrn-onetag-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+cyclingtips.com##.ctips-ad-unit
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+cycling.today##p:has(:scope > script[src$="/adsbygoogle.js"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+mgoblog.com##div[id^="block-rawadsense"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+popculture.com###header:style(top: 0px !important)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+mhotspot.com##div:has(:scope > script[src$="/adsbygoogle.js"])
+mhotspot.com##.partners
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41
+forumotion.com##.forumline:has(div[id^="criteo"]):not(:has(.post))
+forumotion.com##.post:has-text(/^Sponsored content/)
+forumotion.com##.post:has-text(/^Sponsored content/) + tr
 
 # End English
 
