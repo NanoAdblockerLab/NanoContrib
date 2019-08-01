@@ -661,6 +661,9 @@ codesforuniversalremotes.com##.code-block
 yeggi.com##div[style*="f2f2f2"]:not(:has(a))
 yeggi.com##div[style^="margin-right:320px;"]:style(margin-right: 12px !important)
 
+# https://github.com/NanoMeow/QuickReports/issues/1596
+rankedboost.com##[class^="InsertTitle-Updated"]:nth-ancestor(1)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
