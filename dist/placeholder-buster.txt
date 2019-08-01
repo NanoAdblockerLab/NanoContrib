@@ -654,6 +654,13 @@ forumotion.com##.post:has-text(/^Sponsored content/) + tr
 chess.com##.index-content-ad-wrapper
 chess.com##.short-sidebar-ad-component
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/42
+codesforuniversalremotes.com##.code-block
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/42
+yeggi.com##div[style*="f2f2f2"]:not(:has(a))
+yeggi.com##div[style^="margin-right:320px;"]:style(margin-right: 12px !important)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
