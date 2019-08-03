@@ -664,6 +664,11 @@ yeggi.com##div[style^="margin-right:320px;"]:style(margin-right: 12px !important
 # https://github.com/NanoMeow/QuickReports/issues/1596
 rankedboost.com##[class^="InsertTitle-Updated"]:nth-ancestor(1)
 
+# https://github.com/NanoMeow/QuickReports/issues/1612
+acronymfinder.com##[class$="-container"]:has(:scope > script)
+acronymfinder.com##td[colspan="3"]
+acronymfinder.com##div[style]:has(:scope > div[style])
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
