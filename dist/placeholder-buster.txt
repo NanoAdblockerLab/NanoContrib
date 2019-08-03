@@ -669,6 +669,9 @@ acronymfinder.com##[class$="-container"]:has(:scope > script)
 acronymfinder.com##td[colspan="3"]
 acronymfinder.com##div[style]:has(:scope > div[style])
 
+# https://github.com/NanoMeow/QuickReports/issues/35
+quizlet.com##.SiteAd
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
