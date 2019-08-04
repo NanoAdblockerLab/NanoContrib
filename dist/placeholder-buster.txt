@@ -672,10 +672,10 @@ acronymfinder.com##div[style]:has(:scope > div[style])
 # https://github.com/NanoMeow/QuickReports/issues/35
 quizlet.com##.SiteAd
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/43
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/43#issuecomment-518039904
 vg247.com##.newsad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/43
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/43#issuecomment-518039914
 globalnews.ca##.sidebar-ad
 globalnews.ca##.story-ad
 globalnews.ca##.stream-ad
