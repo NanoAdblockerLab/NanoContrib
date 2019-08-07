@@ -129,6 +129,9 @@ rpmseek.com###lbanner_top
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/41#issuecomment-515740473
 edition.cnn.com###story-bottom
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/44
+manuall.*,handleidingkwijt.com,shuomingshu88.com##.col-sm-9 > div:has-text(advertisement)
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -680,6 +683,9 @@ globalnews.ca##.sidebar-ad
 globalnews.ca##.story-ad
 globalnews.ca##.stream-ad
 globalnews.ca##.stream-ad-read-more
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/44
+techjunkie.com##.qualcont
 
 # End English
 
