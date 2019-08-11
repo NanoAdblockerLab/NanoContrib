@@ -687,10 +687,10 @@ globalnews.ca##.stream-ad-read-more
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/44#issuecomment-519327934
 techjunkie.com##.qualcont
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/45
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/45#issuecomment-520242512
 mediabiasfactcheck.com##center:has(script[src*="/adsbygoogle."])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/45
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/45#issuecomment-520242717
 rugbyworld.com##.apester-element
 
 # End English
