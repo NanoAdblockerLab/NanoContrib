@@ -693,7 +693,7 @@ mediabiasfactcheck.com##center:has(script[src*="/adsbygoogle."])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/45#issuecomment-520242717
 rugbyworld.com##.apester-element
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/46
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/46#issuecomment-522807250
 telegraph.co.uk##div[class*="picGrid-"]:has(a[href^="/sponsored/"])
 
 # End English
@@ -789,7 +789,7 @@ poipiku.com##.PcSideBarAd
 min.dododori.com###fix-space
 min.dododori.com##footer:style(padding-bottom: 10px !important)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/46
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/46#issuecomment-522807269
 blog.goo.ne.jp##.content-top
 blog.goo.ne.jp##.content-bottom
 
