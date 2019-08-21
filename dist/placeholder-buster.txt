@@ -15,7 +15,7 @@
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483145
 pixiv.net##div:has(:scope > iframe:not([src]))
 pixiv.net##.ads-top-info
-pixiv.net##.area_new
+pixiv.net##.area_new:not(:has(.area_title))
 !#if env_mobile
 pixiv.net##.ad-frame-container
 !#endif
@@ -695,6 +695,12 @@ rugbyworld.com##.apester-element
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/46#issuecomment-522807250
 telegraph.co.uk##div[class*="picGrid-"]:has(a[href^="/sponsored/"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/47
+dummies.com##.ads
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/47
+fark.com##.top_right_container
 
 # End English
 
