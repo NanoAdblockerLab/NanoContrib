@@ -13,6 +13,7 @@
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483145
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706934
 pixiv.net##div:has(:scope > iframe:not([src]))
 pixiv.net##.ads-top-info
 pixiv.net##.area_new:not(:has(.area_title))
@@ -696,10 +697,10 @@ rugbyworld.com##.apester-element
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/46#issuecomment-522807250
 telegraph.co.uk##div[class*="picGrid-"]:has(a[href^="/sponsored/"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/47
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706866
 dummies.com##.ads
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/47
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706883
 fark.com##.top_right_container
 
 # End English
