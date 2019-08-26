@@ -706,6 +706,12 @@ fark.com##.top_right_container
 # https://github.com/NanoMeow/QuickReports/issues/1723
 imggram.org##div:has(:scope > div[data-ad])
 
+# https://github.com/NanoMeow/QuickReports/issues/1725
+thesilphroad.com###keepinTheLightsOn
+thesilphroad.com###keepinTheLightsOnWrap:style(height: 1px !important;)
+thesilphroad.com##p:has-text(Why Ads?)
+thesilphroad.com##div.light:has(:scope span.ezoic-ad)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
