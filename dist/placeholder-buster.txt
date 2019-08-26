@@ -729,6 +729,15 @@ hentaifox.com##.atop
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# French
+
+# https://github.com/NanoMeow/QuickReports/issues/1724
+20minutes.fr##.ad
+
+# End French
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # German
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/20#issuecomment-485269968
