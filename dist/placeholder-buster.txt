@@ -703,6 +703,9 @@ dummies.com##.ads
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706883
 fark.com##.top_right_container
 
+# https://github.com/NanoMeow/QuickReports/issues/1723
+imggram.org##div:has(:scope > div[data-ad])
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
