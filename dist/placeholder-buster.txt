@@ -712,7 +712,7 @@ thesilphroad.com###keepinTheLightsOnWrap:style(height: 1px !important;)
 thesilphroad.com##p:has-text(Why Ads?)
 thesilphroad.com##div.light:has(:scope span.ezoic-ad)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/48
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/48#issuecomment-525092917
 pinknews.co.uk##div[class^="pn-ad-"]
 
 # End English
@@ -834,7 +834,7 @@ momoniji.com##.widget-content-top:has(script[src*="://blogroll.livedoor.net/js/b
 seiga.nicovideo.jp###top_ads_box
 seiga.nicovideo.jp##.ads_prtext
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/48
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/48#issuecomment-525092904
 toranoana.jp##.tora-ads-list-item
 
 # End Japanese NSFW
