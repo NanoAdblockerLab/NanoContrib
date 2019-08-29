@@ -715,6 +715,15 @@ thesilphroad.com##div.light:has(:scope span.ezoic-ad)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/48#issuecomment-525092917
 pinknews.co.uk##div[class^="pn-ad-"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/49
+austinchronicle.com###top-leaderboard
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/49
+comedycentral.com.au##.pane-vimn-coda-gpt-panes
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/49
+thedailybeast.com##.ConnatixAd
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
