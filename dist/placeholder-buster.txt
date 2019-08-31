@@ -724,13 +724,13 @@ comedycentral.com.au##.pane-vimn-coda-gpt-panes
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/49#issuecomment-526419896
 thedailybeast.com##.ConnatixAd
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/50
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/50#issuecomment-526861679
 friv-games.com##.website-ad-space-area
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/50
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/50#issuecomment-526861685
 appuals.com##div[class^="appua"]:has(:scope > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/50
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/50#issuecomment-526861702
 kongregate.com##.adcontainer
 kongregate.com##div[id^="rec_spot_ad"]
 
