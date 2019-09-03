@@ -734,6 +734,10 @@ appuals.com##div[class^="appua"]:has(:scope > .adsbygoogle)
 kongregate.com##.adcontainer
 kongregate.com##div[id^="rec_spot_ad"]
 
+# https://github.com/NanoMeow/QuickReports/issues/1772
+smashboards.com###otherFooterBlock
+smashboards.com##.funboxWrapper:has([id^="cdm-zone-"])
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
