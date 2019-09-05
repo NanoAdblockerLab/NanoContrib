@@ -133,7 +133,7 @@ edition.cnn.com###story-bottom
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/44#issuecomment-519327973
 manuall.*,handleidingkwijt.com,shuomingshu88.com##.col-sm-9 > div:has-text(advertisement)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/51
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/51#issuecomment-528574601
 vimeo.com##div:has(:scope > div[id^="gpt-ad"][role="complementary"])
 
 # End Multilingual
@@ -741,11 +741,11 @@ kongregate.com##div[id^="rec_spot_ad"]
 smashboards.com###otherFooterBlock
 smashboards.com##.funboxWrapper:has([id^="cdm-zone-"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/51
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/51#issuecomment-528574649
 cracked.com##.col:has(:scope > div[class^="ad2"])
 cracked.com##.injected-ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/51
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/51#issuecomment-528574687
 rumble.com##div[id^="rumble-ad-"]
 
 # End English
