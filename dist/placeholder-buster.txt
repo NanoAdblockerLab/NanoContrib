@@ -748,6 +748,10 @@ cracked.com##.injected-ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/51#issuecomment-528574687
 rumble.com##div[id^="rumble-ad-"]
 
+# https://github.com/NanoMeow/QuickReports/issues/1601
+freecourseweb.com##aside.sidebar-widget:has(ins.adsbygoogle)
+freecourseweb.com##article.post-box:has(ins.adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
