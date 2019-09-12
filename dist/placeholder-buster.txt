@@ -759,6 +759,11 @@ freecourseweb.com##article.post-box:has(ins.adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/52#issuecomment-530634119
 racingcircuits.info##.GoogleSideAd
 
+# https://github.com/NanoMeow/QuickReports/issues/1822
+tomsguide.com##.slot-before_popular_box
+tomsguide.com##.slot-leaderboard
+tomsguide.com##.slot-lightbox1
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
