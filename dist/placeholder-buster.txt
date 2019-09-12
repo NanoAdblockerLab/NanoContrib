@@ -136,7 +136,7 @@ manuall.*,handleidingkwijt.com,shuomingshu88.com##.col-sm-9 > div:has-text(adver
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/51#issuecomment-528574601
 vimeo.com##div:has(:scope > div[id^="gpt-ad"][role="complementary"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/52
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/52#issuecomment-530634140
 distrowatch.com##td:nth-of-type(2) > table.Info
 distrowatch.com##.sovrn-onetag-ad
 
@@ -756,7 +756,7 @@ rumble.com##div[id^="rumble-ad-"]
 freecourseweb.com##aside.sidebar-widget:has(ins.adsbygoogle)
 freecourseweb.com##article.post-box:has(ins.adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/52
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/52#issuecomment-530634119
 racingcircuits.info##.GoogleSideAd
 
 # End English
