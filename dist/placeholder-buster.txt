@@ -761,22 +761,22 @@ tomsguide.com##.slot-before_popular_box
 tomsguide.com##.slot-leaderboard
 tomsguide.com##.slot-lightbox1
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53#issuecomment-531989604
 forward.com###blog-sidebar-ad-container
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53#issuecomment-531989626
 ctrl.blog##.cbox
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53#issuecomment-531989653
 getdroidtips.com##.code-block
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53#issuecomment-531989688
 fonearena.com###sponsor
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53#issuecomment-531989716
 cyanogenmods.org##aside:has(span[id^="ezoic-pub-ad"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53#issuecomment-531989750
 androidfilehost.com##.col-md-4:has-text(advertisement:)
 
 # End English
