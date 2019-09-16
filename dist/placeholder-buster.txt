@@ -779,6 +779,9 @@ cyanogenmods.org##aside:has(span[id^="ezoic-pub-ad"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/53#issuecomment-531989750
 androidfilehost.com##.col-md-4:has-text(advertisement:)
 
+# https://github.com/NanoMeow/QuickReports/issues/1052
+ancient.eu##.pub
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
