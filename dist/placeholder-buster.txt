@@ -764,6 +764,18 @@ tomsguide.com##.slot-before_popular_box
 tomsguide.com##.slot-leaderboard
 tomsguide.com##.slot-lightbox1
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+forward.com###blog-sidebar-ad-container
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+ctrl.blog##.cbox
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+getdroidtips.com##.code-block
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/53
+fonearena.com###sponsor
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
