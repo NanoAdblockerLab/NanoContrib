@@ -791,6 +791,10 @@ apkpure.com##.adsbypure
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533187018
 allrecipes.com###block-karma-slo
 
+# https://github.com/NanoMeow/QuickReports/issues/1865
+typing-speed.net##.advertising_vertical_title
+typing-speed.net##.advertising_horizontal_title
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
