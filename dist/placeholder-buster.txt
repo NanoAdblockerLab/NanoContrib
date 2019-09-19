@@ -140,7 +140,7 @@ vimeo.com##div:has(:scope > div[id^="gpt-ad"][role="complementary"])
 distrowatch.com##td:nth-of-type(2) > table.Info
 distrowatch.com##.sovrn-onetag-ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/54
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533186962
 allrecipes.com.au,allrecipes.co.uk,allrecipes.ca##.gridResponsive__column:has(:scope > .docked_rail > div[id^="ads"])
 
 # End Multilingual
@@ -785,10 +785,10 @@ androidfilehost.com##.col-md-4:has-text(advertisement:)
 # https://github.com/NanoMeow/QuickReports/issues/1052
 ancient.eu##.pub
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/54
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533187215
 apkpure.com##.adsbypure
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/54
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533187018
 allrecipes.com###block-karma-slo
 
 # End English
@@ -816,7 +816,7 @@ rule34.paheal.net##section:has(:scope > .blockbody > div[align="center"])
 # https://github.com/NanoMeow/QuickReports/issues/1541
 hentaifox.com##.atop
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/54
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533187391
 !#if !env_mobile
 rule34.xxx##.content:style(width: calc(100% - 220px) !important)
 !#endif
