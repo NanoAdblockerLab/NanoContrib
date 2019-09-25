@@ -162,7 +162,8 @@ filgoal.com##div.nth1:has(:scope > #POSTQUARE_WIDGET_ASIDE)
 
 # Bosnians
 
-# Nothing for now...
+# https://github.com/NanoMeow/QuickReports/issues/1916
+forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
 
 # End Bosnians
 
