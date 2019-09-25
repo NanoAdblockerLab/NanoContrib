@@ -795,6 +795,10 @@ allrecipes.com###block-karma-slo
 typing-speed.net##.advertising_vertical_title
 typing-speed.net##.advertising_horizontal_title
 
+# https://github.com/NanoMeow/QuickReports/issues/1918
+chowhound.com###mpu_top
+chowhound.com###strnative_top
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
