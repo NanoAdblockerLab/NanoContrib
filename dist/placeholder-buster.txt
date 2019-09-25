@@ -160,6 +160,14 @@ filgoal.com##div.nth1:has(:scope > #POSTQUARE_WIDGET_ASIDE)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Bosnians
+
+# Nothing for now...
+
+# End Bosnians
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # Chinese (Simplified)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483183
