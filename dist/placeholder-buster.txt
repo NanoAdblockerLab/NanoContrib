@@ -808,6 +808,10 @@ typing-speed.net##.advertising_horizontal_title
 chowhound.com###mpu_top
 chowhound.com###strnative_top
 
+# https://github.com/NanoMeow/QuickReports/issues/1911
+videohelp.com###mobilebanner
+videohelp.com##.mobilehide
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
