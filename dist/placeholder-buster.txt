@@ -813,8 +813,8 @@ videohelp.com##.mobilehide
 
 # https://github.com/NanoMeow/QuickReports/issues/709
 eurogamer.net###leaderboard
-eurogamer.net##.game-spotlight-advertising:has(:scope [data-dfp-id])
-eurogamer.net##.stack-mpu:has(:scope [data-dfp-id])
+eurogamer.net##.game-spotlight-advertising:has([data-dfp-id])
+eurogamer.net##.stack-mpu:has([data-dfp-id])
 eurogamer.net##.homepage-billboard-container:has(:scope > [data-dfp-id])
 
 # End English
