@@ -54,7 +54,6 @@ gamejolt.com##.section-thin.section
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483200
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501929990
 dailymotion.com##div[class^="AdDiscovery"]
-dailymotion.com##div[class*="_adCell_"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483169
 myspace.com##.container-main > ul > li:has(div[id="ad-placement"])
