@@ -817,6 +817,11 @@ eurogamer.net##.game-spotlight-advertising:has([data-dfp-id])
 eurogamer.net##.stack-mpu:has([data-dfp-id])
 eurogamer.net##.homepage-billboard-container:has(:scope > [data-dfp-id])
 
+# https://github.com/NanoMeow/QuickReports/issues/1639
+space.com##.slot-top_of_sidebar
+space.com##.slot-before_popular_box
+space.com##.slot-after_popular_box
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
