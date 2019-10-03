@@ -826,6 +826,9 @@ space.com##.slot-after_popular_box
 twingalaxies.com##.three-by-two:has(#atfBox)
 twingalaxies.com##.bg-dust:has(#btfLeaderboard)
 
+# https://github.com/NanoMeow/QuickReports/issues/1622
+accuweather.com##.ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
