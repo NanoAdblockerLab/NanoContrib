@@ -822,7 +822,7 @@ space.com##.slot-top_of_sidebar
 space.com##.slot-before_popular_box
 space.com##.slot-after_popular_box
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770558
 twingalaxies.com##.three-by-two:has(#atfBox)
 twingalaxies.com##.bg-dust:has(#btfLeaderboard)
 
@@ -879,21 +879,21 @@ manualslib.de##.advertising_box
 welt.de##.c-ad__medium-rectangle
 welt.de##.c-placeholder--is-rectangle-ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770580
 hardwareschotte.de##.ba-fullsize
 hardwareschotte.de###SkyscraperBo-x
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770615
 hardwareluxx.de##body:style(margin-top: 0px !important)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770653
 notebooksbilliger.de##.skyscraper
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770675
 hartware.de##.postanzeige
 hartware.de##.sidebar-content > div:has(:scope > .anzeige)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770714
 winboard.org###oc24-div
 winboard.org##.oc24-sidebar
 
