@@ -142,6 +142,12 @@ distrowatch.com##.sovrn-onetag-ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533186962
 allrecipes.com.au,allrecipes.co.uk,allrecipes.ca##.gridResponsive__column:has(:scope > .docked_rail > div[id^="ads"])
 
+# https://github.com/NanoMeow/QuickReports/issues/709
+eurogamer.*###leaderboard
+eurogamer.*##.game-spotlight-advertising:has([data-dfp-id])
+eurogamer.*##.stack-mpu:has([data-dfp-id])
+eurogamer.*##.homepage-billboard-container:has(:scope > [data-dfp-id])
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -811,16 +817,14 @@ chowhound.com###strnative_top
 videohelp.com###mobilebanner
 videohelp.com##.mobilehide
 
-# https://github.com/NanoMeow/QuickReports/issues/709
-eurogamer.net###leaderboard
-eurogamer.net##.game-spotlight-advertising:has([data-dfp-id])
-eurogamer.net##.stack-mpu:has([data-dfp-id])
-eurogamer.net##.homepage-billboard-container:has(:scope > [data-dfp-id])
-
 # https://github.com/NanoMeow/QuickReports/issues/1639
 space.com##.slot-top_of_sidebar
 space.com##.slot-before_popular_box
 space.com##.slot-after_popular_box
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+twingalaxies.com##.three-by-two:has(#atfBox)
+twingalaxies.com##.bg-dust:has(#btfLeaderboard)
 
 # End English
 
@@ -874,6 +878,24 @@ manualslib.de##.advertising_box
 # https://github.com/NanoMeow/QuickReports/issues/1356
 welt.de##.c-ad__medium-rectangle
 welt.de##.c-placeholder--is-rectangle-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+hardwareschotte.de##.ba-fullsize
+hardwareschotte.de###SkyscraperBo-x
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+hardwareluxx.de##body:style(margin-top: 0px !important)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+notebooksbilliger.de##.skyscraper
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+hartware.de##.postanzeige
+hartware.de##.sidebar-content > div:has(:scope > .anzeige)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/55
+winboard.org###oc24-div
+winboard.org##.oc24-sidebar
 
 # End German
 
