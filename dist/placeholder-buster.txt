@@ -829,6 +829,10 @@ twingalaxies.com##.bg-dust:has(#btfLeaderboard)
 # https://github.com/NanoMeow/QuickReports/issues/1622
 accuweather.com##.ad
 
+# https://github.com/NanoMeow/QuickReports/issues/1975
+forbes.com##medianet
+forbes.com##.vestpocket
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
