@@ -165,15 +165,6 @@ filgoal.com##div.nth1:has(:scope > #POSTQUARE_WIDGET_ASIDE)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
-# Bosnians
-
-# https://github.com/NanoMeow/QuickReports/issues/1916
-forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
-
-# End Bosnians
-
-# -------------------------------------------------------------------------------------------------------------------- #
-
 # Chinese (Simplified)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483183
@@ -1032,6 +1023,15 @@ dn.pt##.t-pub-inner
 vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 
 # End Portuguese
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Serbo-Croatian
+
+# https://github.com/NanoMeow/QuickReports/issues/1916
+forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
+
+# End Serbo-Croatian
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
