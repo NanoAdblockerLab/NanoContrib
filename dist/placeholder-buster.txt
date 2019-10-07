@@ -830,6 +830,12 @@ accuweather.com##.ad
 forbes.com##medianet
 forbes.com##.vestpocket
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/56
+thejc.com##.grid__item:has(:scope > .advert):not(:has(a))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/56
+crash.net##.sidebar-ad-area
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
