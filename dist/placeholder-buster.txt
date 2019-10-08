@@ -821,10 +821,10 @@ accuweather.com##.ad
 forbes.com##medianet
 forbes.com##.vestpocket
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/56
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/56#issuecomment-539256339
 thejc.com##.grid__item:has(:scope > .advert):not(:has(a))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/56
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/56#issuecomment-539256367
 crash.net##.sidebar-ad-area
 
 # End English
