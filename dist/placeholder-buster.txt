@@ -165,15 +165,6 @@ filgoal.com##div.nth1:has(:scope > #POSTQUARE_WIDGET_ASIDE)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
-# Bosnians
-
-# https://github.com/NanoMeow/QuickReports/issues/1916
-forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
-
-# End Bosnians
-
-# -------------------------------------------------------------------------------------------------------------------- #
-
 # Chinese (Simplified)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483183
@@ -830,6 +821,12 @@ accuweather.com##.ad
 forbes.com##medianet
 forbes.com##.vestpocket
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/56
+thejc.com##.grid__item:has(:scope > .advert):not(:has(a))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/56
+crash.net##.sidebar-ad-area
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1026,6 +1023,15 @@ dn.pt##.t-pub-inner
 vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 
 # End Portuguese
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Serbo-Croatian
+
+# https://github.com/NanoMeow/QuickReports/issues/1916
+forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
+
+# End Serbo-Croatian
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
