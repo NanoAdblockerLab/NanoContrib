@@ -827,13 +827,13 @@ thejc.com##.grid__item:has(:scope > .advert):not(:has(a))
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/56#issuecomment-539256367
 crash.net##.sidebar-ad-area
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/57
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/57#issuecomment-541241485
 nintendoenthusiast.com##.custom-html-widget
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/57
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/57#issuecomment-541241501
 ipgeolocation.io##.full-widthAd
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/57
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/57#issuecomment-541241528
 imdb.com##.aux-content-widget-2:has(.ab_zergnet)
 
 # End English
