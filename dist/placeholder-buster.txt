@@ -693,7 +693,7 @@ quizlet.com##.SiteAd
 vg247.com##.newsad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/43#issuecomment-518039914
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/59
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/59#issuecomment-544735075
 globalnews.ca##.sidebar-ad
 globalnews.ca##.story-ad
 globalnews.ca##.stream-ad
@@ -856,7 +856,7 @@ matcha-jp.com##.c-post:has(:scope > div[class*="RelatedNative"])
 ||vgmaps.com/System/Main/Header-Sponsors.png
 vgmaps.com##td[align="center"][width="728"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/59
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/59#issuecomment-544735103
 stevemeadedesigns.com##div[class^="add-"]:has(.adsbygoogle)
 
 # End English
