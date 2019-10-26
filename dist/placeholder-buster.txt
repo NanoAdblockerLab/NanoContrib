@@ -859,6 +859,12 @@ vgmaps.com##td[align="center"][width="728"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/59#issuecomment-544735103
 stevemeadedesigns.com##div[class^="add-"]:has(.adsbygoogle)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/60
+iplocation.net##div.col:has(:scope > .adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/60
+bustle.com##.gU:has(:scope > div[id^="ad-"])
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
