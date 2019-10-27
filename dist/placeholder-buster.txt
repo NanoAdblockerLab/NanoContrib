@@ -865,6 +865,9 @@ iplocation.net##div.col:has(:scope > .adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/60#issuecomment-546554199
 bustle.com##.gU:has(:scope > div[id^="ad-"])
 
+# https://github.com/NanoMeow/QuickReports/issues/2141
+eclipse.org##div:has(:scope > .eclipsefnd-ad)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
