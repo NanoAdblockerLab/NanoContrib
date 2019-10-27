@@ -868,6 +868,9 @@ bustle.com##.gU:has(:scope > div[id^="ad-"])
 # https://github.com/NanoMeow/QuickReports/issues/2141
 eclipse.org##div:has(:scope > .eclipsefnd-ad)
 
+# https://github.com/NanoMeow/QuickReports/issues/2151
+tutorialspoint.com##.google-bottom-ads
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
