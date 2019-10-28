@@ -871,6 +871,9 @@ eclipse.org##div:has(:scope > .eclipsefnd-ad)
 # https://github.com/NanoMeow/QuickReports/issues/2151
 tutorialspoint.com##.google-bottom-ads
 
+# https://github.com/NanoMeow/QuickReports/issues/2154
+nakedcapitalism.com##.widget:has(:scope > script[src^="//ads.investingchannel.com/"])
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
