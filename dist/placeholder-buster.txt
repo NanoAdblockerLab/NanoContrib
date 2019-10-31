@@ -877,7 +877,7 @@ nakedcapitalism.com##.widget:has(:scope > script[src^="//ads.investingchannel.co
 # https://github.com/NanoMeow/QuickReports/issues/2164
 govtech.com###interstitial
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/61
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/61#issuecomment-548575846
 techspot.com##.comment[style^="padding"]
 
 # End English
@@ -1012,7 +1012,7 @@ min.dododori.com##footer:style(padding-bottom: 10px !important)
 blog.goo.ne.jp##.content-top
 blog.goo.ne.jp##.content-bottom
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/61
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/61#issuecomment-548575887
 ina-ka.com##div[id^="asumi-frame-"]
 
 # End Japanese
