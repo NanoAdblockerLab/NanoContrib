@@ -176,6 +176,12 @@ weibo.com##.UG_bn_a
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/38#issuecomment-511089781
 disneybox.com##div:has(:scope > script[src*="/pagead/"])
 
+# https://github.com/NanoMeow/QuickReports/issues/2223
+rjno1.com###user2 > div:has(:scope > div > ins.adsbygoogle)
+rjno1.com##[class$="-ad"]
+rjno1.com##[id^="aswift_"]
+rjno1.com##.allmode_box:has(:scope > center > script[src="//cpro.baidustatic.com/cpro/ui/c.js"])
+
 # End Chinese (Simplified)
 
 # -------------------------------------------------------------------------------------------------------------------- #
