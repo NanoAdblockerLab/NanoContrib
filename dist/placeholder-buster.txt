@@ -886,6 +886,13 @@ govtech.com###interstitial
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/61#issuecomment-548575846
 techspot.com##.comment[style^="padding"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/62
+spokesman.com##.leaderboard
+spokesman.com##hr
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/62
+planetf1.com##.textwidget
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
