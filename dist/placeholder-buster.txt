@@ -897,6 +897,9 @@ planetf1.com##.textwidget
 marketwatch.com##.container--advertisement
 marketwatch.com###brass-rail
 
+# https://github.com/NanoMeow/QuickReports/issues/937
+thedailybeast.com##.WrapGrid__desktop-sidebar-ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
