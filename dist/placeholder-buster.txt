@@ -886,16 +886,16 @@ govtech.com###interstitial
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/61#issuecomment-548575846
 techspot.com##.comment[style^="padding"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/62
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/62#issuecomment-552064901
 spokesman.com##.leaderboard
 spokesman.com##hr
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/62
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/62#issuecomment-552064906
 planetf1.com##.textwidget
 
 # https://github.com/NanoMeow/QuickReports/issues/1484
-marketwatch.com###brass-rail
 marketwatch.com##.container--advertisement
+marketwatch.com###brass-rail
 
 # End English
 
