@@ -903,6 +903,10 @@ thedailybeast.com##.WrapGrid__desktop-sidebar-ad
 # https://github.com/NanoMeow/QuickReports/issues/2224
 aol.com##span:has-text(/^More to Explore$/)
 
+# https://github.com/NanoMeow/QuickReports/issues/2263
+gamefaqs.gamespot.com##.message_mpu:has(:scope > .ad)
+gamefaqs.gamespot.com###leader_top
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
