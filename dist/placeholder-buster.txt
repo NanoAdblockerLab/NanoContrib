@@ -900,6 +900,9 @@ marketwatch.com###brass-rail
 # https://github.com/NanoMeow/QuickReports/issues/937
 thedailybeast.com##.WrapGrid__desktop-sidebar-ad
 
+# https://github.com/NanoMeow/QuickReports/issues/2224
+aol.com##span:has-text(/^More to Explore$/)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
