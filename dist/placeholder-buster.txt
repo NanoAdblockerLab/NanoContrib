@@ -907,6 +907,10 @@ aol.com##span:has-text(/^More to Explore$/)
 gamefaqs.gamespot.com##.message_mpu:has(:scope > .ad)
 gamefaqs.gamespot.com###leader_top
 
+# https://github.com/jspenguin2017/uBlockProtector/issues/1092
+nulledpremium.com##.sidebar-widget:has(:scope > div > .adsbygoogle)
+nulledpremium.com##.code-block:has(:scope > .adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
