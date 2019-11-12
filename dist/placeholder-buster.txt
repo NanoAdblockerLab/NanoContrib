@@ -911,6 +911,15 @@ gamefaqs.gamespot.com###leader_top
 nulledpremium.com##.sidebar-widget:has(:scope > div > .adsbygoogle)
 nulledpremium.com##.code-block:has(:scope > .adsbygoogle)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/63
+theage.com.au##div[id^="adspot"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/63
+digminecraft.com##.slot
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/63
+gamersnexus.net##.moduleContent:has-text(/^\n\t\t\tAdvertisements:\n/)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
