@@ -911,13 +911,13 @@ gamefaqs.gamespot.com###leader_top
 nulledpremium.com##.sidebar-widget:has(:scope > div > .adsbygoogle)
 nulledpremium.com##.code-block:has(:scope > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/63
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/63#issuecomment-552682843
 theage.com.au##div[id^="adspot"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/63
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/63#issuecomment-552682860
 digminecraft.com##.slot
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/63
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/63#issuecomment-552682888
 gamersnexus.net##.moduleContent:has-text(/^\n\t\t\tAdvertisements:\n/)
 
 # End English
