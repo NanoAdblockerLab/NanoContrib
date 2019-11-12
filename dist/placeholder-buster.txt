@@ -918,7 +918,7 @@ theage.com.au##div[id^="adspot"]
 digminecraft.com##.slot
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/63
-gamersnexus.net##.moduleContent:has-text(/^\n			Advertisements:\n/)
+gamersnexus.net##.moduleContent:has-text(/^\n\t\t\tAdvertisements:\n/)
 
 # End English
 
