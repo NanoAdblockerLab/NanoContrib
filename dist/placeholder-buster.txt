@@ -920,6 +920,9 @@ digminecraft.com##.slot
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/63#issuecomment-552682888
 gamersnexus.net##.moduleContent:has-text(/^\n\t\t\tAdvertisements:\n/)
 
+# https://github.com/NanoMeow/QuickReports/issues/1486
+msn.com##.widead
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
