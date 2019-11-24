@@ -920,6 +920,15 @@ digminecraft.com##.slot
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/63#issuecomment-552682888
 gamersnexus.net##.moduleContent:has-text(/^\n\t\t\tAdvertisements:\n/)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/64
+sidereel.com##.partial-bordered-module:has(:scope > div[class=OUTBRAIN])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/64
+majorgeeks.com##.navigation-light
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/64
+allmovie.com,allmusic.com##.footer-leaderboard
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
