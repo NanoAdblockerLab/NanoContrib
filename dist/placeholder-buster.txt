@@ -929,14 +929,14 @@ majorgeeks.com##.navigation-light
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/64#issuecomment-557918393
 allmovie.com,allmusic.com##.footer-leaderboard
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/65
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/65#issuecomment-559566334
 9gag.com##article:not(:has-text(/[a-z0-9?!]/))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/65
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/65#issuecomment-559566434
 lgbtqnation.com##.index-bottom-ad
 lgbtqnation.com##.single-bottom-ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/65
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/65#issuecomment-559566492
 slashgear.com##.adsense_responsive_box
 slashgear.com##.textwidget
 slashgear.com##.sgbox[id^=text-]
