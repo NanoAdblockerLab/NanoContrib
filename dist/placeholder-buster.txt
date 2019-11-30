@@ -941,6 +941,9 @@ slashgear.com##.adsense_responsive_box
 slashgear.com##.textwidget
 slashgear.com##.sgbox[id^=text-]
 
+# https://github.com/NanoMeow/QuickReports/issues/2393
+thegatewayonline.ca##[id^="adbutler"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
