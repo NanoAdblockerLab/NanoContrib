@@ -148,6 +148,9 @@ eurogamer.*##.game-spotlight-advertising:has([data-dfp-id])
 eurogamer.*##.stack-mpu:has([data-dfp-id])
 eurogamer.*##.homepage-billboard-container:has(:scope > [data-dfp-id])
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/66
+timesofisrael.com##.sticky-sidebar
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -943,6 +946,12 @@ slashgear.com##.sgbox[id^=text-]
 
 # https://github.com/NanoMeow/QuickReports/issues/2393
 thegatewayonline.ca##[id^="adbutler"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/66
+9news.com.au##.article__native-links
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/66
+howtohookitup.com###rightcolumn1:has(:scope > [src*="/pagead"])
 
 # End English
 
