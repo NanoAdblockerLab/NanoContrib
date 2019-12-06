@@ -56,7 +56,7 @@ gamejolt.com##.section-thin.section
 dailymotion.com##div[class^="AdDiscovery"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483169
-myspace.com##.container-main > ul > li:has(div[id="ad-placement"])
+myspace.com##.container-main > ul > li:has(div#ad-placement)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/17#issuecomment-475089221
 techadvisor.*###topLeaderBoardHolder
@@ -259,7 +259,7 @@ linux.org##div:has(:scope > ins.adsbygoogle)
 whoiscute.com##.tl-states-root
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592241
-avsforum.com##.large-4.medium-6.small-12:has([class=ad-wrapper])
+avsforum.com##.large-4.medium-6.small-12:has(.ad-wrapper)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592242
 gadgethacks.com##.whtaph-floatbox
@@ -357,7 +357,7 @@ time.com##.padded-mobile.bottom-recirc
 ||time.com/kismet/spacer.png$image
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149121
-mywindowshub.com##.td-pb-span12.tdc-column.vc_column_container:has(ins[class="adsbygoogle"])
+mywindowshub.com##.td-pb-span12.tdc-column.vc_column_container:has(ins.adsbygoogle)
 mywindowshub.com##.textwidget:has(script[src*="adsbygoogle.js"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149338
@@ -386,7 +386,7 @@ experts-exchange.com##.adBanner-comment
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149725
 online-convert.com##.flex_banner_bottom
-online-convert.com##div[class^="banner_"]:has(ins[class="adsbygoogle"])
+online-convert.com##div[class^="banner_"]:has(ins.adsbygoogle)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149735
 mariowiki.com,ssbwiki.com###mw-content-text > table > tbody > tr > td:has-text(Ads keep):has-text(independent and free :)
@@ -416,7 +416,7 @@ runt-of-the-web.com##.mrec
 accountkiller.com##.section_box[style="background-color: rgb(102, 181, 255);"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454619974
-forums.whirlpool.net.au##div.reply-archived.reply:has(ins[class="adsbygoogle"])
+forums.whirlpool.net.au##div.reply-archived.reply:has(ins.adsbygoogle)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454619995
 kb6nu.com##.textwidget:has(div[id^="div-gpt-ad-"])
@@ -474,7 +474,7 @@ flipside.keenspot.com###darewot
 flipside.keenspot.com###flip_dafoot
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103880
-fallouttoyworks.keenspot.com##div[class="shadow"]:has(div[id^="div-gpt-ad-"])
+fallouttoyworks.keenspot.com##div.shadow:has(div[id^="div-gpt-ad-"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935557
 simkl.com##.blockplacecenter
@@ -931,7 +931,7 @@ digminecraft.com##.slot
 gamersnexus.net##.moduleContent:has-text(/^\n\t\t\tAdvertisements:\n/)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/64#issuecomment-557918369
-sidereel.com##.partial-bordered-module:has(:scope > div[class=OUTBRAIN])
+sidereel.com##.partial-bordered-module:has(:scope > div.OUTBRAIN)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/64#issuecomment-557918382
 majorgeeks.com##.navigation-light
@@ -949,7 +949,7 @@ lgbtqnation.com##.single-bottom-ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/65#issuecomment-559566492
 slashgear.com##.adsense_responsive_box
 slashgear.com##.textwidget
-slashgear.com##.sgbox[id^=text-]
+slashgear.com##.sgbox[id^="text-"]
 
 # https://github.com/NanoMeow/QuickReports/issues/2393
 thegatewayonline.ca##[id^="adbutler"]
@@ -975,11 +975,13 @@ complex.com##.video-playlist__lead-right-ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770590
 hungertv.com##.holder:style(margin-top: 0px !important)
-hungertv.com##.banner, #fixed-slice, #fixed-slice-2:style(top: 0px !important)
-hungertv.com##div[class*=offset-sm-]
+hungertv.com##.banner:style(top: 0px !important)
+hungertv.com###fixed-slice:style(top: 0px !important)
+hungertv.com###fixed-slice-2:style(top: 0px !important)
+hungertv.com##div[class*="offset-sm-"]
 hungertv.com##.preview.row
 hungertv.com###stick-section.sm-pad
-hungertv.com##div:has(:scope > div[id^=div-gpt-ad])
+hungertv.com##div:has(:scope > div[id^="div-gpt-ad"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770676
 apollo-magazine.com##.card--advert.card
@@ -988,8 +990,8 @@ apollo-magazine.com##.card--advert.card
 weheartastoria.com###right-sidebar
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770770
-theweek.com##div[class^=inside-body-ad-]
-theweek.com##div[class^=body-ad-]:not([class^="body-ad-1"])
+theweek.com##div[class^="inside-body-ad-"]
+theweek.com##div[class^="body-ad-"]:not([class^="body-ad-1"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770824
 amny.com##.gridlove-sidebar
