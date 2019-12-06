@@ -953,6 +953,9 @@ thegatewayonline.ca##[id^="adbutler"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/66#issuecomment-560138691
 howtohookitup.com###rightcolumn1:has(:scope > [src*="/pagead"])
 
+# https://github.com/NanoMeow/QuickReports/issues/2424
+comingsoon.net##.leaderboard
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
