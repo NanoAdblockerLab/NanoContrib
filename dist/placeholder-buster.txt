@@ -319,8 +319,7 @@ healthline.com##aside:has(div[data-ad="true"])
 gamespot.com##div[x-enc="id class"]:has(div > div[data-ad-type])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608757
-avclub.com,gizmodo.com,deadspin.com,jalopnik.com,kotaku.com,lifehacker.com##.contained-ad-container
-splinternews.com,thetakeout.com,theroot.com,theonion.com,theinventory.com##.contained-ad-container
+avclub.com,gizmodo.com,deadspin.com,jalopnik.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,theinventory.com##.contained-ad-container
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608760
 thedroidguy.com###secondary
