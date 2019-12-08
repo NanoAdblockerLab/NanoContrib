@@ -1001,6 +1001,9 @@ boston.com##.site-container:style(margin-top: -100px !important)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770885
 bustle.com##.ka.gr.gq
 
+# https://github.com/NanoAdblocker/NanoFilters/issues/433
+washingtonpost.com##div:has(:scope > wp-ad)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
