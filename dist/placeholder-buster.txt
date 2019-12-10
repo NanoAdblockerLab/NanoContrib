@@ -1004,18 +1004,18 @@ bustle.com##.ka.gr.gq
 # https://github.com/NanoAdblocker/NanoFilters/issues/433
 washingtonpost.com##div:has(:scope > wp-ad)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/68
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564256999
 worldarchitecture.org##div[class^=adv]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/68
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564257061
 wallpaper.com##.newPageAd
 wallpaper.com##.adAbove
 wallpaper.com##.articleSidebar
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/68
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564257118
 licenseglobal.com##.banner-top-wrapper
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/68
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564257163
 toonbarn.com##.header-sub
 toonbarn.com##.banner:has(.adsbygoogle)
 
