@@ -1105,7 +1105,8 @@ winboard.org##.oc24-sidebar
 
 # Hungarian
 
-# Nothing for now...
+# https://github.com/NanoMeow/QuickReports/issues/2465
+magyarhang.org##.ai_widget
 
 # End Hungarian
 
