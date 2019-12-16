@@ -299,9 +299,6 @@ yeggi.com##.adbttm_right_300
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608673
 thehungersite.greatergood.com##.ctg-ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608696
-knowyourmeme.com##.combo-right
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608704
 fourfourtwo.com###leaderboard
 
@@ -346,9 +343,13 @@ sourceforge.net##.main-content > section.sterling
 smallbusiness.chron.com##.leaderboard
 smallbusiness.chron.com###top-300
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608696
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672325
+knowyourmeme.com##.combo-right
+!#if env_mobile
 knowyourmeme.com##.content-unit-refresh-wrapper
 knowyourmeme.com##.complex-ad-wrapper
+!#endif
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672357
 time.com##.rundown-sidebar
