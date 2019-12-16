@@ -1005,7 +1005,8 @@ boston.com##.site-container:style(margin-top: -100px !important)
 bustle.com##.ka.gr.gq
 
 # https://github.com/NanoAdblocker/NanoFilters/issues/433
-washingtonpost.com##div:has(:scope > wp-ad)
+# https://github.com/NanoMeow/QuickReports/issues/1499
+washingtonpost.com##div:has(:scope > wp-ad):not(#topper-headline-wrapper)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564256999
 worldarchitecture.org##div[class^=adv]
