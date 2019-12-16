@@ -589,8 +589,10 @@ m.wishafriend.com###mid > div:has(:scope > div > .adsbygoogle)
 m.wishafriend.com###body > div:has(:scope > div > script[src*="/adsbygoogle"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/30#issuecomment-501075888
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/69
 phoronix.com##div:has(:scope > div[id^="div-pg-ad"])
 phoronix.com##aside:has(:scope > div > script[src$="/gpt.js"])
+phoronix.com###main > div:first-of-type[style*="overflow: hidden"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/30#issuecomment-501075906
 lists.malwarepatrol.net##.right:has(:scope > h3:has-text(Ads by Google))
@@ -1018,6 +1020,9 @@ licenseglobal.com##.banner-top-wrapper
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564257163
 toonbarn.com##.header-sub
 toonbarn.com##.banner:has(.adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/69
+m.imgur.com##.Ad-adhesive
 
 # End English
 
