@@ -457,8 +457,8 @@ itstillworks.com##div.whitecard:has(script[src*="/pagead/"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/38#issuecomment-511089775
 majorgeeks.com##.geekad
 
-!#if env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024499
+!#if env_mobile
 ultimate-guitar.com##.js-top-adv
 ultimate-guitar.com##.js-tab-banner-middle
 ultimate-guitar.com##bidding-wrapper
