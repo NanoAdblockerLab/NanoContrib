@@ -198,7 +198,10 @@ rjno1.com##.allmode_box:has(:scope > center > script[src="//cpro.baidustatic.com
 
 # Croatian
 
-# Nothing for now...
+# https://github.com/NanoMeow/QuickReports/issues/2508
+index.hr###DA4
+index.hr##.google-billboard-top
+index.hr##.google-billboard
 
 # End Croatian
 
