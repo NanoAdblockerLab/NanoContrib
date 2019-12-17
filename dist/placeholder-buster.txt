@@ -196,6 +196,14 @@ rjno1.com##.allmode_box:has(:scope > center > script[src="//cpro.baidustatic.com
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Croatian
+
+# Nothing for now...
+
+# End Croatian
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # Dhivehi
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608678
