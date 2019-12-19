@@ -1039,11 +1039,11 @@ toonbarn.com##.banner:has(.adsbygoogle)
 m.imgur.com##.Ad-adhesive
 !#endif
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/70
-animesuperhero.com##.block:has(script[src*=securepubads])
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/70#issuecomment-567284267
+animesuperhero.com##.block:has(script[src*="securepubads"])
 animesuperhero.com##.secondaryContent
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/70
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/70#issuecomment-567284298
 smalljoys.tv##.sm_dfp_ads
 
 # End English
@@ -1253,7 +1253,7 @@ dn.pt##.t-pub-inner
 # https://github.com/NanoMeow/QuickReports/issues/727
 vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/70
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/70#issuecomment-567284314
 bolha.com##.BannerBillboard
 
 # End Portuguese
