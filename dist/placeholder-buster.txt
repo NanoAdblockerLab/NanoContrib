@@ -1058,6 +1058,9 @@ reason.com##.magicSidebar
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/71
 bigthink.com##.rebellt-item:not(:has(a))
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+realclearpolicy.com##div[style*="float: left; width: 300px;"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
