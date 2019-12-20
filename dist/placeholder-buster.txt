@@ -1046,19 +1046,19 @@ animesuperhero.com##.secondaryContent
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/70#issuecomment-567284298
 smalljoys.tv##.sm_dfp_ads
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71#issuecomment-567791831
 universitystar.com###leaderboard
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71#issuecomment-567791889
 happymag.tv##.g
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71#issuecomment-567791919
 reason.com##.magicSidebar
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71#issuecomment-567791946
 bigthink.com##.rebellt-item:not(:has(a))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71#issuecomment-567791964
 realclearpolicy.com##div[style*="float: left; width: 300px;"]
 
 # End English
