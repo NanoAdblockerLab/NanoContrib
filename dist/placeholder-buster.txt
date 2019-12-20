@@ -1046,6 +1046,18 @@ animesuperhero.com##.secondaryContent
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/70#issuecomment-567284298
 smalljoys.tv##.sm_dfp_ads
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+universitystar.com###leaderboard
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+happymag.tv##.g
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+reason.com##.magicSidebar
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/71
+bigthink.com##.rebellt-item:not(:has(a))
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
