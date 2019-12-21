@@ -1061,6 +1061,9 @@ bigthink.com##.rebellt-item:not(:has(a))
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/71#issuecomment-567791964
 realclearpolicy.com##div[style*="float: left; width: 300px;"]
 
+# https://github.com/NanoMeow/QuickReports/issues/2535
+files.minecraftforge.net##.promo-container
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
