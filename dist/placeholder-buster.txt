@@ -1304,6 +1304,9 @@ yoututosjeff.es##.widget-content:has(:scope > .adsbygoogle)
 
 # Turkish
 
+# https://github.com/NanoMeow/QuickReports/issues/2530
+bloomberght.com##.col-lg-12:has(:scope > .ads-zone)
+
 # End Turkish
 
 # -------------------------------------------------------------------------------------------------------------------- #
