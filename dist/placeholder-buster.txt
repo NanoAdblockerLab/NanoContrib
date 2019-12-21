@@ -1307,6 +1307,9 @@ yoututosjeff.es##.widget-content:has(:scope > .adsbygoogle)
 # https://github.com/NanoMeow/QuickReports/issues/2530
 bloomberght.com##.col-lg-12:has(:scope > .ads-zone)
 
+# https://github.com/NanoMeow/QuickReports/issues/2528
+kimkazandi.com##.autoplay
+
 # End Turkish
 
 # -------------------------------------------------------------------------------------------------------------------- #
