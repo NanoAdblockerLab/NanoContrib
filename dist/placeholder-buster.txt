@@ -1256,6 +1256,14 @@ slobodenpecat.mk###stream-item-widget-4:has(img[src*="ADVERTISMENT"])
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Polish
+
+# Nothing for now...
+
+# End Polish
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # Portuguese
 
 # https://github.com/jspenguin2017/uBlockProtector/issues/843
