@@ -1308,7 +1308,8 @@ yoututosjeff.es##.widget-content:has(:scope > .adsbygoogle)
 bloomberght.com##.col-lg-12:has(:scope > .ads-zone)
 
 # https://github.com/NanoMeow/QuickReports/issues/2528
-kimkazandi.com##.autoplay
+kimkazandi.com##div:has(:scope > .item [id^="div-gpt-ad-"])
+kimkazandi.com##.row[style="margin:30px 50px"]
 
 # End Turkish
 
