@@ -1258,7 +1258,8 @@ slobodenpecat.mk###stream-item-widget-4:has(img[src*="ADVERTISMENT"])
 
 # Polish
 
-# Nothing for now...
+# https://github.com/NanoMeow/QuickReports/issues/2514
+plejada.pl###stickyWrapperAlone
 
 # End Polish
 
