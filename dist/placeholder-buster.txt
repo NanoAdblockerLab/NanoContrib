@@ -161,6 +161,10 @@ konbini.com##.konbini-ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770361
 theartnewspaper.com##.ap-sidearea
 
+# https://github.com/NanoMeow/QuickReports/issues/2546
+amazon.*###thirdPartySponsorLinkTitle:nth-ancestor(4)
+amazon.*##[data-ad-details]
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
