@@ -1064,6 +1064,9 @@ realclearpolicy.com##div[style*="float: left; width: 300px;"]
 # https://github.com/NanoMeow/QuickReports/issues/2535
 files.minecraftforge.net##.promo-container
 
+# https://github.com/NanoMeow/QuickReports/issues/2541
+zdnet.com###main > div:has(.ad-leader-plus-top)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
