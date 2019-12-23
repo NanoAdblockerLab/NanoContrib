@@ -165,6 +165,9 @@ theartnewspaper.com##.ap-sidearea
 amazon.*###thirdPartySponsorLinkTitle:nth-ancestor(4)
 amazon.*##[data-ad-details]
 
+# https://github.com/NanoMeow/QuickReports/issues/2560
+ign.com##.secondary-ad
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
