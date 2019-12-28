@@ -14,10 +14,16 @@
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483145
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706934
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/73
+!#if !env_mobile
 pixiv.net##.ads-top-info
 pixiv.net##.area_new:not(:has(.area_title))
+pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
+pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important)
+!#endif
 !#if env_mobile
 pixiv.net##.ad-frame-container
+pixiv.net##body[style^=margin-bottom]:style(margin-bottom: 0px !important)
 !#endif
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
@@ -166,6 +172,9 @@ amazon.*##[data-ad-details]
 
 # https://github.com/NanoMeow/QuickReports/issues/2560
 ign.com##.secondary-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/73
+armenianweekly.com##.mh-header-widget-1
 
 # End Multilingual
 
@@ -1075,6 +1084,11 @@ files.minecraftforge.net##.promo-container
 
 # https://github.com/NanoMeow/QuickReports/issues/2541
 zdnet.com###main > div:has(.ad-leader-plus-top)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/73
+gayemagazine.com##div[style*="width:320px;height:"]
+gayemagazine.com##div[style^="width: 320px; height:"]
+wix.com##iframe[src*="static.parastorage.com/unpkg/"]
 
 # End English
 
