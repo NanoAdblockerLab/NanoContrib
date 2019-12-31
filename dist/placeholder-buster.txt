@@ -1090,6 +1090,11 @@ gayemagazine.com##div[style*="width:320px;height:"]
 gayemagazine.com##div[style^="width: 320px; height:"]
 wix.com##iframe[src*="static.parastorage.com/unpkg/"]
 
+# https://github.com/NanoMeow/QuickReports/issues/2603
+coswitmedia.com##.widget_custom_html:has(.adsbyvli)
+coswitmedia.com##.widget_custom_html:has(script[src*=".passeura.com/"])
+coswitmedia.com##.widget_custom_html:has(script:has-text(vitag.outStreamConfig))
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
