@@ -1035,6 +1035,7 @@ bustle.com##.ka.gr.gq
 
 # https://github.com/NanoAdblocker/NanoFilters/issues/433
 # https://github.com/NanoMeow/QuickReports/issues/1499
+washingtonpost.com###leaderboard-wrapper
 washingtonpost.com##div:has(:scope > wp-ad):not(#topper-headline-wrapper)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564256999
