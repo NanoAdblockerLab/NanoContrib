@@ -1096,6 +1096,12 @@ coswitmedia.com##.widget_custom_html:has(.adsbyvli)
 coswitmedia.com##.widget_custom_html:has(script[src*=".passeura.com/"])
 coswitmedia.com##.widget_custom_html:has(script:has-text(vitag.outStreamConfig))
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/74
+pastebin.com##.OUTBRAIN
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/74
+wiiubru.com##.ads
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
