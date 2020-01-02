@@ -1096,10 +1096,10 @@ coswitmedia.com##.widget_custom_html:has(.adsbyvli)
 coswitmedia.com##.widget_custom_html:has(script[src*=".passeura.com/"])
 coswitmedia.com##.widget_custom_html:has(script:has-text(vitag.outStreamConfig))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/74
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/74#issuecomment-570404129
 pastebin.com##.OUTBRAIN
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/74
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/74#issuecomment-570404166
 wiiubru.com##.ads
 
 # End English
