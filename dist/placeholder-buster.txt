@@ -1025,7 +1025,7 @@ theweek.com##div[class^="inside-body-ad-"]
 theweek.com##div[class^="body-ad-"]:not([class^="body-ad-1"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770824
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/75
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570642861
 amny.com##.gridlove-sidebar
 amny.com##.gridlove-posts.row > div:has(.gridlove-inject)
 
@@ -1104,21 +1104,21 @@ pastebin.com##.OUTBRAIN
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/74#issuecomment-570404166
 wiiubru.com##.ads
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/75
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570642908
 agcanada.com##.leaderboard
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/75
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570642954
 americanmilitarynews.com###blogposts > div:not(:has(a))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/75
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643239
 bastropenterprise.com,donaldsonvillechief.com,tricountyindependent.com,echo-pilot.com##.ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/75
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643332
 dailypress.com##.pb-f-ads-dfp
 dailypress.com##.pb-f-ads-nativo
 dailypress.com##.pb-container:last-of-type
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/75
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643369
 ddtonline.com##.block-inner:not(:has(a)):not(:has(iframe)):not(:has(form))
 
 # End English
