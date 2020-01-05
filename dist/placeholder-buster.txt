@@ -1121,6 +1121,11 @@ dailypress.com##.pb-container:last-of-type
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643369
 ddtonline.com##.block-inner:not(:has(a)):not(:has(iframe)):not(:has(form))
 
+# https://github.com/NanoMeow/QuickReports/issues/2640
+venea.net###ag_more
+venea.net##.ag_banner
+venea.net##.ag_content
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
