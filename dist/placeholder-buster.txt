@@ -136,6 +136,7 @@ rpmseek.com###lbanner_top
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/41#issuecomment-515740473
 edition.cnn.com###story-bottom
+www.cnn.com##[class*="outbrain__Container-"]
 www.cnn.com##iframe[src^="https://widgets.tree.com/"]:nth-ancestor(3)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/44#issuecomment-519327973
