@@ -138,6 +138,7 @@ rpmseek.com###lbanner_top
 edition.cnn.com###story-bottom
 www.cnn.com##[class*="outbrain__Container-"]
 www.cnn.com##iframe[src^="https://widgets.tree.com/"]:nth-ancestor(3)
+www.cnn.com##section:not(:has-text(/\w/))
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/44#issuecomment-519327973
 manuall.*,handleidingkwijt.com,shuomingshu88.com##.col-sm-9 > div:has-text(advertisement)
