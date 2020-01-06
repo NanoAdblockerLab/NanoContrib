@@ -1129,6 +1129,10 @@ venea.net###ag_more
 venea.net##.ag_banner
 venea.net##.ag_content
 
+# https://github.com/NanoMeow/QuickReports/issues/2648
+thumpertalk.com##[id*=".adloc."]:nth-ancestor(1)
+thumpertalk.com##[data-role="sidebarAd"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
