@@ -1133,6 +1133,10 @@ venea.net##.ag_content
 thumpertalk.com##[id*=".adloc."]:nth-ancestor(1)
 thumpertalk.com##[data-role="sidebarAd"]
 
+# https://github.com/NanoMeow/QuickReports/issues/2665
+libgen.*##td[bgcolor="#F5F6CE"]
+libgen.*##td:not(:has(img)):not(:has-text(/\w/))
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
