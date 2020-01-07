@@ -1138,10 +1138,10 @@ libgen.*##td[bgcolor="#F5F6CE"]
 libgen.*##td:not(:has(img)):not(:has-text(/\w/))
 
 # https://github.com/NanoMeow/QuickReports/issues/2664
-ratemyprofessors.com##[class^="StickyLeaderboard__"]
-ratemyprofessors.com##[class*="__AdWrapper-"]
-ratemyprofessors.com##[class^="AdRail__"]
 ratemyprofessors.com##+js(remove-attr, class, #body)
+ratemyprofessors.com##[class^="StickyLeaderboard__"]
+ratemyprofessors.com##[class^="AdRail__"]
+ratemyprofessors.com##[class*="__AdWrapper-"]
 
 # End English
 
