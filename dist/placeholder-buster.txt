@@ -1143,6 +1143,12 @@ ratemyprofessors.com##[class^="StickyLeaderboard__"]
 ratemyprofessors.com##[class^="AdRail__"]
 ratemyprofessors.com##[class*="__AdWrapper-"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/76
+nytimes.com,nytimes3xbfgragh.onion##section[name=articleBody] > div:not(.StoryBodyCompanionColumn):not([data-testid]):not(:last-of-type)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/76
+askapache.com##.GAD
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
