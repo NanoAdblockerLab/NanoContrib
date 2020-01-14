@@ -1230,6 +1230,7 @@ winboard.org##.oc24-sidebar
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/77
 spox.com##.con1.flxct
+spox.com##.fullrow
 
 # End German
 
