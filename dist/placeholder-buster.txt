@@ -15,7 +15,7 @@
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483145
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706934
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457506
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/77
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410073
 !#if !env_mobile
 pixiv.net##.ads-top-info
 pixiv.net##.area_new:not(:has(.area_title))
@@ -184,10 +184,10 @@ armenianweekly.com##.mh-header-widget-1
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/76#issuecomment-573438246
 nytimes.com,nytimes3xbfgragh.onion##section[name="articleBody"] > div:not(.StoryBodyCompanionColumn):not([data-testid]):not(:last-of-type)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/77
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410104
 jasonsavard.com###pageMiddleAdWrapper
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/77
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410135
 sportingnews.com##.grid-aside
 
 # End Multilingual
@@ -1228,7 +1228,7 @@ hartware.de##.sidebar-content > div:has(:scope > .anzeige)
 winboard.org###oc24-div
 winboard.org##.oc24-sidebar
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/77
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410228
 spox.com##.con1.flxct
 spox.com##.fullrow
 
