@@ -1157,6 +1157,15 @@ ratemyprofessors.com##[class*="__AdWrapper-"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/76#issuecomment-573438259
 askapache.com##.GAD
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/78
+wave3.com##.pb-f-ads-arcads
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/78
+peoplepill.com##.ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/78
+gamedev.net##.mb-3.align-items-center
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
