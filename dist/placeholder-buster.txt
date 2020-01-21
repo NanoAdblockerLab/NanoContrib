@@ -1166,10 +1166,10 @@ peoplepill.com##.ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/78#issuecomment-575372753
 gamedev.net##.mb-3.align-items-center
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/79
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/79#issuecomment-576932739
 speedrun.com##div[data-ad]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/79
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/79#issuecomment-576932764
 kentonline.co.uk##.mpu
 kentonline.co.uk##.LeaderBack
 
@@ -1200,12 +1200,12 @@ hentaifox.com##.atop
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533187391
 !#if !env_mobile
-rule34.xxx##.content:style(width: calc(100% - 220px) !important)
+rule34.xxx##.content:style(width: calc(100% - 220px) !important;)
 !#endif
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/79
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/79#issuecomment-576932807
 !#if !env_mobile
-e621.net##.content-post:style(width: calc(100% - 260px) !important)
+e621.net##.content-post:style(width: calc(100% - 260px) !important;)
 !#endif
 
 # End English NSFW
