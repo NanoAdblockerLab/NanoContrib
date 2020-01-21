@@ -20,12 +20,12 @@
 pixiv.net##.ads-top-info
 pixiv.net##.area_new:not(:has(.area_title))
 pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
-pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important)
-pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important)
+pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
+pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
 !#endif
 !#if env_mobile
 pixiv.net##.ad-frame-container
-pixiv.net##body[style^=margin-bottom]:style(margin-bottom: 0px !important)
+pixiv.net##body[style^=margin-bottom]:style(margin-bottom: 0px !important;)
 !#endif
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
@@ -509,7 +509,7 @@ ultimate-guitar.com##.js-ad-alternative
 !#endif
 
 # https://github.com/NanoMeow/QuickReports/issues/714
-travelchannel.com##body:style(margin: 0px !important)
+travelchannel.com##body:style(margin: 0px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103825
 flipside.keenspot.com###draobredael
@@ -717,7 +717,7 @@ cycling.today##p:has(:scope > script[src$="/adsbygoogle.js"])
 mgoblog.com##div[id^="block-rawadsense"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/41#issuecomment-515740504
-popculture.com###header:style(top: 0px !important)
+popculture.com###header:style(top: 0px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/41#issuecomment-515740510
 mhotspot.com##div:has(:scope > script[src$="/adsbygoogle.js"])
@@ -737,7 +737,7 @@ codesforuniversalremotes.com##.code-block
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/42#issuecomment-517079717
 yeggi.com##div[style*="f2f2f2"]:not(:has(a))
-yeggi.com##div[style^="margin-right:320px;"]:style(margin-right: 12px !important)
+yeggi.com##div[style^="margin-right:320px;"]:style(margin-right: 12px !important;)
 
 # https://github.com/NanoMeow/QuickReports/issues/1596
 rankedboost.com##[class^="InsertTitle-Updated"]:nth-ancestor(1)
@@ -1009,7 +1009,7 @@ howtohookitup.com###rightcolumn1:has(:scope > [src*="/pagead"])
 comingsoon.net##.leaderboard
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770414
-theskinny.co.uk##.container:style(margin-top: 0px !important)
+theskinny.co.uk##.container:style(margin-top: 0px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770441
 nme.com##.td-adspot-title
@@ -1019,10 +1019,10 @@ complex.com##.base__header-ad
 complex.com##.video-playlist__lead-right-ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770590
-hungertv.com##.holder:style(margin-top: 0px !important)
-hungertv.com##.banner:style(top: 0px !important)
-hungertv.com###fixed-slice:style(top: 0px !important)
-hungertv.com###fixed-slice-2:style(top: 0px !important)
+hungertv.com##.holder:style(margin-top: 0px !important;)
+hungertv.com##.banner:style(top: 0px !important;)
+hungertv.com###fixed-slice:style(top: 0px !important;)
+hungertv.com###fixed-slice-2:style(top: 0px !important;)
 hungertv.com##div[class*="offset-sm-"]
 hungertv.com##.preview.row
 hungertv.com###stick-section.sm-pad
@@ -1044,7 +1044,7 @@ amny.com##.gridlove-sidebar
 amny.com##.gridlove-posts.row > div:has(.gridlove-inject)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770868
-boston.com##.site-container:style(margin-top: -100px !important)
+boston.com##.site-container:style(margin-top: -100px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770885
 bustle.com##.ka.gr.gq
@@ -1236,7 +1236,7 @@ hardwareschotte.de##.ba-fullsize
 hardwareschotte.de###SkyscraperBo-x
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770615
-hardwareluxx.de##body:style(margin-top: 0px !important)
+hardwareluxx.de##body:style(margin-top: 0px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770653
 notebooksbilliger.de##.skyscraper
@@ -1317,7 +1317,7 @@ poipiku.com##.PcSideBarAd
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508301016
 min.dododori.com###fix-space
-min.dododori.com##footer:style(padding-bottom: 10px !important)
+min.dododori.com##footer:style(padding-bottom: 10px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/46#issuecomment-522807269
 blog.goo.ne.jp##.content-top
