@@ -58,7 +58,7 @@ encoretvb.com###square-ad-1
 encoretvb.com###leaderboard-ad-1
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121519
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533017
 gamejolt.com##.-ad
 gamejolt.com##.-recommended-ad
 
@@ -187,8 +187,8 @@ sportingnews.com##.grid-aside
 # https://github.com/NanoMeow/QuickReports/issues/2833
 glassdoor.*##[id*="-AdSlot-"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
-tass.com##div[class^=adsSlot]
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533009
+tass.com##div[class^="adsSlot"]
 
 # End Multilingual
 
@@ -1176,7 +1176,7 @@ kentonline.co.uk##.LeaderBack
 # https://github.com/NanoMeow/QuickReports/issues/2853
 cbc.ca##.risingstar-placeholder
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533036
 asia.nikkei.com##div[class^=ad-]
 asia.nikkei.com##.article__footer:has(:scope > .OUTBRAIN)
 
@@ -1330,7 +1330,7 @@ min.dododori.com##footer:style(padding-bottom: 10px !important;)
 blog.goo.ne.jp##.content-top
 blog.goo.ne.jp##.content-bottom
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533058
 www.nikkei.com##.k-ad
 www.nikkei.com##.k-hub-pr
 www.nikkei.com##.k-hub-footer-link__item--mpu
