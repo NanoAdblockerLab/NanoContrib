@@ -1177,7 +1177,7 @@ kentonline.co.uk##.LeaderBack
 cbc.ca##.risingstar-placeholder
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533036
-asia.nikkei.com##div[class^=ad-]
+asia.nikkei.com##div[class^="ad-"]
 asia.nikkei.com##.article__footer:has(:scope > .OUTBRAIN)
 
 # End English
