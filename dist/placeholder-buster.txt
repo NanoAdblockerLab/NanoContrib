@@ -193,6 +193,9 @@ sportingnews.com##.grid-aside
 # https://github.com/NanoMeow/QuickReports/issues/2833
 glassdoor.*##[id*="-AdSlot-"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+tass.com##div[class^=adsSlot]
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1179,6 +1182,10 @@ kentonline.co.uk##.LeaderBack
 # https://github.com/NanoMeow/QuickReports/issues/2853
 cbc.ca##.risingstar-placeholder
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+asia.nikkei.com##div[class^=ad-]
+asia.nikkei.com##.article__footer:has(:scope > .OUTBRAIN)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1331,6 +1338,12 @@ blog.goo.ne.jp##.content-bottom
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/61#issuecomment-548575887
 ina-ka.com##div[id^="asumi-frame-"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+www.nikkei.com##.k-ad
+www.nikkei.com##.k-hub-pr
+www.nikkei.com##.k-hub-footer-link__item--mpu
+www.nikkei.com##.newsTrendWatch
 
 # End Japanese
 
