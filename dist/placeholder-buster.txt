@@ -118,15 +118,8 @@ ateli.com##.mw-xl:has(:scope > ins.adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508300881
 emotionflow.com##.Ad3Tile
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508300905
-raiot.net##.single-page
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/35#issuecomment-508885620
 coingecko.com###top-banner
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/36#issuecomment-509035959
-webcams.travel##.ad
-webcams.travel##.ads
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/37#issuecomment-510285588
 dwarffortresswiki.org###p-Ad
@@ -1336,9 +1329,6 @@ min.dododori.com##footer:style(padding-bottom: 10px !important;)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/46#issuecomment-522807269
 blog.goo.ne.jp##.content-top
 blog.goo.ne.jp##.content-bottom
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/61#issuecomment-548575887
-ina-ka.com##div[id^="asumi-frame-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/80
 www.nikkei.com##.k-ad
