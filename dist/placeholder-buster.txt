@@ -58,8 +58,9 @@ encoretvb.com###square-ad-1
 encoretvb.com###leaderboard-ad-1
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121519
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
 gamejolt.com##.-ad
-gamejolt.com##.section-thin.section
+gamejolt.com##.-recommended-ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483200
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501929990
@@ -117,15 +118,8 @@ ateli.com##.mw-xl:has(:scope > ins.adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508300881
 emotionflow.com##.Ad3Tile
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508300905
-raiot.net##.single-page
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/35#issuecomment-508885620
 coingecko.com###top-banner
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/36#issuecomment-509035959
-webcams.travel##.ad
-webcams.travel##.ads
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/37#issuecomment-510285588
 dwarffortresswiki.org###p-Ad
@@ -192,6 +186,9 @@ sportingnews.com##.grid-aside
 
 # https://github.com/NanoMeow/QuickReports/issues/2833
 glassdoor.*##[id*="-AdSlot-"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+tass.com##div[class^=adsSlot]
 
 # End Multilingual
 
@@ -1179,6 +1176,10 @@ kentonline.co.uk##.LeaderBack
 # https://github.com/NanoMeow/QuickReports/issues/2853
 cbc.ca##.risingstar-placeholder
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+asia.nikkei.com##div[class^=ad-]
+asia.nikkei.com##.article__footer:has(:scope > .OUTBRAIN)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1329,8 +1330,12 @@ min.dododori.com##footer:style(padding-bottom: 10px !important;)
 blog.goo.ne.jp##.content-top
 blog.goo.ne.jp##.content-bottom
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/61#issuecomment-548575887
-ina-ka.com##div[id^="asumi-frame-"]
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
+www.nikkei.com##.k-ad
+www.nikkei.com##.k-hub-pr
+www.nikkei.com##.k-hub-footer-link__item--mpu
+www.nikkei.com##.newsTrendWatch
+www.nikkei.com##.PRb
 
 # End Japanese
 
