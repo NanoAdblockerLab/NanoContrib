@@ -58,8 +58,9 @@ encoretvb.com###square-ad-1
 encoretvb.com###leaderboard-ad-1
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121519
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80
 gamejolt.com##.-ad
-gamejolt.com##.section-thin.section
+!!!gamejolt.com##.section-thin.section
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483200
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501929990
