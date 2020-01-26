@@ -1335,6 +1335,7 @@ www.nikkei.com##.k-ad
 www.nikkei.com##.k-hub-pr
 www.nikkei.com##.k-hub-footer-link__item--mpu
 www.nikkei.com##.newsTrendWatch
+www.nikkei.com##.PRb
 
 # End Japanese
 
