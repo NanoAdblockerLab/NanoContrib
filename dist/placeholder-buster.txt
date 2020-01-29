@@ -70,7 +70,7 @@ dailymotion.com##div[class^="AdDiscovery"]
 myspace.com##.container-main > ul > li:has(div#ad-placement)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/17#issuecomment-475089221
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/81
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/81#issuecomment-579541397
 techadvisor.*###topLeaderBoardHolder
 techadvisor.*###marketPlace
 techadvisor.*###bottomLeaderBoardHolder
@@ -1183,11 +1183,11 @@ cbc.ca##.risingstar-placeholder
 asia.nikkei.com##div[class^="ad-"]
 asia.nikkei.com##.article__footer:has(:scope > .OUTBRAIN)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/81
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/81#issuecomment-579541418
 patches-scrolls.com###SkyBannerTopDiv
 patches-scrolls.com###ContentDiv:style(top: 0px !important;)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/81
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/81#issuecomment-579541446
 shyguysworld.com##.windowbg
 
 # End English
