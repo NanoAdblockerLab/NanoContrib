@@ -198,11 +198,11 @@ arabiaweather.com##.mpu-card
 arabiaweather.com##.leaderboard-container
 
 # https://github.com/NanoMeow/QuickReports/issues/1622
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870303
 accuweather.com##.ad
 accuweather.com##.glacier-ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870364
 weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.ad
 weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.banner_oben
 
@@ -1216,21 +1216,21 @@ shyguysworld.com##.windowbg
 discordemoji.com##.list-group-item:has(:scope > .adsbygoogle)
 discordemoji.com##.foot-content
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870512
 theweatheroutlook.com##div:has(:scope > #ma)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870580
 theweathernetwork.com##.featured_content_column > .promo_service.module
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870707
 holiday-weather.com###skyscraper
 holiday-weather.com##.resp-leaderboard
 holiday-weather.com##.content-footer
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
-capeweather.com##div[align=center]:not(:has(a)):has(.adsbygoogle)
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870785
+capeweather.com##div[align="center"]:not(:has(a)):has(.adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870878
 appleinsider.com###leaderboard
 
 # End English
@@ -1277,7 +1277,7 @@ e621.net##.content-post:style(width: calc(100% - 260px) !important;)
 # https://github.com/NanoMeow/QuickReports/issues/1724
 20minutes.fr##.ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870968
 meteomedia.com##div[id*="-gpt-ad"]
 
 # End French
