@@ -89,7 +89,7 @@ echoroukonline.com##.t3c__grid > div:has(.side-ads)
 prothomalo.com##.common_google_ads
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/23#issuecomment-492038304
-fandom.com,wikia.com###WikiaTopAds
+fandom.com,wikia.org###WikiaTopAds
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/23#issuecomment-492038353
 reuters.com##.RightRail_sticky:has(.DPSlot_slot)
@@ -196,6 +196,15 @@ tass.com##div[class^="adsSlot"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/82#issuecomment-579542164
 arabiaweather.com##.mpu-card
 arabiaweather.com##.leaderboard-container
+
+# https://github.com/NanoMeow/QuickReports/issues/1622
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+accuweather.com##.ad
+accuweather.com##.glacier-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.ad
+weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.banner_oben
 
 # End Multilingual
 
@@ -905,9 +914,6 @@ space.com##.slot-after_popular_box
 twingalaxies.com##.three-by-two:has(#atfBox)
 twingalaxies.com##.bg-dust:has(#btfLeaderboard)
 
-# https://github.com/NanoMeow/QuickReports/issues/1622
-accuweather.com##.ad
-
 # https://github.com/NanoMeow/QuickReports/issues/1975
 forbes.com##medianet
 forbes.com##.vestpocket
@@ -1210,6 +1216,23 @@ shyguysworld.com##.windowbg
 discordemoji.com##.list-group-item:has(:scope > .adsbygoogle)
 discordemoji.com##.foot-content
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+theweatheroutlook.com##div:has(:scope > #ma)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+theweathernetwork.com##.featured_content_column > .promo_service.module
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+holiday-weather.com###skyscraper
+holiday-weather.com##.resp-leaderboard
+holiday-weather.com##.content-footer
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+capeweather.com##div[align=center]:not(:has(a)):has(.adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+appleinsider.com###leaderboard
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1253,6 +1276,9 @@ e621.net##.content-post:style(width: calc(100% - 260px) !important;)
 
 # https://github.com/NanoMeow/QuickReports/issues/1724
 20minutes.fr##.ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/83
+meteomedia.com##div[id*="-gpt-ad"]
 
 # End French
 
