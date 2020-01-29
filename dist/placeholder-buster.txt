@@ -193,7 +193,7 @@ glassdoor.*##[id*="-AdSlot-"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533009
 tass.com##div[class^="adsSlot"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/82
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/82#issuecomment-579542164
 arabiaweather.com##.mpu-card
 arabiaweather.com##.leaderboard-container
 
@@ -210,16 +210,16 @@ ahram.org.eg###AdsFloating_divFloating
 filgoal.com##.ads.mediumrectangle
 filgoal.com##div.nth1:has(:scope > #POSTQUARE_WIDGET_ASIDE)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/82
-almasryalyoum.com##div[class^=ads]
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/82#issuecomment-579542180
+almasryalyoum.com##div[class^="ads"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/82
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/82#issuecomment-579542204
 twasul.info##.clearfix > .banners
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/82
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/82#issuecomment-579542233
 alrai.com##.col-xs-12:has(:scope > .visible-md.visible-lg)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/82
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/82#issuecomment-579542253
 akhbarelyom.com##.module:has(script[src$="/adsbygoogle.js"])
 
 # End Arabic
