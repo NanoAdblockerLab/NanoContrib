@@ -1206,6 +1206,10 @@ patches-scrolls.com###ContentDiv:style(top: 0px !important;)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/81#issuecomment-579541446
 shyguysworld.com##.windowbg
 
+# https://github.com/NanoMeow/QuickReports/issues/1045
+discordemoji.com##.list-group-item:has(:scope > .adsbygoogle)
+discordemoji.com##.foot-content
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
