@@ -1403,7 +1403,7 @@ game8.jp##.l-jack__top_container
 lifehacker.jp##.lh-banner
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/84
-sankei.com##div[style="width:300px;height:600px;"]:not(:has-text(/\S))
+sankei.com##div[style="width:300px;height:600px;"]:not(:has-text(/\S/))
 sankei.com##.row:has(div[id^="div-gpt-ad"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/84
