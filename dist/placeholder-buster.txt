@@ -1394,20 +1394,20 @@ www.nikkei.com##.k-hub-footer-link__item--mpu
 www.nikkei.com##.newsTrendWatch
 www.nikkei.com##.PRb
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/84
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508585
 businessinsider.jp##div:has(:scope > #bi_normal-2)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/84
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508620
 game8.jp##.l-jack__top_container
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/84
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508659
 lifehacker.jp##.lh-banner
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/84
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508700
 sankei.com##div[style="width:300px;height:600px;"]:not(:has-text(/\S/))
 sankei.com##.row:has(div[id^="div-gpt-ad"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/84
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508735
 nicoco.net###search_form + div
 
 # End Japanese
