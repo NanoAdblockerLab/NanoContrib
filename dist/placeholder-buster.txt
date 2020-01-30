@@ -179,7 +179,8 @@ ign.com##.secondary-ad
 armenianweekly.com##.mh-header-widget-1
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/76#issuecomment-573438246
-nytimes.com,nytimes3xbfgragh.onion##section[name="articleBody"] > div:not(.StoryBodyCompanionColumn):not([data-testid]):not(:last-of-type)
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/76#issuecomment-580280751
+nytimes.com,nytimes3xbfgragh.onion##nytimes.com##.css-190ncxp
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410104
 jasonsavard.com###pageMiddleAdWrapper
