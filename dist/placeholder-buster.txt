@@ -180,7 +180,7 @@ armenianweekly.com##.mh-header-widget-1
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/76#issuecomment-573438246
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/85#issuecomment-580459767
-nytimes.com,nytimes3xbfgragh.onion##nytimes.com##.css-190ncxp
+nytimes.com,nytimes3xbfgragh.onion##.css-190ncxp
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410104
 jasonsavard.com###pageMiddleAdWrapper
