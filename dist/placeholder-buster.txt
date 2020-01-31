@@ -1234,6 +1234,9 @@ capeweather.com##div[align="center"]:not(:has(a)):has(.adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870878
 appleinsider.com###leaderboard
 
+# https://github.com/NanoMeow/QuickReports/issues/1879
+streamable.com##.topbanner
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
