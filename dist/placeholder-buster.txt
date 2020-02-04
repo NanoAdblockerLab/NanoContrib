@@ -298,7 +298,7 @@ dhuvas.mv##.vc_column-inner:has(img[alt="sportsad"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501930025
 allenetflixseries.nl##.textwidget > p:has(:scope > script[src*="/adsbygoogle"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/87
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/87#issuecomment-582155535
 telegraaf.nl##.ArticlePageWrapper__banner
 telegraaf.nl##.ArticleBodyBlocks__inlineArticleSpotXBanner
 telegraaf.nl##.TextArticlePage__bannerWrapper
@@ -1252,7 +1252,7 @@ appleinsider.com###leaderboard
 # https://github.com/NanoMeow/QuickReports/issues/1879
 streamable.com##.topbanner
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/87
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/87#issuecomment-582155581
 replacementdocs.com##body > table > tbody tbody tbody > tr > td > table:has-text(Sponsored Links)
 
 # End English
