@@ -16,12 +16,14 @@
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706934
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457506
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410073
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/87
 !#if !env_mobile
 pixiv.net##.ads-top-info
 pixiv.net##.area_new:not(:has(.area_title))
 pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
 pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
 pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
+pixiv.net##li:has(:scope > iframe[name=infeed])
 !#endif
 !#if env_mobile
 pixiv.net##.ad-frame-container
@@ -289,6 +291,13 @@ dhuvas.mv##.vc_column-inner:has(img[alt="sportsad"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/31#issuecomment-501930025
 allenetflixseries.nl##.textwidget > p:has(:scope > script[src*="/adsbygoogle"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/87
+telegraaf.nl##.ArticlePageWrapper__banner
+telegraaf.nl##.ArticleBodyBlocks__inlineArticleSpotXBanner
+telegraaf.nl##.TextArticlePage__bannerWrapper
+telegraaf.nl##.SectionPage__bannerWrapper
+telegraaf.nl##.SecondaryCuratedTeasersLayout__bannerWrapper
 
 # End Dutch
 
@@ -1236,6 +1245,9 @@ appleinsider.com###leaderboard
 
 # https://github.com/NanoMeow/QuickReports/issues/1879
 streamable.com##.topbanner
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/87
+replacementdocs.com##body > table > tbody tbody tbody > tr > td > table:has-text(Sponsored Links)
 
 # End English
 
