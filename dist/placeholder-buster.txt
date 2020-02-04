@@ -9,27 +9,6 @@
 
 # Multilingual
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483145
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706934
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457506
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410073
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/87
-!#if !env_mobile
-pixiv.net##.ads-top-info
-pixiv.net##.area_new:not(:has(.area_title))
-pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
-pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
-pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
-pixiv.net##li:has(:scope > iframe[name=infeed])
-!#endif
-!#if env_mobile
-pixiv.net##.ad-frame-container
-pixiv.net##body[style^=margin-bottom]:style(margin-bottom: 0px !important;)
-!#endif
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/21#issuecomment-487796545
@@ -210,6 +189,33 @@ weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,
 weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.banner_oben
 
 # End Multilingual
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Multilingual NSFW
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483145
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706934
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457506
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410073
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/87
+!#if !env_mobile
+pixiv.net##.ads-top-info
+pixiv.net##.area_new:not(:has(.area_title))
+pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
+pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
+pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
+pixiv.net##li:has(:scope > iframe[name=infeed])
+!#endif
+!#if env_mobile
+pixiv.net##.ad-frame-container
+pixiv.net##body[style^=margin-bottom]:style(margin-bottom: 0px !important;)
+!#endif
+
+# End Multilingual NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
