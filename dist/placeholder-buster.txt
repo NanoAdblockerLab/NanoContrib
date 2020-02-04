@@ -1096,7 +1096,7 @@ washingtonpost.com###leaderboard-wrapper
 washingtonpost.com##div:has(:scope > wp-ad):not(#topper-headline-wrapper)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564256999
-worldarchitecture.org##div[class^=adv]
+worldarchitecture.org##div[class^="adv"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564257061
 wallpaper.com##.newPageAd
