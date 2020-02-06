@@ -1255,6 +1255,18 @@ streamable.com##.topbanner
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/87#issuecomment-582155581
 replacementdocs.com##body > table > tbody tbody tbody > tr > td > table:has-text(Sponsored Links)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/88
+activistpost.com##.widget_text:not(:has(a))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/88
+funnyand.com##.ad-unit-desktop
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/88
+naturalblaze.com##.single-widget:has([id^="div-gpt-ad-"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/88
+insidethegames.biz###ealert-banner
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
