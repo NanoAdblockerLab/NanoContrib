@@ -188,7 +188,7 @@ accuweather.com##.glacier-ad
 weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.ad
 weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.banner_oben
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693442
 transfermarkt.com##.werbung
 
 # End Multilingual
@@ -546,7 +546,7 @@ itstillworks.com##div.whitecard:has(script[src*="/pagead/"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/38#issuecomment-511089775
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/64#issuecomment-557918382
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693450
 majorgeeks.com##.geekad
 majorgeeks.com##.navigation-light
 majorgeeks.com##center:has-text(=Advertisement=)
@@ -1271,22 +1271,22 @@ naturalblaze.com##.single-widget:has([id^="div-gpt-ad-"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/88#issuecomment-583159164
 insidethegames.biz###ealert-banner
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693458
 winaero.com###page > div[style^="padding:"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693462
 petri.com##.single__ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693475
 ccm.net##.ccm_pugoo__sponso
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
-pcguide4u.com##div[id^=custom_html-]:not(:has(iframe))
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693493
+pcguide4u.com##div[id^="custom_html-"]:not(:has(iframe))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693505
 techgenix.com##.code-block + p:not(:has-text(/\S/))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693516
 edarabia.com##.sky-600
 edarabia.com##.mpu-300
 edarabia.com##.leaderboard-970
