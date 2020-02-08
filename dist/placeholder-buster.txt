@@ -188,6 +188,9 @@ accuweather.com##.glacier-ad
 weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.ad
 weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.banner_oben
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+transfermarkt.com##.werbung
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -542,7 +545,11 @@ mythicscribes.com##aside[id^="ai_widget-"]
 itstillworks.com##div.whitecard:has(script[src*="/pagead/"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/38#issuecomment-511089775
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/64#issuecomment-557918382
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
 majorgeeks.com##.geekad
+majorgeeks.com##.navigation-light
+majorgeeks.com##center:has-text(=Advertisement=)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024499
 !#if env_mobile
@@ -1019,9 +1026,6 @@ gamersnexus.net##.moduleContent:has-text(/^\n\t\t\tAdvertisements:\n/)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/64#issuecomment-557918369
 sidereel.com##.partial-bordered-module:has(:scope > div.OUTBRAIN)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/64#issuecomment-557918382
-majorgeeks.com##.navigation-light
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/64#issuecomment-557918393
 allmovie.com,allmusic.com##.footer-leaderboard
 
@@ -1266,6 +1270,27 @@ naturalblaze.com##.single-widget:has([id^="div-gpt-ad-"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/88#issuecomment-583159164
 insidethegames.biz###ealert-banner
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+winaero.com###page > div[style^="padding:"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+petri.com##.single__ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+ccm.net##.ccm_pugoo__sponso
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+pcguide4u.com##div[id^=custom_html-]:not(:has(iframe))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+techgenix.com##.code-block + p:not(:has-text(/\S/))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/89
+edarabia.com##.sky-600
+edarabia.com##.mpu-300
+edarabia.com##.leaderboard-970
+edarabia.com##.leaderboard-728
 
 # End English
 
