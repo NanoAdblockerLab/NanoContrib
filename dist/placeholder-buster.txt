@@ -1524,6 +1524,9 @@ slobodenpecat.mk###stream-item-widget-4:has(img[src*="ADVERTISMENT"])
 # https://github.com/NanoMeow/QuickReports/issues/2514
 plejada.pl###stickyWrapperAlone
 
+# https://github.com/NanoMeow/QuickReports/issues/2981
+queer.pl##.box-adv-super
+
 # End Polish
 
 # -------------------------------------------------------------------------------------------------------------------- #
