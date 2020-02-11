@@ -191,6 +191,9 @@ weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693442
 transfermarkt.com##.werbung
 
+# https://github.com/NanoMeow/QuickReports/issues/3020
+kijiji.*##.inline-banner
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
