@@ -197,6 +197,9 @@ kijiji.*##.inline-banner
 # https://github.com/NanoMeow/QuickReports/issues/2629
 linkedin.com##.org-container__ad-module
 
+# https://github.com/NanoMeow/QuickReports/issues/3034
+worldweatheronline.com###tob-banner
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
