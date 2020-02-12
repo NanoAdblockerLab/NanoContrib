@@ -194,6 +194,9 @@ transfermarkt.com##.werbung
 # https://github.com/NanoMeow/QuickReports/issues/3020
 kijiji.*##.inline-banner
 
+# https://github.com/NanoMeow/QuickReports/issues/2629
+linkedin.com##.org-container__ad-module
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
