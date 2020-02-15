@@ -200,6 +200,10 @@ linkedin.com##.org-container__ad-module
 # https://github.com/NanoMeow/QuickReports/issues/3034
 worldweatheronline.com###tob-banner
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/90
+gpfans.com##.top-leaderboard
+gpfans.com##.advertise-panel
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1300,6 +1304,18 @@ edarabia.com##.sky-600
 edarabia.com##.mpu-300
 edarabia.com##.leaderboard-970
 edarabia.com##.leaderboard-728
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/90
+bikesportnews.com##.advert-break-inline
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/90
+golfmagic.com##.ad-bottom-margin
+golfmagic.com##.block-block
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/90
+visordown.com##.panels-flexible-region-home_section-dmpu
+visordown.com##.ad-dmpu
+visordown.com##.mpu1
 
 # End English
 
