@@ -200,7 +200,7 @@ linkedin.com##.org-container__ad-module
 # https://github.com/NanoMeow/QuickReports/issues/3034
 worldweatheronline.com###tob-banner
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/90
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/90#issuecomment-586649650
 gpfans.com##.top-leaderboard
 gpfans.com##.advertise-panel
 
@@ -1305,14 +1305,14 @@ edarabia.com##.mpu-300
 edarabia.com##.leaderboard-970
 edarabia.com##.leaderboard-728
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/90
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/90#issuecomment-586649656
 bikesportnews.com##.advert-break-inline
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/90
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/90#issuecomment-586649672
 golfmagic.com##.ad-bottom-margin
 golfmagic.com##.block-block
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/90
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/90#issuecomment-586649689
 visordown.com##.panels-flexible-region-home_section-dmpu
 visordown.com##.ad-dmpu
 visordown.com##.mpu1
