@@ -1317,6 +1317,12 @@ visordown.com##.panels-flexible-region-home_section-dmpu
 visordown.com##.ad-dmpu
 visordown.com##.mpu1
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/91
+retaildive.com##.show-large:has(#dfp-leaderboard-desktop)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/91
+tellerreport.com##.ads
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
