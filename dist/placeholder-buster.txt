@@ -1323,6 +1323,12 @@ retaildive.com##.show-large:has(#dfp-leaderboard-desktop)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/91#issuecomment-587091119
 tellerreport.com##.ads
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/92
+douglascountysentinel.com,hpenews.com##.dfpAd
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/92
+forum.xda-developers.com##.leaderboard
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
