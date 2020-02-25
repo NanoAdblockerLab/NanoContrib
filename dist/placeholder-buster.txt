@@ -1329,6 +1329,9 @@ douglascountysentinel.com,hpenews.com##.dfpAd
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/92#issuecomment-589440711
 forum.xda-developers.com##.leaderboard
 
+# https://github.com/NanoMeow/QuickReports/issues/3136
+worldometers.info##.container > div:has(:scope > .adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
