@@ -1332,6 +1332,10 @@ forum.xda-developers.com##.leaderboard
 # https://github.com/NanoMeow/QuickReports/issues/3136
 worldometers.info##.container > div:has(:scope > .adsbygoogle)
 
+# https://github.com/NanoMeow/QuickReports/issues/3137
+m4uhd.net##.center:has(:scope > [id*="ScriptRoot"])
+m4uhd.net##.center:has(:scope > [id^="container-"])
+
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/93
 oregonlive.com###below-toprail
 oregonlive.com##.rightRail-top-wrapper
