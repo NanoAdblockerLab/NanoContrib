@@ -1344,6 +1344,14 @@ oregonlive.com##.ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/93#issuecomment-591122421
 leesvilledailyleader.com##.ad
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+currentresults.com##.ad-end-smart
+currentresults.com##.ad-blwttl-rec
+currentresults.com##.ad-mid-hor
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+zidbits.com##.widget_text:has(.adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
