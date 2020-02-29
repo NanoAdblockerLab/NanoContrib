@@ -1548,6 +1548,9 @@ sankei.com##.row:has(div[id^="div-gpt-ad"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508735
 nicoco.net###search_form + div
 
+# https://github.com/NanoMeow/QuickReports/issues/3167
+5ch.net###banner
+
 # End Japanese
 
 # -------------------------------------------------------------------------------------------------------------------- #
