@@ -1352,6 +1352,26 @@ currentresults.com##.ad-mid-hor
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/94
 zidbits.com##.widget_text:has(.adsbygoogle)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+orlandosentinel.com##.pb-f-ads-dfp
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+pawtuckettimes.com###main-bottom-container
+pawtuckettimes.com##.row:has(.tncms-region):not(:has-text(/\S/))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+perryvillenews.com##.block-block:has(.adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+post-gazette.com##.pgevoke-grid-row-full
+post-gazette.com##.pgevoke-topads
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+postsouth.com,therecordherald.com,sleepyeyenews.com,stjamesnews.com,chronicle-express.com##.ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+ptleader.com##.bottom-sticky
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
