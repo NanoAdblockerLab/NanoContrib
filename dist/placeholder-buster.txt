@@ -1344,32 +1344,32 @@ oregonlive.com##.ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/93#issuecomment-591122421
 leesvilledailyleader.com##.ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803029
 currentresults.com##.ad-end-smart
 currentresults.com##.ad-blwttl-rec
 currentresults.com##.ad-mid-hor
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803048
 zidbits.com##.widget_text:has(.adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803068
 orlandosentinel.com##.pb-f-ads-dfp
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803114
 pawtuckettimes.com###main-bottom-container
 pawtuckettimes.com##.row:has(.tncms-region):not(:has-text(/\S/))
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803142
 perryvillenews.com##.block-block:has(.adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803175
 post-gazette.com##.pgevoke-grid-row-full
 post-gazette.com##.pgevoke-topads
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803187
 postsouth.com,therecordherald.com,sleepyeyenews.com,stjamesnews.com,chronicle-express.com##.ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803220
 ptleader.com##.bottom-sticky
 
 # End English
