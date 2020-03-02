@@ -1372,6 +1372,9 @@ postsouth.com,therecordherald.com,sleepyeyenews.com,stjamesnews.com,chronicle-ex
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803220
 ptleader.com##.bottom-sticky
 
+# https://github.com/NanoMeow/QuickReports/issues/3176
+radarbox24.com##.map-ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
