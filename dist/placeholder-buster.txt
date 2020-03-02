@@ -1102,7 +1102,7 @@ amny.com##.gridlove-sidebar
 amny.com##.gridlove-posts.row > div:has(.gridlove-inject)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770868
-boston.com##.site-container:style(margin-top: -100px !important;)
+boston.com##body:style(padding-top: 110px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770885
 bustle.com##.ka.gr.gq
