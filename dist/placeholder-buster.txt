@@ -1183,7 +1183,8 @@ agcanada.com##.leaderboard
 americanmilitarynews.com###blogposts > div:not(:has(a))
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643239
-bastropenterprise.com,donaldsonvillechief.com,tricountyindependent.com,echo-pilot.com##.ad
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803187
+bastropenterprise.com,donaldsonvillechief.com,tricountyindependent.com,echo-pilot.com,postsouth.com,therecordherald.com,sleepyeyenews.com,stjamesnews.com,chronicle-express.com,the-leader.com,wellsvilledaily.com##.ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643332
 dailypress.com##.pb-f-ads-dfp
@@ -1366,9 +1367,6 @@ perryvillenews.com##.block-block:has(.adsbygoogle)
 post-gazette.com##.pgevoke-grid-row-full
 post-gazette.com##.pgevoke-topads
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803187
-postsouth.com,therecordherald.com,sleepyeyenews.com,stjamesnews.com,chronicle-express.com##.ad
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803220
 ptleader.com##.bottom-sticky
 
@@ -1377,6 +1375,23 @@ radarbox24.com##.map-ad
 
 # https://github.com/NanoAdblocker/NanoFilters/issues/458
 pureinfotech.com##.top-rvzone-block
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+thejournal-news.net##.lightblue.container
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+voiceofalexandria.com##.ad-cushion
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+weatherfarm.com##.wf-bigbox-advertising
+weatherfarm.com###wf-header-utility
+weatherfarm.com##.pushdown_ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+www.winnipegfreepress.com##.tile-container:has(:scope > .billboard-ad-space)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+wtxl.com##.TrackedBannerPromo
 
 # End English
 
