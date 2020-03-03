@@ -1184,6 +1184,7 @@ americanmilitarynews.com###blogposts > div:not(:has(a))
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643239
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803187
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229219
 bastropenterprise.com,donaldsonvillechief.com,tricountyindependent.com,echo-pilot.com,postsouth.com,therecordherald.com,sleepyeyenews.com,stjamesnews.com,chronicle-express.com,the-leader.com,wellsvilledaily.com##.ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643332
@@ -1376,21 +1377,24 @@ radarbox24.com##.map-ad
 # https://github.com/NanoAdblocker/NanoFilters/issues/458
 pureinfotech.com##.top-rvzone-block
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229249
 thejournal-news.net##.lightblue.container
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229291
 voiceofalexandria.com##.ad-cushion
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229391
 weatherfarm.com##.wf-bigbox-advertising
 weatherfarm.com###wf-header-utility
 weatherfarm.com##.pushdown_ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229430
 www.winnipegfreepress.com##.tile-container:has(:scope > .billboard-ad-space)
+marketplace.winnipegfreepress.com###ap_header_ad_link > a:has-text(Advertisment)
+marketplace.winnipegfreepress.com###ap_header_leaderboard
+marketplace.winnipegfreepress.com###ap_header:style(height: 138px !important;)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/96
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229469
 wtxl.com##.TrackedBannerPromo
 
 # End English
