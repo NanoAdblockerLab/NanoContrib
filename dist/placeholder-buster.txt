@@ -1373,6 +1373,9 @@ ptleader.com##.bottom-sticky
 # https://github.com/NanoMeow/QuickReports/issues/3176
 radarbox24.com##.map-ad
 
+# https://github.com/NanoAdblocker/NanoFilters/issues/458
+pureinfotech.com##.top-rvzone-block
+
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/96
 thejournal-news.net##.lightblue.container
 
