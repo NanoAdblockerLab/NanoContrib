@@ -1397,6 +1397,10 @@ marketplace.winnipegfreepress.com###ap_header:style(height: 138px !important;)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229469
 wtxl.com##.TrackedBannerPromo
 
+# https://github.com/NanoMeow/QuickReports/issues/3207
+salon.com##.proper-ad-unit + hr
+salon.com##.footer-ad-unit
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
