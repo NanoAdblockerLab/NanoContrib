@@ -1401,10 +1401,10 @@ wtxl.com##.TrackedBannerPromo
 salon.com##.proper-ad-unit + hr
 salon.com##.footer-ad-unit
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/97
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/97#issuecomment-596036103
 vidlii.com##.adsbygoogle
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/97
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/97#issuecomment-596036119
 palemoon.org##div:has-text(/^Advertisement:$/)
 
 # End English
