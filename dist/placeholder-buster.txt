@@ -1407,6 +1407,9 @@ vidlii.com##.adsbygoogle
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/97#issuecomment-596036119
 palemoon.org##div:has-text(/^Advertisement:$/)
 
+# https://github.com/NanoMeow/QuickReports/issues/539
+businessinsider.com##.taboola-container
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
