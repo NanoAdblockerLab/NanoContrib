@@ -1608,6 +1608,14 @@ nicoco.net###search_form + div
 # https://github.com/NanoMeow/QuickReports/issues/3167
 5ch.net###banner
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/99
+shindanmaker.com##div[id^="sm_pc_head"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/99
+weblio.jp##.ads-loader
+weblio.jp##.firstDictBnr
+weblio.jp##.rectangle-ads-frame-www
+
 # End Japanese
 
 # -------------------------------------------------------------------------------------------------------------------- #
