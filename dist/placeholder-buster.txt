@@ -1429,7 +1429,7 @@ netweather.tv##.hide-for-small[style$="99999;"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/98#issuecomment-596267922
 winteriscoming.net##li:has(.fs_ad_widget-ad)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/99
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/99#issuecomment-597430472
 9to5mac.com##.ad-container
 9to5mac.com##.inlinead
 
@@ -1612,10 +1612,10 @@ nicoco.net###search_form + div
 # https://github.com/NanoMeow/QuickReports/issues/3167
 5ch.net###banner
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/99
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/99#issuecomment-597430513
 shindanmaker.com##div[id^="sm_pc_head"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/99
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/99#issuecomment-597430538
 weblio.jp##.ads-loader
 weblio.jp##.firstDictBnr
 weblio.jp##.rectangle-ads-frame-www
