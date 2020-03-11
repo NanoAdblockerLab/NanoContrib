@@ -1429,6 +1429,10 @@ netweather.tv##.hide-for-small[style$="99999;"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/98#issuecomment-596267922
 winteriscoming.net##li:has(.fs_ad_widget-ad)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/99
+9to5mac.com##.ad-container
+9to5mac.com##.inlinead
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
