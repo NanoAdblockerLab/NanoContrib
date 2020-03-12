@@ -715,7 +715,11 @@ comicbookrealm.com###sad
 comicbookrealm.com###tad
 
 # https://github.com/NanoMeow/QuickReports/issues/1382
-allkpop.com##article:has(script):not(:has(article))
+# https://github.com/NanoMeow/QuickReports/issues/3283
+allkpop.com##section.full-width > section[style]
+allkpop.com##article:has(:scope > script)
+allkpop.com##article:has(:scope > [id^="div-gpt-ad-"])
+allkpop.com##article:has(:scope > div > .pbs)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800272
 ghanafa.org##.fa-advertising__content
