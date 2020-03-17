@@ -1437,15 +1437,15 @@ winteriscoming.net##li:has(.fs_ad_widget-ad)
 9to5mac.com##.ad-container
 9to5mac.com##.inlinead
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/100
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/100#issuecomment-600108425
 dailyherald.com##.instoryAdBlock
 dailyherald.com##.instoryAdNoBlock
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/100
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/100#issuecomment-600108472
 180info.co.uk##.ai-top-ad-outer
 180info.co.uk##.idle-timeout-outer
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/100
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/100#issuecomment-600108530
 businesstoday.in##.colum[style]
 
 # End English
@@ -1483,13 +1483,13 @@ rule34.xxx##.content:style(width: calc(100% - 220px) !important;)
 e621.net##.content-post:style(width: calc(100% - 260px) !important;)
 !#endif
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/100
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/100#issuecomment-600108652
 rule34hentai.net##.blockbody:has(:scope > .adver-iframe)
 rule34hentai.net##.blockbody:has(:scope > script:only-child)
 rule34hentai.net##.blockbody:has(:scope > script[src*="exosrv"])
 rule34hentai.net###Recommended_for_youleft
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/100
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/100#issuecomment-600108738
 hard55.com,analbooru.com,zombooru.com##.banner_hor
 
 # End English NSFW
