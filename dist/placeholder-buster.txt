@@ -1652,6 +1652,9 @@ weblio.jp##.ads-loader
 weblio.jp##.firstDictBnr
 weblio.jp##.rectangle-ads-frame-www
 
+# https://github.com/NanoMeow/QuickReports/issues/3350
+shindanmaker.com##.taboola_block1
+
 # End Japanese
 
 # -------------------------------------------------------------------------------------------------------------------- #
