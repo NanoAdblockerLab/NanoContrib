@@ -1340,6 +1340,7 @@ forum.xda-developers.com##.leaderboard
 
 # https://github.com/NanoMeow/QuickReports/issues/3136
 worldometers.info##.container > div:has(:scope > .adsbygoogle)
+worldometers.info##.sharewrap
 
 # https://github.com/NanoMeow/QuickReports/issues/3137
 m4uhd.net##.center:has(:scope > [id*="ScriptRoot"])
