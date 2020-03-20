@@ -1448,6 +1448,11 @@ dailyherald.com##.instoryAdNoBlock
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/100#issuecomment-600108530
 businesstoday.in##.colum[style]
 
+# https://github.com/NanoMeow/QuickReports/issues/3348
+okcaller.com##script:has-text(adsbygoogle) + br
+okcaller.com##.col-sm-4:has(:scope > .adsbygoogle)
+okcaller.com##.separator
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
