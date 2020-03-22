@@ -847,7 +847,14 @@ mediabiasfactcheck.com##center:has(script[src*="/adsbygoogle."])
 rugbyworld.com##.apester-element
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/46#issuecomment-522807250
+# https://github.com/NanoMeow/QuickReports/issues/829
 telegraph.co.uk##div[class*="picGrid-"]:has(a[href^="/sponsored/"])
+telegraph.co.uk##.summaryMedium:has(:scope > [bucket-id^="article_commercial_"])
+telegraph.co.uk##.summaryMedium:has(:scope > [bucket-id^="editors_choice_"])
+telegraph.co.uk##.summaryMedium:has-text(More from the web)
+telegraph.co.uk##.summaryPadding
+telegraph.co.uk##.commercial-unit
+telegraph.co.uk##.more-stories
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/47#issuecomment-523706866
 dummies.com##.ads
