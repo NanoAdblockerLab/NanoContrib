@@ -1461,6 +1461,9 @@ okcaller.com##script:has-text(adsbygoogle) + br
 okcaller.com##.col-sm-4:has(:scope > .adsbygoogle)
 okcaller.com##.separator
 
+# https://github.com/NanoMeow/QuickReports/issues/3375
+boundingintocomics.com##.widget_custom_html:has([id^="zergnet-widget-"])
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
