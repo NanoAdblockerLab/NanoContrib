@@ -965,8 +965,9 @@ twingalaxies.com##.three-by-two:has(#atfBox)
 twingalaxies.com##.bg-dust:has(#btfLeaderboard)
 
 # https://github.com/NanoMeow/QuickReports/issues/1975
+# https://github.com/NanoMeow/QuickReports/issues/2109
+forbes.com##fbs-ad
 forbes.com##medianet
-forbes.com##.vestpocket
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/56#issuecomment-539256339
 thejc.com##.grid__item:has(:scope > .advert):not(:has(a))
