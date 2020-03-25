@@ -1475,6 +1475,12 @@ cheatsheet.com##body:style(padding-top: 0px !important;)
 # https://github.com/NanoMeow/QuickReports/issues/3389
 unix.com##[id^="zone-"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/101
+condoblues.com##script[src*="nmedianet"]:nth-ancestor(1)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/101
+vice.com##.short-form-right-rail__content
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
