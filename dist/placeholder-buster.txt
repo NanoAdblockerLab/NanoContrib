@@ -1469,6 +1469,9 @@ boundingintocomics.com##.widget_custom_html:has([id^="zergnet-widget-"])
 newsbusters.org##.block-internal-ad
 newsbusters.org##.nb-not-content
 
+# https://github.com/NanoMeow/QuickReports/issues/3387
+cheatsheet.com##body:style(padding-top: 0px !important;)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
