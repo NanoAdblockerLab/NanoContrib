@@ -1472,6 +1472,9 @@ newsbusters.org##.nb-not-content
 # https://github.com/NanoMeow/QuickReports/issues/3387
 cheatsheet.com##body:style(padding-top: 0px !important;)
 
+# https://github.com/NanoMeow/QuickReports/issues/3389
+unix.com##[id^="zone-"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
