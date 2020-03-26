@@ -207,7 +207,7 @@ gpfans.com##.advertise-panel
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/98#issuecomment-596267883
 sat24.com###headercontent-onder
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/101
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/101#issuecomment-604470628
 vice.com##.short-form-right-rail__content
 
 # End Multilingual
@@ -1478,7 +1478,7 @@ cheatsheet.com##body:style(padding-top: 0px !important;)
 # https://github.com/NanoMeow/QuickReports/issues/3389
 unix.com##[id^="zone-"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/101
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/101#issuecomment-604470687
 condoblues.com##script[src*="nmedianet"]:nth-ancestor(1)
 
 # End English
