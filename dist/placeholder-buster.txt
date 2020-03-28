@@ -173,7 +173,7 @@ sportingnews.com##.grid-aside
 glassdoor.*##[id*="-AdSlot-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533009
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/102
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393551
 tass.com##div[class^="adsSlot"]
 tass.com##.section-grid__col:has([class^="adsSlot"])
 tass.com##.news-list-content__aside
@@ -1353,8 +1353,11 @@ douglascountysentinel.com,hpenews.com##.dfpAd
 forum.xda-developers.com##.leaderboard
 
 # https://github.com/NanoMeow/QuickReports/issues/3136
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393557
 worldometers.info##.container > div:has(:scope > .adsbygoogle)
+worldometers.info##.container > .row:first-of-type
 worldometers.info##.sharewrap
+worldometers.info##.col-md-4
 
 # https://github.com/NanoMeow/QuickReports/issues/3137
 m4uhd.net##.center:has(:scope > [id*="ScriptRoot"])
@@ -1484,14 +1487,10 @@ unix.com##[id^="zone-"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/101#issuecomment-604470687
 condoblues.com##script[src*="nmedianet"]:nth-ancestor(1)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/102
-worldometers.info##.col-md-4
-worldometers.info##.container > .row:first-of-type
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/102
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393582
 indy100.com##amp-list:nth-ancestor(1)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/102
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393587
 worldatlas.com##.dynamicInsert-block
 
 # End English
