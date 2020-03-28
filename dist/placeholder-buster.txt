@@ -173,7 +173,10 @@ sportingnews.com##.grid-aside
 glassdoor.*##[id*="-AdSlot-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533009
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/102
 tass.com##div[class^="adsSlot"]
+tass.com##.section-grid__col:has([class^="adsSlot"])
+tass.com##.news-list-content__aside
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/82#issuecomment-579542164
 arabiaweather.com##.mpu-card
@@ -1480,6 +1483,16 @@ unix.com##[id^="zone-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/101#issuecomment-604470687
 condoblues.com##script[src*="nmedianet"]:nth-ancestor(1)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/102
+worldometers.info##.col-md-4
+worldometers.info##.container > .row:first-of-type
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/102
+indy100.com##amp-list:nth-ancestor(1)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/102
+worldatlas.com##.dynamicInsert-block
 
 # End English
 
