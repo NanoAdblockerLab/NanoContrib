@@ -1500,9 +1500,9 @@ loudersound.com##.newsletter-signup
 namepros.com##.npDisclaimer + div
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/103
-blackhat.directory##div[id^=ad][align=center]
-blackhat.directory##.row:has(:scope > div[id^=ad][align=center])
-blackhat.directory##.row:has(:scope > .row > div[id^=ad][align=center])
+blackhat.directory##div[id^="ad"][align="center"]
+blackhat.directory##.row:has(:scope > div[id^="ad"][align="center"])
+blackhat.directory##.row:has(:scope > .row > div[id^="ad"][align="center"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/103
 ip-tracker.org###rekl
