@@ -1496,15 +1496,15 @@ worldatlas.com##.dynamicInsert-block
 # https://github.com/NanoMeow/QuickReports/issues/3447
 loudersound.com##.newsletter-signup
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/103
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/103#issuecomment-606680593
 namepros.com##.npDisclaimer + div
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/103
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/103#issuecomment-606680651
 blackhat.directory##div[id^="ad"][align="center"]
 blackhat.directory##.row:has(:scope > div[id^="ad"][align="center"])
 blackhat.directory##.row:has(:scope > .row > div[id^="ad"][align="center"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/103
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/103#issuecomment-606680705
 ip-tracker.org###rekl
 
 # End English
