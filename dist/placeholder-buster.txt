@@ -1493,6 +1493,9 @@ indy100.com##amp-list:nth-ancestor(1)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393587
 worldatlas.com##.dynamicInsert-block
 
+# https://github.com/NanoMeow/QuickReports/issues/3447
+loudersound.com##.newsletter-signup
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
