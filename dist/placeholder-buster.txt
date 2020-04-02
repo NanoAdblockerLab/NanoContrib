@@ -1510,6 +1510,9 @@ blackhat.directory##.row:has(:scope > .row > div[id^="ad"][align="center"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/103#issuecomment-606680705
 ip-tracker.org###rekl
 
+# https://github.com/NanoMeow/QuickReports/issues/3465
+nascar.com##.nascar-advertisement
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
