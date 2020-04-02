@@ -213,6 +213,9 @@ sat24.com###headercontent-onder
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/101#issuecomment-604470628
 vice.com##.short-form-right-rail__content
 
+# https://github.com/NanoMeow/QuickReports/issues/3448
+downdetector.*,allestoringen.*,xn--allestrungen-9ib.*##.ad + .card.my-3:style(margin-top: 0.5rem !important;)
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
