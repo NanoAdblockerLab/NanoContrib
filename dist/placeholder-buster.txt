@@ -1513,6 +1513,9 @@ ip-tracker.org###rekl
 # https://github.com/NanoMeow/QuickReports/issues/3465
 nascar.com##.nascar-advertisement
 
+# https://github.com/NanoMeow/QuickReports/issues/3479
+tenforums.com##.chill
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
