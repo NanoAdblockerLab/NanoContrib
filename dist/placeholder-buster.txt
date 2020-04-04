@@ -1516,6 +1516,9 @@ nascar.com##.nascar-advertisement
 # https://github.com/NanoMeow/QuickReports/issues/3479
 tenforums.com##.chill
 
+# https://github.com/NanoMeow/QuickReports/issues/3481
+techrepublic.com##.content > div:has(:scope > .sharethrough-article)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
