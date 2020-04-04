@@ -1519,6 +1519,12 @@ tenforums.com##.chill
 # https://github.com/NanoMeow/QuickReports/issues/3481
 techrepublic.com##.content > div:has(:scope > .sharethrough-article)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/104
+mediabiasfactcheck.com##tr:has(.adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/104
+newrepublic.com##.inserted-dfp
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1779,6 +1785,13 @@ plejada.pl###stickyWrapperAlone
 
 # https://github.com/NanoMeow/QuickReports/issues/2981
 queer.pl##.box-adv-super
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/104
+# https://github.com/DandelionSprout/adfilt/issues/63#issuecomment-608528241
+!#if !env_mobile
+photoblog.pl##.frontpage-teaser-photo-container:style(height: 170px !important)
+photoblog.pl##.frontpage-teaser-photo-container > h1:style(margin-top: 30px !important)
+!#endif
 
 # End Polish
 
