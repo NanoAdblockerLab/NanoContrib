@@ -1518,6 +1518,11 @@ nascar.com##.nascar-advertisement
 # https://github.com/NanoMeow/QuickReports/issues/3479
 tenforums.com##.chill
 
+# https://github.com/NanoMeow/QuickReports/issues/3479
+sevenforums.com##.media400:has(.adsbygoogle):not(:has(.myh3))
+sevenforums.com###posts > .media400
+sevenforums.com##.chillad
+
 # https://github.com/NanoMeow/QuickReports/issues/3481
 techrepublic.com##.content > div:has(:scope > .sharethrough-article)
 
