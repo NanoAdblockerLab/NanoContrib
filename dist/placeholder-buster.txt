@@ -216,6 +216,10 @@ vice.com##.short-form-right-rail__content
 # https://github.com/NanoMeow/QuickReports/issues/3448
 downdetector.*,allestoringen.*,xn--allestrungen-9ib.*##.ad + .card.my-3:style(margin-top: 0.5rem !important;)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/105
+shoutwiki.com##.monobook-ad
+shoutwiki.com###content.mw-body:style(margin-right: 8px !important)
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1528,6 +1532,10 @@ techrepublic.com##.content > div:has(:scope > .sharethrough-article)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/104#issuecomment-609051813
 newrepublic.com##.inserted-dfp
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/105
+getfootballnewsfrance.com##.widget_text
+getfootballnewsfrance.com##div[id^="rcjsload"]
 
 # End English
 
