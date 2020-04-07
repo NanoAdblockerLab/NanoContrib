@@ -1675,7 +1675,7 @@ gazzetta.it###l-main:style(padding-top: 0px !important;)
 # Japanese
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/14#issuecomment-469960209
-atwiki.jp##.at_h_clearfix
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/106
 atwiki.jp##.adsbygoogle
 atwiki.jp###ads
 
