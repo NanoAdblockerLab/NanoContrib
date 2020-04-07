@@ -4,7 +4,8 @@ Community filters
 
 These filters are not privileged unless indicated otherwise.
 
-Please open pull requests with appropriate details.
+Please open pull requests with appropriate details (at minimum a test link is
+required).
 
 ## Placeholder Buster
 
