@@ -1537,6 +1537,10 @@ newrepublic.com##.inserted-dfp
 getfootballnewsfrance.com##div[id^="rcjsload"]
 getfootballnewsfrance.com##.widget_text
 
+# https://github.com/NanoMeow/QuickReports/issues/3534
+signup.com##.right-column:has(#right_ad_content)
+signup.com##.right-content:has(#right_ad_content)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
