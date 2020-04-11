@@ -1541,6 +1541,9 @@ getfootballnewsfrance.com##.widget_text
 signup.com##.right-column:has(#right_ad_content)
 signup.com##.right-content:has(#right_ad_content)
 
+# https://github.com/NanoMeow/QuickReports/issues/3548
+gamepress.gg##.news-ads-top
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
