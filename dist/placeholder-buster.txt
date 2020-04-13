@@ -669,6 +669,8 @@ blogfonts.com##.column_right:has(.adsbygoogle)
 webfonts0.com##div:has(:scope > .adsbygoogle)
 
 # https://github.com/NanoMeow/QuickReports/issues/1043
+# https://github.com/NanoMeow/QuickReports/issues/3309
+bleepingcomputer.com##.post_block:has(:scope > .post_wrap > h3:has-text(BC AdBot (Login to Remove))
 bleepingcomputer.com##.cz-related-article-wrapp:has(:scope > .adsbygoogle)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/25#issuecomment-495819425
