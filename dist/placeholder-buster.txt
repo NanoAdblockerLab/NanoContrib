@@ -1503,7 +1503,8 @@ indy100.com##amp-list:nth-ancestor(1)
 worldatlas.com##.dynamicInsert-block
 
 # https://github.com/NanoMeow/QuickReports/issues/3447
-loudersound.com##.newsletter-signup
+# https://github.com/NanoMeow/QuickReports/issues/3559
+creativebloq.com,loudersound.com##.newsletter-signup
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/103#issuecomment-606680593
 namepros.com##.npDisclaimer + div
