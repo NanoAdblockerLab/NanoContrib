@@ -1567,6 +1567,12 @@ calgaryherald.com##.row.widget:has([data-list-type="related_articles"])
 calgaryherald.com##.row.widget:has(.widget-flyercity)
 calgaryherald.com##.ad__section-border
 
+# https://github.com/NanoMeow/QuickReports/issues/3385
+nypost.com##.widget_text.module:has(a[href*="?utm_source=nypost"])
+nypost.com##.widget_nypost_dfp_ad_widget
+nypost.com##.nyp-article-footer-outbrain-wrapper
+nypost.com##.outbrain-enabled
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
