@@ -1365,6 +1365,10 @@ tellerreport.com##.ads
 douglascountysentinel.com,hpenews.com##.dfpAd
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/92#issuecomment-589440711
+# https://github.com/NanoMeow/QuickReports/issues/1672
+forum.xda-developers.com##.postbit-userinfo-cell:not(:has-text(/\w/))
+forum.xda-developers.com##.purchad:upward(1)
+forum.xda-developers.com##div[class^="rsb-"]
 forum.xda-developers.com##.leaderboard
 
 # https://github.com/NanoMeow/QuickReports/issues/3136
