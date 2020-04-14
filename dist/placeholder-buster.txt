@@ -85,6 +85,9 @@ fonts2u.com###banner_bottom
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/25#issuecomment-495819437
 grammaire.reverso.net,grammar.reverso.net###ads
 
+# https://github.com/NanoMeow/QuickReports/issues/2652
+reverso.net##.locdrcas
+
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/27#issuecomment-497180207
 onthesnow.*,skiinfo.*###adpos_Skyscraper_wrap
 onthesnow.*,skiinfo.*##.leaderboard
