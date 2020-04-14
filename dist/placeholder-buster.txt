@@ -1650,6 +1650,9 @@ hard55.com,analbooru.com,zombooru.com##.banner_hor
 pornhub.*##body > div:has(:scope > .removeAdLink)
 pornhub.*###hd-rightColVideoPage > div.clearfix
 
+# https://github.com/NanoMeow/QuickReports/issues/1231
+redtube.*##div:has(:scope > iframe + script + a.remove_ads)
+
 # End English NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
