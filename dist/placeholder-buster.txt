@@ -1901,6 +1901,10 @@ forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
 # https://github.com/NanoMeow/QuickReports/issues/852
 yoututosjeff.es##.widget-content:has(:scope > .adsbygoogle)
 
+# https://github.com/NanoMeow/QuickReports/issues/2688
+botanical-online.com##.row:nth-of-type(2):has(.anes)
+botanical-online.com##.anes
+
 # End Spanish
 
 # -------------------------------------------------------------------------------------------------------------------- #
