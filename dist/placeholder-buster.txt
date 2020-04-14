@@ -1599,6 +1599,9 @@ dictionary.com##.wide-ad-new-layout
 # https://github.com/NanoMeow/QuickReports/issues/682
 theglobeandmail.com##.pb-f-commercial-dfp-ads
 
+# https://github.com/NanoMeow/QuickReports/issues/1226
+i-dont-care-about-cookies.eu##.mt-5:has(.adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
