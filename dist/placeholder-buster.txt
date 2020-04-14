@@ -1562,6 +1562,11 @@ sfgate.com##.ctpl-fullbanner
 sfgate.com###ctpl-fullbanner-spacer
 sfgate.com###site-nav-spacer
 
+# https://github.com/NanoMeow/QuickReports/issues/3315
+calgaryherald.com##.row.widget:has([data-list-type="related_articles"])
+calgaryherald.com##.row.widget:has(.widget-flyercity)
+calgaryherald.com##.ad__section-border
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
