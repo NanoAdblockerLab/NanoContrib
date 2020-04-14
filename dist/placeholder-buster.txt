@@ -1555,6 +1555,13 @@ slate.com##.ad--inArticleBanner
 # https://github.com/NanoMeow/QuickReports/issues/2867
 researchgate.net##.is-sticky:style(top: 0px !important;)
 
+# https://github.com/NanoMeow/QuickReports/issues/2932
+sfgate.com###subHead:style(transform: none !important;)
+sfgate.com###siteNav:style(transform: none !important;)
+sfgate.com##.ctpl-fullbanner
+sfgate.com###ctpl-fullbanner-spacer
+sfgate.com###site-nav-spacer
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
