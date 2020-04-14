@@ -1594,6 +1594,9 @@ dictionary.com##aside[id^="dcom-serp-"]
 dictionary.com##.wide-ad-leaderboard
 dictionary.com##.wide-ad-new-layout
 
+# https://github.com/NanoMeow/QuickReports/issues/682
+theglobeandmail.com##.pb-f-commercial-dfp-ads
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
