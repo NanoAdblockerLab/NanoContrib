@@ -1585,6 +1585,11 @@ checkwhocalled.com##.adsbygoogle + script + article:style(padding-top: 0px !impo
 checkwhocalled.com###top_right:style(max-width: none !important; padding-bottom: 5px !important;)
 checkwhocalled.com###top_left
 
+# https://github.com/NanoMeow/QuickReports/issues/2584
+dictionary.com##aside[id^="dcom-serp-"]
+dictionary.com##.wide-ad-leaderboard
+dictionary.com##.wide-ad-new-layout
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
