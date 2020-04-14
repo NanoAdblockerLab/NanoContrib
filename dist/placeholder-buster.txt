@@ -1546,6 +1546,9 @@ signup.com##.right-content:has(#right_ad_content)
 # https://github.com/NanoMeow/QuickReports/issues/3548
 gamepress.gg##.news-ads-top
 
+# https://github.com/NanoMeow/QuickReports/issues/3557
+download.pixelexperience.org##body > div:has(.adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
