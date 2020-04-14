@@ -1576,6 +1576,10 @@ nypost.com##.outbrain-enabled
 # https://github.com/NanoMeow/QuickReports/issues/3210
 shmoop.com##iframe[src^="https://dn5bj2dqerm21.cloudfront.net/"]
 
+# https://github.com/NanoMeow/QuickReports/issues/3349
+latestnumber.com##.h90
+latestnumber.com##.hidden-xs
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
