@@ -1559,11 +1559,13 @@ slate.com##.ad--inArticleBanner
 researchgate.net##.is-sticky:style(top: 0px !important;)
 
 # https://github.com/NanoMeow/QuickReports/issues/2932
-sfgate.com###subHead:style(transform: none !important;)
-sfgate.com###siteNav:style(transform: none !important;)
-sfgate.com##.ctpl-fullbanner
-sfgate.com###ctpl-fullbanner-spacer
-sfgate.com###site-nav-spacer
+# https://github.com/NanoMeow/QuickReports/issues/406
+mysanantonio.com,sfgate.com###subHead:style(transform: none !important;)
+mysanantonio.com,sfgate.com###siteNav:style(transform: none !important;)
+mysanantonio.com,sfgate.com###ctpl-fullbanner-spacer
+mysanantonio.com,sfgate.com###site-nav-spacer
+mysanantonio.com,sfgate.com##.ctpl-fullbanner
+mysanantonio.com##.zoneInlineD
 
 # https://github.com/NanoMeow/QuickReports/issues/3315
 calgaryherald.com##.row.widget:has([data-list-type="related_articles"])
