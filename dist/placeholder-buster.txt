@@ -1593,6 +1593,12 @@ rule34hentai.net###Recommended_for_youleft
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/100#issuecomment-600108738
 hard55.com,analbooru.com,zombooru.com##.banner_hor
 
+# https://github.com/NanoMeow/QuickReports/issues/3270
+pornhub.*##body > div:has(:scope > .removeAdLink)
+pornhub.*##body > .reset
+pornhub.*###hd-rightColVideoPage > div.clearfix
+pornhub.*###main-container > .reset
+
 # End English NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
