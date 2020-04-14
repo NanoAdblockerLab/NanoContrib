@@ -1549,6 +1549,9 @@ gamepress.gg##.news-ads-top
 # https://github.com/NanoMeow/QuickReports/issues/3557
 download.pixelexperience.org##body > div:has(.adsbygoogle)
 
+# https://github.com/NanoMeow/QuickReports/issues/2482
+slate.com##.ad--inArticleBanner
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
