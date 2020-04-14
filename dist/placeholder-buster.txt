@@ -1580,6 +1580,11 @@ shmoop.com##iframe[src^="https://dn5bj2dqerm21.cloudfront.net/"]
 latestnumber.com##.h90
 latestnumber.com##.hidden-xs
 
+# https://github.com/NanoMeow/QuickReports/issues/3297
+checkwhocalled.com##.adsbygoogle + script + article:style(padding-top: 0px !important;)
+checkwhocalled.com###top_right:style(max-width: none !important; padding-bottom: 5px !important;)
+checkwhocalled.com###top_left
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
