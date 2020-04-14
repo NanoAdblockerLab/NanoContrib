@@ -1573,6 +1573,9 @@ nypost.com##.widget_nypost_dfp_ad_widget
 nypost.com##.nyp-article-footer-outbrain-wrapper
 nypost.com##.outbrain-enabled
 
+# https://github.com/NanoMeow/QuickReports/issues/3210
+shmoop.com##iframe[src^="https://dn5bj2dqerm21.cloudfront.net/"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
