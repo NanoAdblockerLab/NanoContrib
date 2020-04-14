@@ -1895,6 +1895,12 @@ bolha.com##.BannerBillboard
 
 # Russian
 
+# https://github.com/NanoMeow/QuickReports/issues/1159
+armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open('http://www.stimulcash.com')"])
+armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open('http://www.stimulcash.com')"]) + br
+armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open('http://www.stimulcash.com')"]) + br + br
+armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open('http://www.stimulcash.com')"]) + br + br + br
+
 # End Russian
 
 # -------------------------------------------------------------------------------------------------------------------- #
