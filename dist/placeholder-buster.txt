@@ -632,7 +632,9 @@ howto-connect.com##.widget_text_smart:has(ins.adsbygoogle)
 mangarock.com##div:has(:scope > [id^="taboola"])
 
 # https://github.com/NanoMeow/QuickReports/issues/372
+# https://github.com/NanoMeow/QuickReports/issues/1023
 usgamer.net##.leaderboard-container
+usgamer.net##.recommendations
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/20#issuecomment-485269960
 manualslib.com##.manualban-bot
