@@ -1657,6 +1657,11 @@ pornhub.*###hd-rightColVideoPage > div.clearfix
 # https://github.com/NanoMeow/QuickReports/issues/1231
 redtube.*##div:has(:scope > iframe + script + a.remove_ads)
 
+# https://github.com/NanoMeow/QuickReports/issues/3578
+simpleflying.com##.widget:has(.simpl-adlabel)
+simpleflying.com##.simpl-adlabel
+simpleflying.com###featured-video
+
 # End English NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
