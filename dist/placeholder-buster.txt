@@ -1610,6 +1610,9 @@ i-dont-care-about-cookies.eu##.mt-5:has(.adsbygoogle)
 web-capture.net###bookmarklet:style(margin-left: 0px !important;)
 web-capture.net###result_ad_box
 
+# https://github.com/NanoMeow/QuickReports/issues/2319
+cartoonbrew.com##.cb-ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
