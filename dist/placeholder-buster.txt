@@ -1606,6 +1606,10 @@ theglobeandmail.com##.pb-f-commercial-dfp-ads
 # https://github.com/NanoMeow/QuickReports/issues/1226
 i-dont-care-about-cookies.eu##.mt-5:has(.adsbygoogle)
 
+# https://github.com/NanoMeow/QuickReports/issues/3547
+web-capture.net###bookmarklet:style(margin-left: 0px !important;)
+web-capture.net###result_ad_box
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
