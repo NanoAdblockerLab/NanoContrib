@@ -1726,6 +1726,11 @@ spox.com##.fullrow
 # https://github.com/NanoMeow/QuickReports/issues/1420
 13news.co.il,13tv.co.il##div[class^="grid-block"]:has(:scope > iframe[src*="/third-party/dfp/dfp.html"])
 
+# https://github.com/NanoMeow/QuickReports/issues/3524
+themarker.com##header ~ div:has(.js-dfp-ad)
+themarker.com##section:has(:scope > .OUTBRAIN)
+themarker.com##section:has(:scope > a[href*="ClickTracker"])
+
 # End Hebrew
 
 # -------------------------------------------------------------------------------------------------------------------- #
