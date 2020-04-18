@@ -1647,6 +1647,11 @@ legacy.com##.FixedNoOverlay
 # https://github.com/NanoMeow/QuickReports/issues/2271
 bitsfree.net##.mx-auto
 
+# https://github.com/NanoMeow/QuickReports/issues/2122
+findmysoft.com###col_h1_:has(+ #as_right)
+findmysoft.com###as_right
+findmysoft.com###col_h3
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
