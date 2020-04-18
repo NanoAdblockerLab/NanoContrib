@@ -1652,6 +1652,10 @@ findmysoft.com###col_h1_:has(+ #as_right)
 findmysoft.com###as_right
 findmysoft.com###col_h3
 
+# https://github.com/NanoMeow/QuickReports/issues/3329
+cyberciti.biz##center:has(.adsbygoogle)
+cyberciti.biz##.widget:has(.adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
