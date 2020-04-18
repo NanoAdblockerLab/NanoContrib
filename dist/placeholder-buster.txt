@@ -1659,6 +1659,11 @@ findmysoft.com###col_h3
 cyberciti.biz##center:has(.adsbygoogle)
 cyberciti.biz##.widget:has(.adsbygoogle)
 
+# https://github.com/NanoMeow/QuickReports/issues/1454
+essexlive.news##body:style(margin-top: 0px !important;)
+essexlive.news###taboolaRightRailsResponsive
+essexlive.news##.sovrn-onetag-ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
