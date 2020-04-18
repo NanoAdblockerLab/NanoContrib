@@ -1630,6 +1630,10 @@ nfl.com##.video-channel-rr
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/107#issuecomment-615925156
 tasteofhome.com##.taboola-container
 
+# https://github.com/NanoMeow/QuickReports/issues/1102
+viralnewsdigger.blogspot.com##.HTML:has(span:has-text(/^(:?Sponsor|Related Posts)$/))
+viralnewsdigger.blogspot.com##div[name="Header Ads"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
