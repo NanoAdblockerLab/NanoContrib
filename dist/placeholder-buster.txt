@@ -1634,6 +1634,9 @@ tasteofhome.com##.taboola-container
 viralnewsdigger.blogspot.com##.HTML:has(span:has-text(/^(:?Sponsor|Related Posts)$/))
 viralnewsdigger.blogspot.com##div[name="Header Ads"]
 
+# https://github.com/NanoMeow/QuickReports/issues/1943
+bestforandroid.com##.adv-ads-selfstyle:remove()
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
