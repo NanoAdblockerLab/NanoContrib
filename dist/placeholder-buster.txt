@@ -1644,6 +1644,9 @@ legacy.com##.FixedStickyAside
 legacy.com##.FixedStickyOverlay
 legacy.com##.FixedNoOverlay
 
+# https://github.com/NanoMeow/QuickReports/issues/2271
+bitsfree.net##.mx-auto
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
