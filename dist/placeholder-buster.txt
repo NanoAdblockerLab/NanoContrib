@@ -1156,8 +1156,10 @@ bustle.com##.ka.gr.gq
 
 # https://github.com/NanoAdblocker/NanoFilters/issues/433
 # https://github.com/NanoMeow/QuickReports/issues/1499
-washingtonpost.com###leaderboard-wrapper
+# https://github.com/NanoMeow/QuickReports/issues/2626
 washingtonpost.com##div:has(:scope > wp-ad):not(#topper-headline-wrapper)
+washingtonpost.com##aside > div:has(wp-ad)
+washingtonpost.com###leaderboard-wrapper
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/68#issuecomment-564256999
 worldarchitecture.org##div[class^="adv"]
