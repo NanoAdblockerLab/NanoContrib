@@ -1637,6 +1637,13 @@ viralnewsdigger.blogspot.com##div[name="Header Ads"]
 # https://github.com/NanoMeow/QuickReports/issues/1943
 bestforandroid.com##.adv-ads-selfstyle:remove()
 
+# https://github.com/NanoMeow/QuickReports/issues/2266
+legacy.com##.wrapperAdSpace:style(margin-top: 0px !important;)
+legacy.com##.AffiliateHeader
+legacy.com##.FixedStickyAside
+legacy.com##.FixedStickyOverlay
+legacy.com##.FixedNoOverlay
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
