@@ -1621,6 +1621,12 @@ web-capture.net###result_ad_box
 # https://github.com/NanoMeow/QuickReports/issues/2319
 cartoonbrew.com##.cb-ad
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/107
+nfl.com##.video-channel-rr
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/107
+tasteofhome.com##.taboola-container
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
