@@ -1883,6 +1883,10 @@ weblio.jp##.rectangle-ads-frame-www
 # https://github.com/NanoMeow/QuickReports/issues/3350
 shindanmaker.com##.taboola_block1
 
+# https://github.com/NanoMeow/QuickReports/issues/3486
+uwagakisimasuka.blog.fc2.com##.side_plugin:has(.adsbygoogle)
+uwagakisimasuka.blog.fc2.com##.adsbygoogle + script + br
+
 # End Japanese
 
 # -------------------------------------------------------------------------------------------------------------------- #
