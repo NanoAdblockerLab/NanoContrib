@@ -1896,7 +1896,7 @@ dousyoko.net###text-3
 dousyoko.net##.floatbox2
 
 # https://github.com/NanoMeow/QuickReports/issues/3539
-buhidoh.net##iframe[style]:style(height: initial !important;)
+buhidoh.net##iframe[style]:style(height: 82px !important;)
 buhidoh.net##iframe[src="http://file.buhidoh.net/uploads/setting/im_buhidoh_pc_page_2_ssp.html"]
 buhidoh.net##.banbox
 
