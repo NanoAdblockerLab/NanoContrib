@@ -222,9 +222,6 @@ downdetector.*,allestoringen.*,xn--allestrungen-9ib.*##.ad + .card.my-3:style(ma
 shoutwiki.com###content.mw-body:style(margin-right: 8px !important;)
 shoutwiki.com##.monobook-ad
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/107
-||deviantart.com/_adslot/$subdocument
-
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -251,6 +248,9 @@ pixiv.net##li:has(:scope > iframe[name="infeed"])
 pixiv.net##.ad-frame-container
 pixiv.net##body[style^="margin-bottom"]:style(margin-bottom: 0px !important;)
 !#endif
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/107
+||deviantart.com/_adslot/$subdocument
 
 # End Multilingual NSFW
 
