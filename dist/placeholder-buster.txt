@@ -1712,6 +1712,11 @@ simpleflying.com##.widget:has(.simpl-adlabel)
 simpleflying.com##.simpl-adlabel
 simpleflying.com###featured-video
 
+# https://github.com/NanoMeow/QuickReports/issues/2246
+spankwire.com###js-react-search-list div:has-text(/^Advertisement$/):upward(1)
+spankwire.com###js-react-video-player div:has-text(/^Advertisement$/):upward(2)
+spankwire.com##.adsbox
+
 # End English NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
