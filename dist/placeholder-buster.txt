@@ -252,6 +252,9 @@ pixiv.net##body[style^="margin-bottom"]:style(margin-bottom: 0px !important;)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/107#issuecomment-615925187
 ||deviantart.com/_adslot/$subdocument
 
+# https://github.com/NanoMeow/QuickReports/issues/1489
+hentai-image.com###display_image_detail > span
+
 # End Multilingual NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
