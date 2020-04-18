@@ -1666,6 +1666,10 @@ essexlive.news##body:style(margin-top: 0px !important;)
 essexlive.news###taboolaRightRailsResponsive
 essexlive.news##.sovrn-onetag-ad
 
+# https://github.com/NanoMeow/QuickReports/issues/2408
+thesimsresource.com##.crtv-bottom-wrapper
+thesimsresource.com##.sticky_bottom
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
