@@ -249,6 +249,9 @@ pixiv.net##.ad-frame-container
 pixiv.net##body[style^="margin-bottom"]:style(margin-bottom: 0px !important;)
 !#endif
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/107
+||deviantart.com/_adslot/$subdocument
+
 # End Multilingual NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1620,6 +1623,12 @@ web-capture.net###result_ad_box
 
 # https://github.com/NanoMeow/QuickReports/issues/2319
 cartoonbrew.com##.cb-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/107
+nfl.com##.video-channel-rr
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/107
+tasteofhome.com##.taboola-container
 
 # End English
 
