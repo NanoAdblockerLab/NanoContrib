@@ -1872,6 +1872,10 @@ seiga.nicovideo.jp##.ads_prtext
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/48#issuecomment-525092904
 toranoana.jp##.tora-ads-list-item
 
+# https://github.com/NanoMeow/QuickReports/issues/1681
+dousyoko.net###text-3
+dousyoko.net##.floatbox2
+
 # End Japanese NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
