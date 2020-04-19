@@ -237,16 +237,17 @@ shoutwiki.com##.monobook-ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410073
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/87#issuecomment-582155483
 !#if !env_mobile
-pixiv.net##.ads-top-info
-pixiv.net##.area_new:not(:has(.area_title))
-pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
-pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
-pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
+pixiv.net##div:has(:scope > div > iframe:not([src])):matches-css(padding-bottom: 56px)
 pixiv.net##li:has(:scope > iframe[name="infeed"])
+pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
+pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
+pixiv.net##.area_new:not(:has(.area_title))
+pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
+pixiv.net##.ads-top-info
 !#endif
 !#if env_mobile
-pixiv.net##.ad-frame-container
 pixiv.net##body[style^="margin-bottom"]:style(margin-bottom: 0px !important;)
+pixiv.net##.ad-frame-container
 !#endif
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/107#issuecomment-615925187
