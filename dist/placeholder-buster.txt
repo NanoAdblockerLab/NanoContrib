@@ -256,6 +256,10 @@ pixiv.net##.ad-frame-container
 # https://github.com/NanoMeow/QuickReports/issues/1489
 hentai-image.com###display_image_detail > span
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/108
+pixiv.kurocore.com###top-banner
+pixiv.kurocore.com##.ad-b1
+
 # End Multilingual NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1692,10 +1696,12 @@ motherless.com###main > .text-center:has(div[id^="ad-footer-"])
 motherless.com##.text-right.col-lg-4.col-xs-12.col-sm-12.view-right > div:nth-of-type(1)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/25#issuecomment-495819457
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/108
 rule34.paheal.net##section:has(:scope > .blockbody > span > a[href$="/bad_ads"])
 rule34.paheal.net##.blockbody:has(a[href$="/bad_ads"]) > br
 rule34.paheal.net##.blockbody > [href="https://rule34.paheal.net/wiki/bad_ads"]
 rule34.paheal.net##section:has(:scope > .blockbody > div[align="center"])
+rule34.paheal.net##script[data-ad_frequency_count]:upward(2)
 
 # https://github.com/NanoMeow/QuickReports/issues/1541
 hentaifox.com##.atop
