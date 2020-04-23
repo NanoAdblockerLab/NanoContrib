@@ -1679,12 +1679,12 @@ thesimsresource.com##.sticky_bottom
 indy100.com##header + div > div:has(:scope > h1 + div > amp-list)
 indy100.com###mpu0ArticleBody
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/109
-peazip.org##td:has(> .adsbygoogle)
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/109#issuecomment-618437574
+peazip.org##td:has(:scope > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/109
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/109#issuecomment-618437617
 howtoforge.com##div[style="height:100px;"]
-howtoforge.com###htfContentList li:has(> div[style="padding-left:35%;"])
+howtoforge.com###htfContentList li:has(:scope > div[style="padding-left:35%;"])
 
 # End English
 
