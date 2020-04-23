@@ -1679,6 +1679,13 @@ thesimsresource.com##.sticky_bottom
 indy100.com##header + div > div:has(:scope > h1 + div > amp-list)
 indy100.com###mpu0ArticleBody
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/109
+peazip.org##td:has(> .adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/109
+howtoforge.com##div[style="height:100px;"]
+howtoforge.com###htfContentList li:has(> div[style="padding-left:35%;"])
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
