@@ -1015,6 +1015,9 @@ twingalaxies.com##.bg-dust:has(#btfLeaderboard)
 
 # https://github.com/NanoMeow/QuickReports/issues/1975
 # https://github.com/NanoMeow/QuickReports/issues/2109
+# https://github.com/NanoMeow/QuickReports/issues/3414
+forbes.com##fbs-ad + p:has(br)
+forbes.com##p:has(+ fbs-ad)
 forbes.com##fbs-ad
 forbes.com##medianet
 
