@@ -285,6 +285,18 @@ alrai.com##.col-xs-12:has(:scope > .visible-md.visible-lg)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/82#issuecomment-579542253
 akhbarelyom.com##.module:has(script[src$="/adsbygoogle.js"])
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/110
+adwhit.com##.topMobAd
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/110
+ifm.tn##.ad-1000
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/110
+alwafd.news##section:has(.banner)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/110
+watania.net##.adsbygoogle:upward(1)
+
 # End Arabic
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2055,6 +2067,18 @@ bloomberght.com##.col-lg-12:has(:scope > .ads-zone)
 # https://github.com/NanoMeow/QuickReports/issues/2528
 kimkazandi.com##div:has(:scope > .item [id^="div-gpt-ad-"])
 kimkazandi.com##.row[style="margin:30px 50px"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/110
+haberturk.com##.ads-zone
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/110
+takvim.com.tr##.billBoardFrame
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/110
+kadin.com##.col-lg-12:has(div[id^="div-gpt-ad"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/110
+acunn.com##.type-1
 
 # End Turkish
 
