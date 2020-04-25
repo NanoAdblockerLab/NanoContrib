@@ -1148,7 +1148,7 @@ hungertv.com###fixed-slice-2:style(top: 0px !important;)
 hungertv.com##div[class*="offset-sm-"]
 hungertv.com##.preview.row
 hungertv.com###stick-section.sm-pad
-hungertv.com##div:has(:scope > div[id^="div-gpt-ad"])
+hungertv.com##div:has(:scope > div[id^="div-gpt-ad-"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770676
 apollo-magazine.com##.card--advert.card
@@ -1905,7 +1905,7 @@ lifehacker.jp##.lh-banner
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508700
 sankei.com##div[style="width:300px;height:600px;"]:not(:has-text(/\S/))
-sankei.com##.row:has(div[id^="div-gpt-ad"])
+sankei.com##.row:has(div[id^="div-gpt-ad-"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508735
 nicoco.net###search_form + div
@@ -2075,7 +2075,7 @@ haberturk.com##.ads-zone
 takvim.com.tr##.billBoardFrame
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/110#issuecomment-619393799
-kadin.com##.col-lg-12:has(div[id^="div-gpt-ad"])
+kadin.com##.col-lg-12:has(div[id^="div-gpt-ad-"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/110#issuecomment-619393816
 acunn.com##.type-1
