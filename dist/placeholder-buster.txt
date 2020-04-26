@@ -2036,6 +2036,9 @@ armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open(
 armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open('http://www.stimulcash.com')"]) + br + br
 armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open('http://www.stimulcash.com')"]) + br + br + br
 
+# https://github.com/NanoAdblocker/NanoFilters/issues/486
+lrepacks.ru##.widget.partner-block
+
 # End Russian
 
 # -------------------------------------------------------------------------------------------------------------------- #
