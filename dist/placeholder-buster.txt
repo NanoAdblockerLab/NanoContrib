@@ -1771,6 +1771,11 @@ spankwire.com###js-react-search-list div:has-text(/^Advertisement$/):upward(1)
 spankwire.com###js-react-video-player div:has-text(/^Advertisement$/):upward(2)
 spankwire.com##.adsbox
 
+# https://github.com/NanoAdblocker/NanoFilters/issues/489
+# https://github.com/NanoAdblocker/NanoFilters/issues/490
+# https://github.com/NanoAdblocker/NanoFilters/issues/491
+kvador.com,kropic.com,picbaron.com##br
+
 # End English NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
