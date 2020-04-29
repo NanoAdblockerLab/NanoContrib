@@ -1701,6 +1701,13 @@ peazip.org##td:has(:scope > .adsbygoogle)
 howtoforge.com##div[style="height:100px;"]
 howtoforge.com###htfContentList li:has(:scope > div[style="padding-left:35%;"])
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/111
+indiatoday.in##.inline-story-add
+indiatoday.in##.story-header-ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/111
+dailystar.co.uk##body:style(margin-top: 0px !important)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
