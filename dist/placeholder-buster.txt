@@ -222,6 +222,9 @@ downdetector.*,allestoringen.*,xn--allestrungen-9ib.*##.ad + .card.my-3:style(ma
 shoutwiki.com###content.mw-body:style(margin-right: 8px !important;)
 shoutwiki.com##.monobook-ad
 
+# https://github.com/NanoMeow/QuickReports/issues/3730
+forum.wordreference.com##[id$="_mid"]
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
