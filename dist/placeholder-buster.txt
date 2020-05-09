@@ -225,6 +225,10 @@ shoutwiki.com##.monobook-ad
 # https://github.com/NanoMeow/QuickReports/issues/3730
 forum.wordreference.com##[id$="_mid"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/112
+webmd.com##.responsive-sharethrough-wrapper
+webmd.com##.container > .pane:first-of-type
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -239,6 +243,7 @@ forum.wordreference.com##[id$="_mid"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457506
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410073
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/87#issuecomment-582155483
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/112
 !#if !env_mobile
 pixiv.net##div:has(:scope > div > iframe:not([src])):matches-css(padding-bottom: 56px)
 pixiv.net##li:has(:scope > iframe[name="infeed"])
@@ -247,6 +252,7 @@ pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
 pixiv.net##.area_new:not(:has(.area_title))
 pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
 pixiv.net##.ads-top-info
+pixiv.net##li[size="2"][offset="1"]
 !#endif
 !#if env_mobile
 pixiv.net##body[style^="margin-bottom"]:style(margin-bottom: 0px !important;)
