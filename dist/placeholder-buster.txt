@@ -1722,6 +1722,9 @@ goal.com##article:has(:scope > [data-role="ad"])
 goal.com##.article-sponsorship-footer:remove()
 goal.com##.commercial
 
+# https://github.com/NanoAdblocker/NanoFilters/issues/497
+citethisforme.com##.ads_top_middle:upward(1)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
