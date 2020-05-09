@@ -226,8 +226,8 @@ shoutwiki.com##.monobook-ad
 forum.wordreference.com##[id$="_mid"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/112#issuecomment-626087034
-webmd.com##.responsive-sharethrough-wrapper
 webmd.com##.container > .pane:first-of-type
+webmd.com##.responsive-sharethrough-wrapper
 
 # End Multilingual
 
@@ -247,12 +247,12 @@ webmd.com##.container > .pane:first-of-type
 !#if !env_mobile
 pixiv.net##div:has(:scope > div > iframe:not([src])):matches-css(padding-bottom: 56px)
 pixiv.net##li:has(:scope > iframe[name="infeed"])
+pixiv.net##li[size="2"][offset="1"]
 pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
 pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
 pixiv.net##.area_new:not(:has(.area_title))
 pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
 pixiv.net##.ads-top-info
-pixiv.net##li[size="2"][offset="1"]
 !#endif
 !#if env_mobile
 pixiv.net##body[style^="margin-bottom"]:style(margin-bottom: 0px !important;)
