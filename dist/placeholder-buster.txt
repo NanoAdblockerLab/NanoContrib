@@ -1725,6 +1725,10 @@ goal.com##.commercial
 # https://github.com/NanoAdblocker/NanoFilters/issues/497
 citethisforme.com##.ads_top_middle:upward(1)
 
+# https://github.com/NanoMeow/QuickReports/issues/3806
+prnt.sc##.top-grundik
+prnt.sc##.left-grundik-report
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
