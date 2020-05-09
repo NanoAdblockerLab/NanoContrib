@@ -225,7 +225,7 @@ shoutwiki.com##.monobook-ad
 # https://github.com/NanoMeow/QuickReports/issues/3730
 forum.wordreference.com##[id$="_mid"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/112
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/112#issuecomment-626087034
 webmd.com##.responsive-sharethrough-wrapper
 webmd.com##.container > .pane:first-of-type
 
@@ -243,7 +243,7 @@ webmd.com##.container > .pane:first-of-type
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457506
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410073
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/87#issuecomment-582155483
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/112
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/112#issuecomment-626087012
 !#if !env_mobile
 pixiv.net##div:has(:scope > div > iframe:not([src])):matches-css(padding-bottom: 56px)
 pixiv.net##li:has(:scope > iframe[name="infeed"])
