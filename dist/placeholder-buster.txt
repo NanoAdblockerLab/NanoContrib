@@ -1717,6 +1717,11 @@ indiatoday.in##.story-header-ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/111#issuecomment-621272925
 dailystar.co.uk##body:style(margin-top: 0px !important;)
 
+# https://github.com/NanoMeow/QuickReports/issues/1677
+goal.com##article:has(:scope > [data-role="ad"])
+goal.com##.article-sponsorship-footer:remove()
+goal.com##.commercial
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
