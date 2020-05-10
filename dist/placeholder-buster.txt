@@ -1729,6 +1729,15 @@ citethisforme.com##.ads_top_middle:upward(1)
 prnt.sc##.top-grundik
 prnt.sc##.left-grundik-report
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/112
+website.informer.com##div[align="center"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/112
+inputmag.com##div[id^=ad-]:upward(1)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/112
+gamersdecide.com##.block-block:has(.vm-placement)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
