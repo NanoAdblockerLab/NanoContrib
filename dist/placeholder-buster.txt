@@ -1606,6 +1606,8 @@ download.pixelexperience.org##body > div:has(.adsbygoogle)
 slate.com##.ad--inArticleBanner
 
 # https://github.com/NanoMeow/QuickReports/issues/2867
+# https://github.com/NanoMeow/QuickReports/issues/3825
+researchgate.net##.lite-page__above:has(:scope > .lite-page-ad)
 researchgate.net##.is-sticky:style(top: 0px !important;)
 
 # https://github.com/NanoMeow/QuickReports/issues/2932
