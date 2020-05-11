@@ -1740,6 +1740,9 @@ inputmag.com##div[id^="ad-"]:upward(1)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/113#issuecomment-626338679
 gamersdecide.com##.block-block:has(.vm-placement)
 
+# https://github.com/NanoMeow/QuickReports/issues/2651
+bloomberg.com##.css--ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
