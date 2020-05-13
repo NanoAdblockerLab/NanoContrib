@@ -1749,6 +1749,9 @@ onehack.us##.discourse-adplugin
 # https://github.com/NanoMeow/QuickReports/issues/3757
 sciencealert.com##div[class^="priad"][id]:upward(1)
 
+# https://github.com/NanoMeow/QuickReports/issues/3816
+tw-calc.net##.rectangle.container:has(.adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
