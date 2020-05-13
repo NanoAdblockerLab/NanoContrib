@@ -1743,6 +1743,9 @@ gamersdecide.com##.block-block:has(.vm-placement)
 # https://github.com/NanoMeow/QuickReports/issues/2651
 bloomberg.com##.css--ad
 
+# https://github.com/easylist/easylist/issues/5262
+neoseeker.com##.ad-placeholder-leaderboard
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2094,6 +2097,20 @@ lrepacks.ru##.widget.partner-block
 
 # https://github.com/NanoMeow/QuickReports/issues/1916
 forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114
+index.hr##.comments-holder > .right-part
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114
+njuskalo.hr##.BannerBillboard
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114
+dnevnik.hr##article + .sticky-parent
+dnevnik.hr##.linker-container
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114
+blic.rs##.sticky-area
+blic.rs##.aklaadx
 
 # End Serbo-Croatian
 
