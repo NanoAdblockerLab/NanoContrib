@@ -1753,6 +1753,7 @@ sciencealert.com##div[class^="priad"][id]:upward(1)
 tw-calc.net##.rectangle.container:has(.adsbygoogle)
 
 # https://github.com/easylist/easylist/issues/5262
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114#issuecomment-628048019
 neoseeker.com##.ad-placeholder-leaderboard
 
 # End English
@@ -2107,17 +2108,17 @@ lrepacks.ru##.widget.partner-block
 # https://github.com/NanoMeow/QuickReports/issues/1916
 forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/114
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114#issuecomment-628048100
 index.hr##.comments-holder > .right-part
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/114
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114#issuecomment-628048176
 njuskalo.hr##.BannerBillboard
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/114
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114#issuecomment-628048272
 dnevnik.hr##article + .sticky-parent
 dnevnik.hr##.linker-container
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/114
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/114#issuecomment-628048361
 blic.rs##.sticky-area
 blic.rs##.aklaadx
 
