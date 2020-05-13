@@ -1743,6 +1743,9 @@ gamersdecide.com##.block-block:has(.vm-placement)
 # https://github.com/NanoMeow/QuickReports/issues/2651
 bloomberg.com##.css--ad
 
+# https://github.com/jspenguin2017/uBlockProtector/issues/1115
+onehack.us##.discourse-adplugin
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
