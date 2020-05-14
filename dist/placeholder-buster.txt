@@ -235,7 +235,7 @@ zdnet.*###main > div:has(.ad-leader-plus-top)
 zdnet.*##.sticky-wrapper
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/115
-gpucheck.com##div[id^=gpt-passback-]:upward(1)
+gpucheck.com##div[id^="gpt-passback-"]:upward(1)
 
 # End Multilingual
 
