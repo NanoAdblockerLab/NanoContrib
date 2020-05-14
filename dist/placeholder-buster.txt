@@ -229,6 +229,14 @@ forum.wordreference.com##[id$="_mid"]
 webmd.com##.container > .pane:first-of-type
 webmd.com##.responsive-sharethrough-wrapper
 
+# https://github.com/NanoMeow/QuickReports/issues/2541
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/115
+zdnet.*###main > div:has(.ad-leader-plus-top)
+zdnet.*##.sticky-wrapper
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/115
+gpucheck.com##div[id^=gpt-passback-]:upward(1)
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1238,9 +1246,6 @@ realclearpolitics.com##.init.widget_slot:not(.loaded)
 # https://github.com/NanoMeow/QuickReports/issues/2535
 files.minecraftforge.net##.promo-container
 
-# https://github.com/NanoMeow/QuickReports/issues/2541
-zdnet.com###main > div:has(.ad-leader-plus-top)
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457516
 gayemagazine.com##div[style*="width:320px;height:"]
 gayemagazine.com##div[style^="width: 320px; height:"]
@@ -1755,6 +1760,14 @@ tw-calc.net##.rectangle.container:has(.adsbygoogle)
 # https://github.com/easylist/easylist/issues/5262
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/114#issuecomment-628048019
 neoseeker.com##.ad-placeholder-leaderboard
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/115
+winhelponline.com###custom_html-2
+winhelponline.com##.ai_widget
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/115
+crxextractor.com##.nomargin
+crxextractor.com##.breakthrough:has(.adsbygoogle)
 
 # End English
 
