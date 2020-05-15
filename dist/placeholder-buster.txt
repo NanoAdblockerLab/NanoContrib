@@ -1415,11 +1415,15 @@ tellerreport.com##.ads
 douglascountysentinel.com,hpenews.com##.dfpAd
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/92#issuecomment-589440711
+# https://github.com/LiCybora/NanoCoreFirefox/issues/31
 # https://github.com/NanoMeow/QuickReports/issues/1672
+forum.xda-developers.com##.page:style(margin-top: 0px !important;)
 forum.xda-developers.com##.postbit-userinfo-cell:not(:has-text(/\w/))
-forum.xda-developers.com##.purchad:upward(1)
 forum.xda-developers.com##div[class^="rsb-"]
 forum.xda-developers.com##.leaderboard
+!#if !env_mobile
+forum.xda-developers.com##.purchad:upward(1)
+!#endif
 
 # https://github.com/NanoMeow/QuickReports/issues/3136
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393557
