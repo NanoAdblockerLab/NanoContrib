@@ -184,8 +184,8 @@ tass.com##.news-list-content__aside
 arabiaweather.com##.mpu-card
 arabiaweather.com##.leaderboard-container
 
-# https://github.com/NanoMeow/QuickReports/issues/1622
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870303
+# https://github.com/NanoMeow/QuickReports/issues/1622
 accuweather.com##.ad
 accuweather.com##.glacier-ad
 
