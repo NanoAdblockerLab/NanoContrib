@@ -261,6 +261,7 @@ pixiv.net##.area_new:not(:has(.area_title))
 pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
 pixiv.net##iframe[height="60"]:upward(1)
 pixiv.net##iframe[height="90"]:upward(1)
+pixiv.net##iframe[height="520"]:upward(1)
 pixiv.net##li[size="2"][offset="1"]
 pixiv.net##.ads-top-info
 !#endif
