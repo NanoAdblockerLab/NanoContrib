@@ -1776,6 +1776,14 @@ winhelponline.com##.ai_widget
 crxextractor.com##.breakthrough:has(.adsbygoogle)
 crxextractor.com##.nomargin
 
+# https://github.com/NanoMeow/QuickReports/issues/3867
+androidpit.com###snhb-halfpage_right-0:upward(1)
+androidpit.com##.adsbygoogle:upward(.articleRecArticles)
+androidpit.com##.gptSlot:upward(.article-sidebar__tile)
+androidpit.com###div-header
+androidpit.com###snhb-sticky_mobile-0
+androidpit.com##.gptSlot
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
