@@ -1787,6 +1787,9 @@ androidpit.com##.gptSlot
 homeworklib.com##.answer:has(:scope > .ezoic-adpicker-ad)
 homeworklib.com###stickyunit
 
+# https://github.com/NanoMeow/QuickReports/issues/3875
+addthis.com##.addthis_horizontal_follow_toolbox:upward(1)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
