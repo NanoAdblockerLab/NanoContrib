@@ -1783,6 +1783,10 @@ androidpit.com###div-header
 androidpit.com###snhb-sticky_mobile-0
 androidpit.com##.gptSlot
 
+# https://github.com/NanoMeow/QuickReports/issues/3851
+homeworklib.com##.answer:has(:scope > .ezoic-adpicker-ad)
+homeworklib.com###stickyunit
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
