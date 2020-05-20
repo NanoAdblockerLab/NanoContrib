@@ -237,6 +237,11 @@ zdnet.*##.sticky-wrapper
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/115#issuecomment-629277079
 gpucheck.com##div[id^="gpt-passback-"]:upward(1)
 
+# https://github.com/NanoMeow/QuickReports/issues/2537
+twitter.com##div:has(:scope > div > div > h2[role="heading"]:has-text(/\u63A8\u8350|Promoted|Gesponsert|\u0420\u0435\u043A\u043B\u0430\u043C\u0430|Promocionado|Sponsoris\u00E9|Uitgelicht|\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3/))
+twitter.com##div:has(:scope > div > div > div > h2[role="heading"]:has-text(/\u63A8\u8350|Promoted|Gesponsert|\u0420\u0435\u043A\u043B\u0430\u043C\u0430|Promocionado|Sponsoris\u00E9|Uitgelicht|\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3/)) + div:has(:scope > div > div:empty)
+twitter.com##div[aria-label*=" - "] > div[style^="padding-"] > div[style^="padding-"] > div:has(article) + div:has(:scope > div > div:empty):not(+ div + div:has(h2[role="heading"]))
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
