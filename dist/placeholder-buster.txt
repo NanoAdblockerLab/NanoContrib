@@ -242,12 +242,6 @@ twitter.com##div:has(:scope > div > div > h2[role="heading"]:has-text(/\u63A8\u8
 twitter.com##div:has(:scope > div > div > div > h2[role="heading"]:has-text(/\u63A8\u8350|Promoted|Gesponsert|\u0420\u0435\u043A\u043B\u0430\u043C\u0430|Promocionado|Sponsoris\u00E9|Uitgelicht|\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3/)) + div:has(:scope > div > div:empty)
 twitter.com##div[aria-label*=" - "] > div[style^="padding-"] > div[style^="padding-"] > div:has(article) + div:has(:scope > div > div:empty):not(+ div + div:has(h2[role="heading"]))
 
-# End Multilingual
-
-# -------------------------------------------------------------------------------------------------------------------- #
-
-# Multilingual NSFW
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
@@ -274,6 +268,12 @@ pixiv.net##.ads-top-info
 pixiv.net##body[style^="margin-bottom"]:style(margin-bottom: 0px !important;)
 pixiv.net##.ad-frame-container
 !#endif
+
+# End Multilingual
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Multilingual NSFW
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/107#issuecomment-615925187
 ||deviantart.com/_adslot/$subdocument
