@@ -2104,6 +2104,13 @@ photoblog.pl##.frontpage-teaser-photo-container:style(height: 170px !important)
 photoblog.pl##.frontpage-teaser-photo-container > h1:style(margin-top: 30px !important)
 !#endif
 
+# https://github.com/NanoMeow/QuickReports/issues/3907
+onet.pl###onet-ad-right:upward(aside)
+onet.pl###extraAdsBlock
+onet.pl###googleAdsCont
+onet.pl###onet-ad-flat-branding
+onet.pl##.asideAds
+
 # End Polish
 
 # -------------------------------------------------------------------------------------------------------------------- #
