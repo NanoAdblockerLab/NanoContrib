@@ -1801,7 +1801,7 @@ socialblade.com##[style="clear: both;"] + div[style*="#333"]:style(margin-top: 1
 socialblade.com##.section-rightside:style(float: initial !important; width: 100% !important;)
 socialblade.com##.section-long-vert-container
 socialblade.com##.section-leftside
-socialblade.com###footer-section-wrap+div
+socialblade.com###footer-section-wrap + div
 socialblade.com###bottomAd
 
 # End English
