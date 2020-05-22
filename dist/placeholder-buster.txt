@@ -1798,7 +1798,7 @@ addthis.com##.addthis_horizontal_follow_toolbox:upward(1)
 # https://github.com/NanoMeow/QuickReports/issues/3905
 socialblade.com##[id^="cdm-zone-"]:upward(div[style*="height:"][style*="background:"])
 socialblade.com##[style="clear: both;"] + div[style*="#333"]:style(margin-top: 10px !important;)
-socialblade.com##.section-rightside:style(float: auto !important; width: auto !important;)
+socialblade.com##.section-rightside:style(float: initial !important; width: 100% !important;)
 socialblade.com##.section-long-vert-container
 socialblade.com##.section-leftside
 socialblade.com###footer-section-wrap+div
