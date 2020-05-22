@@ -14,12 +14,11 @@
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/21#issuecomment-487796545
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915459
 # https://github.com/NanoMeow/QuickReports/issues/1042
+reddit.com##div[data-redditstyle="false"]:has(div[data-before-content="advertisement"])
+reddit.com##div[id^="overlay-sidebar-"][data-before-content="advertisement"]:upward(4)
 reddit.com##div.fePAzF:has(div[id^="sidebar-"])
 reddit.com###overlay-comment-atf
 reddit.com###comment-atf
-reddit.com##div[data-redditstyle="false"]:has(div[data-before-content="advertisement"])
-reddit.com##div[id^="overlay-sidebar-"][data-before-content="advertisement"]:upward(4)
-reddit.com##div[id^="sidebar-"][data-before-content="advertisement"]:upward(4)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593858
 quizlet.com##.ModeLayout-ad
