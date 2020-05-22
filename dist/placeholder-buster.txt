@@ -1949,6 +1949,9 @@ magyarhang.org##.ai_widget
 
 # Indonesian
 
+# https://github.com/NanoMeow/QuickReports/issues/2739
+nekopoi.care##img[hidden]:upward(.widget_text)
+
 # End Indonesian
 
 # -------------------------------------------------------------------------------------------------------------------- #
