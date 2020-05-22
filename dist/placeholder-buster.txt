@@ -860,7 +860,9 @@ cycling.today##p:has(:scope > script[src$="/adsbygoogle.js"])
 mgoblog.com##div[id^="block-rawadsense"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/41#issuecomment-515740504
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/116
 popculture.com###header:style(top: 0px !important;)
+popculture.com##.pcm-public:style(margin-top: 90px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/41#issuecomment-515740510
 mhotspot.com##div:has(:scope > script[src$="/adsbygoogle.js"])
@@ -1803,6 +1805,12 @@ socialblade.com##.section-long-vert-container
 socialblade.com##.section-leftside
 socialblade.com###footer-section-wrap + div
 socialblade.com###bottomAd
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/116
+cpuboss.com##.section:has(:scope > .ad-tag)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/116
+digitaltrends.com##.b-placard
 
 # End English
 
