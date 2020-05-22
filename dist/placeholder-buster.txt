@@ -1955,12 +1955,12 @@ magyarhang.org##.ai_widget
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
-# Indonesian
+# Indonesian NSFW
 
 # https://github.com/NanoMeow/QuickReports/issues/2739
 nekopoi.care##img[hidden]:upward(.widget_text)
 
-# End Indonesian
+# End Indonesian NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
