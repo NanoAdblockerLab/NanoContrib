@@ -1814,6 +1814,9 @@ cpuboss.com##.section:has(:scope > .ad-tag)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/116#issuecomment-632735507
 digitaltrends.com##.b-placard
 
+# https://github.com/NanoMeow/QuickReports/issues/2507
+wsj.com##.snippet-right-ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
