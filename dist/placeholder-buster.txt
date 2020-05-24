@@ -2136,7 +2136,9 @@ photoblog.pl##.frontpage-teaser-photo-container > h1:style(margin-top: 30px !imp
 !#endif
 
 # https://github.com/NanoMeow/QuickReports/issues/3907
-onet.pl###onet-ad-right:upward(aside)
+www.onet.pl###onet-ad-right:upward(aside)
+
+# https://github.com/NanoMeow/QuickReports/issues/3907
 onet.pl###extraAdsBlock
 onet.pl###googleAdsCont
 onet.pl###onet-ad-flat-branding
