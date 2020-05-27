@@ -1817,7 +1817,7 @@ digitaltrends.com##.b-placard
 # https://github.com/NanoMeow/QuickReports/issues/2507
 wsj.com##.snippet-right-ad
 
-
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/117
 variety.com###leaderboard-no-padding
 
 # End English
