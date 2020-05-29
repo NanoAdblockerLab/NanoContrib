@@ -1820,6 +1820,10 @@ wsj.com##.snippet-right-ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/117#issuecomment-634995526
 variety.com###leaderboard-no-padding
 
+# https://github.com/NanoMeow/QuickReports/issues/3952
+independent.co.uk##.taboola
+independent.co.uk##.under-article-prompt-donations
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
