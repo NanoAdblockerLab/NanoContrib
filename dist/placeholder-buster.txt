@@ -1824,6 +1824,10 @@ variety.com###leaderboard-no-padding
 independent.co.uk##.taboola
 independent.co.uk##.under-article-prompt-donations
 
+# https://github.com/NanoMeow/QuickReports/issues/3963
+moving2canada.com##.ajax_advert:upward(.sidebar_module)
+moving2canada.com##.header_advertisement_clear
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
