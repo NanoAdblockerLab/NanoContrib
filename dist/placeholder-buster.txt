@@ -1828,6 +1828,9 @@ independent.co.uk##.under-article-prompt-donations
 moving2canada.com##.ajax_advert:upward(.sidebar_module)
 moving2canada.com##.header_advertisement_clear
 
+# https://github.com/NanoMeow/QuickReports/issues/633
+2conv.com,flvto.biz,flv2mp3.by##.content-right-bar:has(:scope > .square-ads)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
