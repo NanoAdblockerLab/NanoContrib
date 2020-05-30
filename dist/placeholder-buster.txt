@@ -1836,6 +1836,11 @@ mousecity.com##div[style]:not(.veedi):has(:scope > script)
 mousecity.com##div[style*="background-color: #fff"]
 mousecity.com##.banner-box-square
 
+# https://github.com/NanoMeow/QuickReports/issues/3977
+funescapegames.com##div[id^="funescapegames"]:upward(2)
+funescapegames.com##.adsbygoogle:upward(1)
+funescapegames.com##.header-extra
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
