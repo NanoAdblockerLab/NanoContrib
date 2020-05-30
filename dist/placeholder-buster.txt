@@ -1831,6 +1831,11 @@ moving2canada.com##.header_advertisement_clear
 # https://github.com/NanoMeow/QuickReports/issues/633
 2conv.com,flvto.biz,flv2mp3.by##.content-right-bar:has(:scope > .square-ads)
 
+# https://github.com/NanoMeow/QuickReports/issues/3981
+mousecity.com##div[style]:not(.veedi):has(:scope > script)
+mousecity.com##div[style*="background-color: #fff"]
+mousecity.com##.banner-box-square
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
