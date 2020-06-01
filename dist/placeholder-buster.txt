@@ -1036,9 +1036,6 @@ videohelp.com##.mobilehide
 # https://github.com/NanoMeow/QuickReports/issues/1639
 # https://github.com/NanoMeow/QuickReports/issues/2086
 space.com##.slot-beforePopularBox:remove()
-space.com##.slot-top_of_sidebar
-space.com##.slot-before_popular_box
-space.com##.slot-after_popular_box
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770558
 twingalaxies.com##.three-by-two:has(#atfBox)
