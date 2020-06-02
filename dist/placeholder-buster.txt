@@ -350,6 +350,9 @@ news.mydrivers.com##.adsbygoogle:upward(1)
 news.mydrivers.com##.baidu_right:style(float: left !important)
 news.mydrivers.com##.baidu_left
 
+# https://github.com/NanoMeow/QuickReports/issues/3968
+bbs.wenxuecity.com###adt
+
 # End Chinese (Simplified)
 
 # -------------------------------------------------------------------------------------------------------------------- #
