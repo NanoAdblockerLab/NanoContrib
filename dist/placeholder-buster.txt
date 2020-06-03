@@ -353,6 +353,14 @@ news.mydrivers.com##.baidu_left
 # https://github.com/NanoMeow/QuickReports/issues/3968
 bbs.wenxuecity.com###adt
 
+# https://github.com/NanoMeow/QuickReports/issues/4008
+www.wenxuecity.com##center:has(:scope > #div-gpt-ad-Middle_2)
+www.wenxuecity.com##center:has(:scope > #div-gpt-ad-Middle_2) + br
+www.wenxuecity.com##center:has(:scope > #div-gpt-ad-Middle_2) + br + br
+www.wenxuecity.com###sponsors
+www.wenxuecity.com##.banners
+www.wenxuecity.com##.tb
+
 # End Chinese (Simplified)
 
 # -------------------------------------------------------------------------------------------------------------------- #
