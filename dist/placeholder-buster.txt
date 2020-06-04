@@ -1825,6 +1825,7 @@ cpuboss.com##.section:has(:scope > .ad-tag)
 digitaltrends.com##.b-placard
 
 # https://github.com/NanoMeow/QuickReports/issues/2507
+wsj.com###wrapper-AD_PUSH:upward(1)
 wsj.com##.snippet-right-ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/117#issuecomment-634995526
