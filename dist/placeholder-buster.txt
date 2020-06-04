@@ -1852,6 +1852,12 @@ funescapegames.com##div[id^="funescapegames"]:upward(2)
 funescapegames.com##.adsbygoogle:upward(1)
 funescapegames.com##.header-extra
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/118
+apnews.com##div[class^="Component-dfp-"]
+apnews.com##.RightRail
+apnews.com##.bellow-article
+apnews.com##.FeedAd
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
