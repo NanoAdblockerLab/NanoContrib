@@ -1852,10 +1852,10 @@ funescapegames.com##div[id^="funescapegames"]:upward(2)
 funescapegames.com##.adsbygoogle:upward(1)
 funescapegames.com##.header-extra
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/118
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/118#issuecomment-639202926
 apnews.com##div[class^="Component-dfp-"]
-apnews.com##.RightRail
 apnews.com##.bellow-article
+apnews.com##.RightRail
 apnews.com##.FeedAd
 
 # End English
