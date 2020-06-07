@@ -1858,6 +1858,9 @@ apnews.com##.bellow-article
 apnews.com##.RightRail
 apnews.com##.FeedAd
 
+# https://github.com/NanoMeow/QuickReports/issues/4042
+games.dailymail.co.uk##div[data-element-description$=" ad"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
