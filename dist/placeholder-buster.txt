@@ -1864,6 +1864,9 @@ games.dailymail.co.uk##div[data-element-description$=" ad"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/119
 theguardian.com##.aside-slot-container
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/119
+gumtree.com##div[data-display-ad]
+
 # https://github.com/NanoMeow/QuickReports/issues/4032
 isitdownrightnow.com###commentstop
 isitdownrightnow.com##.ad336:upward(1)
