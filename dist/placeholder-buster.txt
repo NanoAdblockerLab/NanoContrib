@@ -2272,7 +2272,7 @@ bolha.com##.BannerBillboard
 # https://github.com/NanoMeow/QuickReports/issues/1066
 mundo-azbox.forumeiros.com##[class^="user-"]:has-text(/Rank: Publicit\u00E1rio|Conte\u00FAdo patrocinado/):upward(.post)
 mundo-azbox.forumeiros.com##[class^="main-"]:has(:scope > *:empty:only-child):upward(.module)
-mundo-azbox.forumeiros.com##script:upward([class*="main"][class*="module"]):not(.paged):not(:scope > form)
+mundo-azbox.forumeiros.com##script:upward([class*="main"][class*="module"]):not(.paged):not(> form)
 mundo-azbox.forumeiros.com##script[src^="https://partner.googlead"]:upward(1)
 mundo-azbox.forumeiros.com##script[src*="boo-box"]:upward(2)
 mundo-azbox.forumeiros.com##a[href*="azbox.w.pw"]:upward(1)
