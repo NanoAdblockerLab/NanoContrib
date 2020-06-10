@@ -454,6 +454,8 @@ gadgethacks.com##.whtaph-floatbox
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592252
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915515
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/58#issuecomment-542981177
+# https://github.com/NanoMeow/QuickReports/issues/3402
+tomshardware.com##.slot-beforePopularBox:remove()
 tomshardware.com##.p-u-md-1-3.p-u-1:has(div[class*="block-ads"])
 tomshardware.com###in_article
 tomshardware.com###below_the_article
@@ -1046,8 +1048,7 @@ videohelp.com##.mobilehide
 
 # https://github.com/NanoMeow/QuickReports/issues/1639
 # https://github.com/NanoMeow/QuickReports/issues/2086
-# https://github.com/NanoMeow/QuickReports/issues/3402
-space.com,tomshardware.com##.slot-beforePopularBox:remove()
+space.com##.slot-beforePopularBox:remove()
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/55#issuecomment-537770558
 twingalaxies.com##.three-by-two:has(#atfBox)
