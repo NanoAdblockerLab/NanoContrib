@@ -2298,14 +2298,14 @@ armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open(
 lrepacks.ru##.widget.partner-block
 
 # https://github.com/NanoMeow/QuickReports/issues/1077
+payeer-gift.ru###hidden_link1:style(display:block!important)
+payeer-gift.ru##[id^="linkslot_"]:upward(2)
+payeer-gift.ru##div[style^="width:468px; "]
 payeer-gift.ru##.banner
 payeer-gift.ru###hidden_link
 payeer-gift.ru##.rbrocks
 payeer-gift.ru###surfbe
 payeer-gift.ru##.linkslot-h
-payeer-gift.ru##[id^="linkslot_"]:upward(2)
-payeer-gift.ru##div[style^="width:468px; "]
-payeer-gift.ru###hidden_link1:style(display:block!important)
 
 # End Russian
 
@@ -2369,8 +2369,8 @@ kadin.com##.col-lg-12:has(div[id^="div-gpt-ad-"])
 acunn.com##.type-1
 
 # https://github.com/NanoMeow/QuickReports/issues/932
-||i.ibb.co/*reklam-*.gif^$domain=turkseed.com
 turkseed.com##.pluginWrapper:last-of-type
+||i.ibb.co/*reklam-*.gif^$domain=turkseed.com
 
 # End Turkish
 
