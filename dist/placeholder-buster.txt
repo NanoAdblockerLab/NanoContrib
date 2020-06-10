@@ -1861,15 +1861,15 @@ apnews.com##.FeedAd
 # https://github.com/NanoMeow/QuickReports/issues/4042
 games.dailymail.co.uk##div[data-element-description$=" ad"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/119
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/119#issuecomment-641650527
 theguardian.com##.aside-slot-container
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/119
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/119#issuecomment-641650556
 gumtree.com##div[data-display-ad]
 
 # https://github.com/NanoMeow/QuickReports/issues/4032
-isitdownrightnow.com###commentstop
 isitdownrightnow.com##.ad336:upward(1)
+isitdownrightnow.com###commentstop
 
 # https://github.com/NanoMeow/QuickReports/issues/3986
 games4escape.com##.featuredadvert_box
@@ -1877,13 +1877,13 @@ games4escape.com##.right.sidebar-col
 games4escape.com##.leader-advert
 
 # https://github.com/NanoMeow/QuickReports/issues/3980
+dressupone.com###ad-box:upward(1)
 dressupone.com###ad-out-container
 dressupone.com###ad-out-container-right
-dressupone.com###ad-box:upward(1)
 
 # https://github.com/NanoMeow/QuickReports/issues/3975
-wowescape.com##.googleAd_one
 wowescape.com##.bordernew:upward(1)
+wowescape.com##.googleAd_one
 
 # https://github.com/NanoMeow/QuickReports/issues/3974
 spectrum.ieee.org##.masthead-wrap
@@ -2183,7 +2183,7 @@ buhidoh.net##iframe[src="http://file.buhidoh.net/uploads/setting/im_buhidoh_pc_p
 buhidoh.net##.banbox
 
 # https://github.com/NanoMeow/QuickReports/issues/1330
-||okbp.xyz^
+anime.eroterest.net##iframe[src^="//okbp.xyz/"]
 
 # https://github.com/NanoMeow/QuickReports/issues/1167
 hotpress.info##.widget:has(script):not(#text-8)
@@ -2270,16 +2270,16 @@ vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 bolha.com##.BannerBillboard
 
 # https://github.com/NanoMeow/QuickReports/issues/1066
+mundo-azbox.forumeiros.com##[class^="user-"]:has-text(/Rank: Publicit\u00E1rio|Conte\u00FAdo patrocinado/):upward(.post)
+mundo-azbox.forumeiros.com##[class^="main-"]:has(:scope > *:empty:only-child):upward(.module)
+mundo-azbox.forumeiros.com##script:upward([class*="main"][class*="module"]):not(.paged):not(:scope > form)
 mundo-azbox.forumeiros.com##script[src^="https://partner.googlead"]:upward(1)
-mundo-azbox.forumeiros.com###topbar:upward(2)
 mundo-azbox.forumeiros.com##script[src*="boo-box"]:upward(2)
-mundo-azbox.forumeiros.com###main-content > .module
 mundo-azbox.forumeiros.com##a[href*="azbox.w.pw"]:upward(1)
+mundo-azbox.forumeiros.com###topbar:upward(2)
 mundo-azbox.forumeiros.com##h9:upward(2)
-mundo-azbox.forumeiros.com##script:upward([class*="main"][class*="module"]):not(.paged):not(>form)
-mundo-azbox.forumeiros.com##[class^="user-"]:has-text(/Rank: Publicitário|Conteúdo patrocinado/):upward(.post)
-mundo-azbox.forumeiros.com##.topic:has(>.p-hidden)
-mundo-azbox.forumeiros.com##[class^="main-"]:has(>*:empty:only-child):upward(.module)
+mundo-azbox.forumeiros.com##.topic:has(:scope > .p-hidden)
+mundo-azbox.forumeiros.com###main-content > .module
 $3p,subdocument,domain=mundo-azbox.forumeiros.com
 
 # End Portuguese
