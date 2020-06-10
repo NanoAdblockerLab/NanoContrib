@@ -2298,7 +2298,7 @@ armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open(
 lrepacks.ru##.widget.partner-block
 
 # https://github.com/NanoMeow/QuickReports/issues/1077
-payeer-gift.ru###hidden_link1:style(display:block!important)
+payeer-gift.ru###hidden_link1:style(display: block !important;)
 payeer-gift.ru##[id^="linkslot_"]:upward(2)
 payeer-gift.ru##div[style^="width:468px; "]
 payeer-gift.ru##.banner
