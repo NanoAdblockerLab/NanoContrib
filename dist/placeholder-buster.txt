@@ -1861,6 +1861,45 @@ apnews.com##.FeedAd
 # https://github.com/NanoMeow/QuickReports/issues/4042
 games.dailymail.co.uk##div[data-element-description$=" ad"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/119
+theguardian.com##.aside-slot-container
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/119
+gumtree.com##div[data-display-ad]
+
+# https://github.com/NanoMeow/QuickReports/issues/4032
+isitdownrightnow.com###commentstop
+isitdownrightnow.com##.ad336:upward(1)
+
+# https://github.com/NanoMeow/QuickReports/issues/3986
+games4escape.com##.featuredadvert_box
+games4escape.com##.right.sidebar-col
+games4escape.com##.leader-advert
+
+# https://github.com/NanoMeow/QuickReports/issues/3980
+dressupone.com###ad-out-container
+dressupone.com###ad-out-container-right
+dressupone.com###ad-box:upward(1)
+
+# https://github.com/NanoMeow/QuickReports/issues/3975
+wowescape.com##.googleAd_one
+wowescape.com##.bordernew:upward(1)
+
+# https://github.com/NanoMeow/QuickReports/issues/3974
+spectrum.ieee.org##.masthead-wrap
+
+# https://github.com/NanoMeow/QuickReports/issues/3951
+geeksforgeeks.org##div[style="min-height:280px"]
+
+# https://github.com/NanoMeow/QuickReports/issues/3936
+unknowncheats.me##.alt1 > center
+
+# https://github.com/NanoMeow/QuickReports/issues/3612
+coolsoft.altervista.org###content-right-floatbox
+
+# https://github.com/NanoMeow/QuickReports/issues/820
+gogoanime.*##.adsverting:upward(1)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1928,6 +1967,10 @@ spankwire.com##.adsbox
 # https://github.com/NanoAdblocker/NanoFilters/issues/490
 # https://github.com/NanoAdblocker/NanoFilters/issues/491
 kvador.com,kropic.com,picbaron.com##br
+
+# https://github.com/NanoMeow/QuickReports/issues/3979
+mygames4girls.com##.auextend
+mygames4girls.com##.w300
 
 # End English NSFW
 
@@ -2001,6 +2044,15 @@ themarker.com##section:has(:scope > a[href*="ClickTracker"])
 magyarhang.org##.ai_widget
 
 # End Hungarian
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Indonesian
+
+# https://github.com/NanoMeow/QuickReports/issues/1129
+5movies.at.ua###masthead + .gmr-content
+
+# End Indonesian
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
@@ -2130,6 +2182,16 @@ buhidoh.net##iframe[style]:style(height: 82px !important;)
 buhidoh.net##iframe[src="http://file.buhidoh.net/uploads/setting/im_buhidoh_pc_page_2_ssp.html"]
 buhidoh.net##.banbox
 
+# https://github.com/NanoMeow/QuickReports/issues/1330
+||okbp.xyz^
+
+# https://github.com/NanoMeow/QuickReports/issues/1167
+hotpress.info##.widget:has(script):not(#text-8)
+
+# https://github.com/NanoMeow/QuickReports/issues/923
+h723.blog.fc2.com##div[align="left"]
+h723.blog.fc2.com##div[align="left"] + div[style]
+
 # End Japanese NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2207,6 +2269,19 @@ vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/70#issuecomment-567284314
 bolha.com##.BannerBillboard
 
+# https://github.com/NanoMeow/QuickReports/issues/1066
+mundo-azbox.forumeiros.com##script[src^="https://partner.googlead"]:upward(1)
+mundo-azbox.forumeiros.com###topbar:upward(2)
+mundo-azbox.forumeiros.com##script[src*="boo-box"]:upward(2)
+mundo-azbox.forumeiros.com###main-content > .module
+mundo-azbox.forumeiros.com##a[href*="azbox.w.pw"]:upward(1)
+mundo-azbox.forumeiros.com##h9:upward(2)
+mundo-azbox.forumeiros.com##script:upward([class*="main"][class*="module"]):not(.paged):not(>form)
+mundo-azbox.forumeiros.com##[class^="user-"]:has-text(/Rank: Publicitário|Conteúdo patrocinado/):upward(.post)
+mundo-azbox.forumeiros.com##.topic:has(>.p-hidden)
+mundo-azbox.forumeiros.com##[class^="main-"]:has(>*:empty:only-child):upward(.module)
+$3p,subdocument,domain=mundo-azbox.forumeiros.com
+
 # End Portuguese
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2221,6 +2296,16 @@ armadaboard.com##td[style*="theme_orig"] > table:has(div[mousedown="window.open(
 
 # https://github.com/NanoAdblocker/NanoFilters/issues/486
 lrepacks.ru##.widget.partner-block
+
+# https://github.com/NanoMeow/QuickReports/issues/1077
+payeer-gift.ru##.banner
+payeer-gift.ru###hidden_link
+payeer-gift.ru##.rbrocks
+payeer-gift.ru###surfbe
+payeer-gift.ru##.linkslot-h
+payeer-gift.ru##[id^="linkslot_"]:upward(2)
+payeer-gift.ru##div[style^="width:468px; "]
+payeer-gift.ru###hidden_link1:style(display:block!important)
 
 # End Russian
 
@@ -2282,6 +2367,10 @@ kadin.com##.col-lg-12:has(div[id^="div-gpt-ad-"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/110#issuecomment-619393816
 acunn.com##.type-1
+
+# https://github.com/NanoMeow/QuickReports/issues/932
+||i.ibb.co/*reklam-*.gif^$domain=turkseed.com
+turkseed.com##.pluginWrapper:last-of-type
 
 # End Turkish
 
