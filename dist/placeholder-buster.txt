@@ -271,10 +271,10 @@ pixiv.net##body[style^="margin-bottom"]:style(margin-bottom: 0px !important;)
 pixiv.net##.ad-frame-container
 !#endif
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/120
-chess24.com###dashboardRectangleAd
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/120#issuecomment-642702233
 chess24.com##.video-series-entry:has(:scope > .box-banner)
 chess24.com###dashboardFeaturedEventAd
+chess24.com###dashboardRectangleAd
 
 # End Multilingual
 
@@ -1132,8 +1132,8 @@ thedailybeast.com##.WrapGrid__desktop-sidebar-ad
 # https://github.com/NanoMeow/QuickReports/issues/2224
 aol.com##span:has-text(/^More to Explore$/)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/120#issuecomment-642702295
 # https://github.com/NanoMeow/QuickReports/issues/2263
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/120
 gamefaqs.gamespot.com##.message_mpu:has(:scope > .ad)
 gamefaqs.gamespot.com###leader_top
 gamefaqs.gamespot.com##.ad
