@@ -1909,6 +1909,9 @@ coolsoft.altervista.org###content-right-floatbox
 # https://github.com/NanoMeow/QuickReports/issues/820
 gogoanime.*##.adsverting:upward(1)
 
+# https://github.com/NanoMeow/QuickReports/issues/4078
+lenovo.com##.affinity-offers-wrapper
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
