@@ -244,7 +244,6 @@ twitter.com##div:has(:scope > div > div > div > h2[role="heading"]:has-text(/\u6
 twitter.com##div:has(:scope > div > div > h2[role="heading"]:has-text(/\u63A8\u8350|Promoted|Gesponsert|\u0420\u0435\u043A\u043B\u0430\u043C\u0430|Promocionado|Sponsoris\u00E9|Uitgelicht|\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3/))
 twitter.com##div[aria-label*=" - "] > div[style^="padding-"] > div[style^="padding-"] > div:has(article) + div:has(:scope > div > div:empty):not(+ div + div:has(h2[role="heading"]))
 
-!#if !env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592268
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806136
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103768
@@ -254,6 +253,7 @@ twitter.com##div[aria-label*=" - "] > div[style^="padding-"] > div[style^="paddi
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/77#issuecomment-574410073
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/87#issuecomment-582155483
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/112#issuecomment-626087012
+!#if !env_mobile
 pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
 pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
 pixiv.net##.ads-top-info
@@ -537,9 +537,9 @@ sourceforge.net##.main-content > section.sterling
 smallbusiness.chron.com###top-300
 smallbusiness.chron.com##.leaderboard
 
-!#if env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608696
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672325
+!#if env_mobile
 knowyourmeme.com##.complex-ad-wrapper
 knowyourmeme.com##.content-unit-refresh-wrapper
 !#endif
@@ -655,8 +655,8 @@ majorgeeks.com##.geekad
 majorgeeks.com##.navigation-light
 majorgeeks.com##center:has-text(=Advertisement=)
 
-!#if env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024499
+!#if env_mobile
 ultimate-guitar.com##.js-ad-alternative
 ultimate-guitar.com##.js-tab-banner-middle
 ultimate-guitar.com##.js-top-adv
@@ -1244,8 +1244,8 @@ licenseglobal.com##.banner-top-wrapper
 toonbarn.com##.banner:has(.adsbygoogle)
 toonbarn.com##.header-sub
 
-!#if env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/69#issuecomment-565864497
+!#if env_mobile
 m.imgur.com##.Ad-adhesive
 !#endif
 
@@ -1445,10 +1445,10 @@ tellerreport.com##.ads
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/92#issuecomment-589440269
 douglascountysentinel.com,hpenews.com##.dfpAd
 
-!#if !env_mobile
 # https://github.com/LiCybora/NanoCoreFirefox/issues/31
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/92#issuecomment-589440711
 # https://github.com/NanoMeow/QuickReports/issues/1672
+!#if !env_mobile
 forum.xda-developers.com##.purchad:upward(1)
 !#endif
 forum.xda-developers.com##.leaderboard
@@ -1939,13 +1939,13 @@ rule34.paheal.net##section:has(:scope > .blockbody > span > a[href$="/bad_ads"])
 # https://github.com/NanoMeow/QuickReports/issues/1541
 hentaifox.com##.atop
 
-!#if !env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533187391
+!#if !env_mobile
 rule34.xxx##.content:style(width: calc(100% - 220px) !important;)
 !#endif
 
-!#if !env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/79#issuecomment-576932807
+!#if !env_mobile
 e621.net##.content-post:style(width: calc(100% - 260px) !important;)
 !#endif
 
@@ -2247,8 +2247,8 @@ plejada.pl###stickyWrapperAlone
 # https://github.com/NanoMeow/QuickReports/issues/2981
 queer.pl##.box-adv-super
 
-!#if !env_mobile
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/104#issuecomment-609051824
+!#if !env_mobile
 photoblog.pl##.frontpage-teaser-photo-container > h1:style(margin-top: 30px !important;)
 photoblog.pl##.frontpage-teaser-photo-container:style(height: 170px !important;)
 !#endif
