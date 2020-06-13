@@ -352,7 +352,7 @@ rjno1.com##.allmode_box:has(:scope > center > script[src="//cpro.baidustatic.com
 
 # https://github.com/NanoMeow/QuickReports/issues/3252
 news.mydrivers.com##.adsbygoogle:upward(1)
-news.mydrivers.com##.baidu_right:style(float: left !important)
+news.mydrivers.com##.baidu_right:style(float: left !important;)
 news.mydrivers.com##.baidu_left
 
 # https://github.com/NanoMeow/QuickReports/issues/3968
@@ -539,11 +539,11 @@ smallbusiness.chron.com###top-300
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608696
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672325
-knowyourmeme.com##.combo-right
 !#if env_mobile
 knowyourmeme.com##.content-unit-refresh-wrapper
 knowyourmeme.com##.complex-ad-wrapper
 !#endif
+knowyourmeme.com##.combo-right
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672357
 time.com##.rundown-sidebar
@@ -1448,12 +1448,12 @@ douglascountysentinel.com,hpenews.com##.dfpAd
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/92#issuecomment-589440711
 # https://github.com/LiCybora/NanoCoreFirefox/issues/31
 # https://github.com/NanoMeow/QuickReports/issues/1672
-forum.xda-developers.com##.postbit-userinfo-cell:not(:has-text(/\w/))
-forum.xda-developers.com##div[class^="rsb-"]
-forum.xda-developers.com##.leaderboard
 !#if !env_mobile
 forum.xda-developers.com##.purchad:upward(1)
 !#endif
+forum.xda-developers.com##.postbit-userinfo-cell:not(:has-text(/\w/))
+forum.xda-developers.com##div[class^="rsb-"]
+forum.xda-developers.com##.leaderboard
 
 # https://github.com/NanoMeow/QuickReports/issues/3136
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393557
@@ -2082,7 +2082,7 @@ nekopoi.care##img[hidden]:upward(.widget_text)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149803
 excite.it##.cLeft.alpha.g_3
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935679
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935539
 guidatv.quotidiano.net###Leader
 
 # https://github.com/NanoMeow/QuickReports/issues/1177
@@ -2249,8 +2249,8 @@ queer.pl##.box-adv-super
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/104#issuecomment-609051824
 !#if !env_mobile
-photoblog.pl##.frontpage-teaser-photo-container:style(height: 170px !important)
-photoblog.pl##.frontpage-teaser-photo-container > h1:style(margin-top: 30px !important)
+photoblog.pl##.frontpage-teaser-photo-container:style(height: 170px !important;)
+photoblog.pl##.frontpage-teaser-photo-container > h1:style(margin-top: 30px !important;)
 !#endif
 
 # https://github.com/NanoMeow/QuickReports/issues/3907
