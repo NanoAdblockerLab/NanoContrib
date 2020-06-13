@@ -704,8 +704,8 @@ howto-connect.com##.widget_text_smart:has(ins.adsbygoogle)
 # https://github.com/NanoMeow/QuickReports/issues/140
 mangarock.com##div:has(:scope > [id^="taboola"])
 
-# https://github.com/NanoMeow/QuickReports/issues/1023
 # https://github.com/NanoMeow/QuickReports/issues/372
+# https://github.com/NanoMeow/QuickReports/issues/1023
 usgamer.net##.leaderboard-container
 usgamer.net##.recommendations
 
@@ -1649,8 +1649,8 @@ slate.com##.ad--inArticleBanner
 researchgate.net##.is-sticky:style(top: 0px !important;)
 researchgate.net##.lite-page__above:has(:scope > .lite-page-ad)
 
-# https://github.com/NanoMeow/QuickReports/issues/2932
 # https://github.com/NanoMeow/QuickReports/issues/406
+# https://github.com/NanoMeow/QuickReports/issues/2932
 mysanantonio.com##.zoneInlineD
 mysanantonio.com,sfgate.com###ctpl-fullbanner-spacer
 mysanantonio.com,sfgate.com###site-nav-spacer
