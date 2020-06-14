@@ -1,0 +1,14 @@
+git:
+  depth: 1
+language: node_js
+node_js: node
+cache:
+  directories:
+  - node_modules
+before_script:
+- npm install qd-filter-lint
+script:
+- set -e
+- npm ls
+- qd-filter-lint ./dist/placeholder-buster.txt
+- git diff --exit-code
