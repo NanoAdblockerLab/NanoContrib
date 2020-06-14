@@ -83,10 +83,11 @@ reuters.com##.RightRail_sticky:has(.DPSlot_slot)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/24#issuecomment-494611995
 fonts2u.com###banner_bottom
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/25#issuecomment-495819437
 # https://github.com/NanoMeow/QuickReports/issues/2652
-grammaire.reverso.net,grammar.reverso.net###ads
 reverso.net##.locdrcas
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/25#issuecomment-495819437
+grammaire.reverso.net,grammar.reverso.net###ads
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/27#issuecomment-497180207
 onthesnow.*,skiinfo.*###adpos_Skyscraper_wrap
@@ -118,10 +119,12 @@ tripadvisor.com##div[class*="_ad_billboard"]
 rpmseek.com###lbanner_top
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/41#issuecomment-515740473
-edition.cnn.com###story-bottom
 www.cnn.com##[class*="outbrain__Container-"]
 www.cnn.com##iframe[src^="https://widgets.tree.com/"]:upward(3)
 www.cnn.com##section:not(:has-text(/\w/))
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/41#issuecomment-515740473
+edition.cnn.com###story-bottom
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/44#issuecomment-519327973
 manuall.*,handleidingkwijt.com,shuomingshu88.com##.col-sm-9 > div:has-text(advertisement)
@@ -780,12 +783,14 @@ colourmylearning.com##.code-block
 nexusradio.com##div:has(:scope > .adsbygoogle)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/29#issuecomment-500229662
-m.wishafriend.com###body > div:has(:scope > div > script[src*="/adsbygoogle"])
-m.wishafriend.com###mid > div:has(:scope > div > .adsbygoogle)
-m.wishafriend.com##div[id^="rockcat"] > div:has(script[src*="/adsbygoogle"])
 www.wishafriend.com##.masonry-brick:has(script[src*="/pagead/"])
 www.wishafriend.com##.msg-sec:has(script[src*="/adsbygoogle"])
 www.wishafriend.com##.rw_ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/29#issuecomment-500229662
+m.wishafriend.com###body > div:has(:scope > div > script[src*="/adsbygoogle"])
+m.wishafriend.com###mid > div:has(:scope > div > .adsbygoogle)
+m.wishafriend.com##div[id^="rockcat"] > div:has(script[src*="/adsbygoogle"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/30#issuecomment-501075888
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/37#issuecomment-510285561
@@ -815,10 +820,11 @@ allkpop.com##section.full-width > section[style]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800272
 ghanafa.org##.fa-advertising__content
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800291
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800299
-preview.u-manual.com##.ads_div1
 www.u-manual.com##.sidebar > ul > li:has-text(ADS:)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/32#issuecomment-504800291
+preview.u-manual.com##.ads_div1
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/33#issuecomment-506915470
 diskingdom.com##.clearfix.widget_text.widget
@@ -1266,6 +1272,8 @@ files.minecraftforge.net##.promo-container
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457516
 gayemagazine.com##div[style*="width:320px;height:"]
 gayemagazine.com##div[style^="width: 320px; height:"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/73#issuecomment-569457516
 wix.com##iframe[src*="static.parastorage.com/unpkg/"]
 
 # https://github.com/NanoMeow/QuickReports/issues/2603
@@ -1500,10 +1508,12 @@ weatherfarm.com##.pushdown_ad
 weatherfarm.com##.wf-bigbox-advertising
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229430
+www.winnipegfreepress.com##.tile-container:has(:scope > .billboard-ad-space)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229430
 marketplace.winnipegfreepress.com###ap_header:style(height: 138px !important;)
 marketplace.winnipegfreepress.com###ap_header_ad_link > a:has-text(Advertisment)
 marketplace.winnipegfreepress.com###ap_header_leaderboard
-www.winnipegfreepress.com##.tile-container:has(:scope > .billboard-ad-space)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229469
 wtxl.com##.TrackedBannerPromo
@@ -1636,13 +1646,19 @@ researchgate.net##.is-sticky:style(top: 0px !important;)
 researchgate.net##.lite-page__above:has(:scope > .lite-page-ad)
 
 # https://github.com/NanoMeow/QuickReports/issues/406
-# https://github.com/NanoMeow/QuickReports/issues/2932
+mysanantonio.com###ctpl-fullbanner-spacer
+mysanantonio.com###site-nav-spacer
+mysanantonio.com###siteNav:style(transform: none !important;)
+mysanantonio.com###subHead:style(transform: none !important;)
+mysanantonio.com##.ctpl-fullbanner
 mysanantonio.com##.zoneInlineD
-mysanantonio.com,sfgate.com###ctpl-fullbanner-spacer
-mysanantonio.com,sfgate.com###site-nav-spacer
-mysanantonio.com,sfgate.com###siteNav:style(transform: none !important;)
-mysanantonio.com,sfgate.com###subHead:style(transform: none !important;)
-mysanantonio.com,sfgate.com##.ctpl-fullbanner
+
+# https://github.com/NanoMeow/QuickReports/issues/2932
+sfgate.com###ctpl-fullbanner-spacer
+sfgate.com###site-nav-spacer
+sfgate.com###siteNav:style(transform: none !important;)
+sfgate.com###subHead:style(transform: none !important;)
+sfgate.com##.ctpl-fullbanner
 
 # https://github.com/NanoMeow/QuickReports/issues/3315
 calgaryherald.com##.ad__section-border
