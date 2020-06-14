@@ -369,17 +369,6 @@ www.wenxuecity.com##center:has(:scope > #div-gpt-ad-Middle_2) + br + br
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
-# Croatian
-
-# https://github.com/NanoMeow/QuickReports/issues/2508
-index.hr###DA4
-index.hr##.google-billboard
-index.hr##.google-billboard-top
-
-# End Croatian
-
-# -------------------------------------------------------------------------------------------------------------------- #
-
 # Dhivehi
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608678
@@ -565,8 +554,10 @@ mywindowshub.com##.textwidget:has(script[src*="adsbygoogle.js"])
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149338
 download3k.com##p:has(script[src*="adsbygoogle.js"])
 
+# https://github.com/NanoAdblocker/NanoFilters/issues/458
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149362
 pureinfotech.com##.code-block:has(script[src*="adsbygoogle.js"])
+pureinfotech.com##.top-rvzone-block
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149383
 windows101tricks.com##.single-post-content.clearfix.entry-content > div:has(script[src*="adsbygoogle.js"])
@@ -698,7 +689,10 @@ fearby.com##.entry-content > p:has-text(Advertisement:)
 fearby.com##p:has(script)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/15#issuecomment-473121542
+# https://github.com/NanoMeow/QuickReports/issues/2408
+thesimsresource.com##.crtv-bottom-wrapper
 thesimsresource.com##.crtv-top-wrapper
+thesimsresource.com##.sticky_bottom
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/17#issuecomment-475089245
 howto-connect.com##.widget_text_smart:has(ins.adsbygoogle)
@@ -1093,9 +1087,6 @@ stevemeadedesigns.com##div[class^="add-"]:has(.adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/60#issuecomment-546554190
 iplocation.net##div.col:has(:scope > .adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/60#issuecomment-546554199
-bustle.com##.gU:has(:scope > div[id^="ad-"])
-
 # https://github.com/NanoMeow/QuickReports/issues/2141
 eclipse.org##div:has(:scope > .eclipsefnd-ad)
 
@@ -1212,7 +1203,9 @@ amny.com##.gridlove-sidebar
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770868
 boston.com##.site-container:style(margin-top: -100px !important;)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/60#issuecomment-546554199
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/67#issuecomment-562770885
+bustle.com##.gU:has(:scope > div[id^="ad-"])
 bustle.com##.ka.gr.gq
 
 # https://github.com/NanoAdblocker/NanoFilters/issues/433
@@ -1495,9 +1488,6 @@ ptleader.com##.bottom-sticky
 # https://github.com/NanoMeow/QuickReports/issues/3176
 radarbox24.com##.map-ad
 
-# https://github.com/NanoAdblocker/NanoFilters/issues/458
-pureinfotech.com##.top-rvzone-block
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229249
 thejournal-news.net##.lightblue.container
 
@@ -1584,7 +1574,10 @@ unix.com##[id^="zone-"]
 condoblues.com##script[src*="nmedianet"]:upward(1)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393582
+# https://github.com/NanoMeow/QuickReports/issues/2117
+indy100.com###mpu0ArticleBody
 indy100.com##amp-list:upward(1)
+indy100.com##header + div > div:has(:scope > h1 + div > amp-list)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/102#issuecomment-605393587
 worldatlas.com##.dynamicInsert-block
@@ -1728,14 +1721,6 @@ cyberciti.biz##center:has(.adsbygoogle)
 essexlive.news###taboolaRightRailsResponsive
 essexlive.news##.sovrn-onetag-ad
 essexlive.news##body:style(margin-top: 0px !important;)
-
-# https://github.com/NanoMeow/QuickReports/issues/2408
-thesimsresource.com##.crtv-bottom-wrapper
-thesimsresource.com##.sticky_bottom
-
-# https://github.com/NanoMeow/QuickReports/issues/2117
-indy100.com###mpu0ArticleBody
-indy100.com##header + div > div:has(:scope > h1 + div > amp-list)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/109#issuecomment-618437574
 peazip.org##td:has(:scope > .adsbygoogle)
@@ -2148,15 +2133,14 @@ nicoco.net###search_form + div
 5ch.net###banner
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/99#issuecomment-597430513
+# https://github.com/NanoMeow/QuickReports/issues/3350
+shindanmaker.com##.taboola_block1
 shindanmaker.com##div[id^="sm_pc_head"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/99#issuecomment-597430538
 weblio.jp##.ads-loader
 weblio.jp##.firstDictBnr
 weblio.jp##.rectangle-ads-frame-www
-
-# https://github.com/NanoMeow/QuickReports/issues/3350
-shindanmaker.com##.taboola_block1
 
 # https://github.com/NanoMeow/QuickReports/issues/3486
 uwagakisimasuka.blog.fc2.com##.adsbygoogle + script + br
@@ -2322,7 +2306,11 @@ payeer-gift.ru##div[style^="width:468px; "]
 forum.benchmark.rs##div:has(:scope > [id^="div-gpt-ad-"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/114#issuecomment-628048100
+# https://github.com/NanoMeow/QuickReports/issues/2508
+index.hr###DA4
 index.hr##.comments-holder > .right-part
+index.hr##.google-billboard
+index.hr##.google-billboard-top
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/114#issuecomment-628048176
 njuskalo.hr##.BannerBillboard
