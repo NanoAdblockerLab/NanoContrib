@@ -357,9 +357,6 @@ news.mydrivers.com##.adsbygoogle:upward(1)
 news.mydrivers.com##.baidu_left
 news.mydrivers.com##.baidu_right:style(float: left !important;)
 
-# https://github.com/NanoMeow/QuickReports/issues/3968
-bbs.wenxuecity.com###adt
-
 # https://github.com/NanoMeow/QuickReports/issues/4008
 www.wenxuecity.com###sponsors
 www.wenxuecity.com##.banners
@@ -367,6 +364,9 @@ www.wenxuecity.com##.tb
 www.wenxuecity.com##center:has(:scope > #div-gpt-ad-Middle_2)
 www.wenxuecity.com##center:has(:scope > #div-gpt-ad-Middle_2) + br
 www.wenxuecity.com##center:has(:scope > #div-gpt-ad-Middle_2) + br + br
+
+# https://github.com/NanoMeow/QuickReports/issues/3968
+bbs.wenxuecity.com###adt
 
 # End Chinese (Simplified)
 
