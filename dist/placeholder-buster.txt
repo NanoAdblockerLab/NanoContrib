@@ -1347,10 +1347,6 @@ kentonline.co.uk##.mpu
 # https://github.com/NanoMeow/QuickReports/issues/2853
 cbc.ca##.risingstar-placeholder
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533036
-asia.nikkei.com##.article__footer:has(:scope > .OUTBRAIN)
-asia.nikkei.com##div[class^="ad-"]
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/81#issuecomment-579541418
 patches-scrolls.com###ContentDiv:style(top: 0px !important;)
 patches-scrolls.com###SkyBannerTopDiv
@@ -2128,6 +2124,10 @@ www.nikkei.com##.k-ad
 www.nikkei.com##.k-hub-footer-link__item--mpu
 www.nikkei.com##.k-hub-pr
 www.nikkei.com##.newsTrendWatch
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533036
+asia.nikkei.com##.article__footer:has(:scope > .OUTBRAIN)
+asia.nikkei.com##div[class^="ad-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508585
 businessinsider.jp##div:has(:scope > #bi_normal-2)
