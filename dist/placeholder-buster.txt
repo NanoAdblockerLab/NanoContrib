@@ -335,6 +335,16 @@ watania.net##.adsbygoogle:upward(1)
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Bengali
+
+# https://github.com/NanoMeow/QuickReports/issues/1204
+bitarka.com##.penci-adsense-below-slider
+bitarka.com##.penci-featured-cat-custom-ads
+
+# End Bengali
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # Chinese (Simplified)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/16#issuecomment-473483183
