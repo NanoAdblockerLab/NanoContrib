@@ -24,7 +24,9 @@ reddit.com##div[data-redditstyle="false"]:has(div[data-before-content="advertise
 reddit.com##div[id^="overlay-sidebar-"][data-before-content="advertisement"]:upward(4)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/10#issuecomment-459593858
+# https://github.com/NanoMeow/QuickReports/issues/35
 quizlet.com##.ModeLayout-ad
+quizlet.com##.SiteAd
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024293
 pokemonpets.com##.NiceBg:has(script)
@@ -907,9 +909,6 @@ acronymfinder.com##[class$="-container"]:has(:scope > script)
 acronymfinder.com##div[style]:has(:scope > div[style])
 acronymfinder.com##td[colspan="3"]
 
-# https://github.com/NanoMeow/QuickReports/issues/35
-quizlet.com##.SiteAd
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/43#issuecomment-518039904
 vg247.com##.newsad
 
@@ -972,7 +971,9 @@ austinchronicle.com###top-leaderboard
 comedycentral.com.au##.pane-vimn-coda-gpt-panes
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/49#issuecomment-526419896
+# https://github.com/NanoMeow/QuickReports/issues/937
 thedailybeast.com##.ConnatixAd
+thedailybeast.com##.WrapGrid__desktop-sidebar-ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/50#issuecomment-526861679
 friv-games.com##.website-ad-space-area
@@ -1120,9 +1121,6 @@ planetf1.com##.textwidget
 # https://github.com/NanoMeow/QuickReports/issues/1484
 marketwatch.com###brass-rail
 marketwatch.com##.container--advertisement
-
-# https://github.com/NanoMeow/QuickReports/issues/937
-thedailybeast.com##.WrapGrid__desktop-sidebar-ad
 
 # https://github.com/NanoMeow/QuickReports/issues/2224
 aol.com##span:has-text(/^More to Explore$/)
