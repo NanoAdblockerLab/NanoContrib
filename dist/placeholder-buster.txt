@@ -33,9 +33,6 @@ pokemonpets.com##.NiceBg[style^="width: 120px; "]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/11#issuecomment-463024370
 mightytext.net###ad-block-holder
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935679
-filehorse.com##div[class^="dx-pr-"]
-
 # https://github.com/NanoAdblocker/NanoFilters/issues/286
 encoretvb.com###leaderboard-ad-1
 encoretvb.com###square-ad-1
@@ -454,6 +451,8 @@ whoiscute.com##.tl-states-root
 avsforum.com##.large-4.medium-6.small-12:has(.ad-wrapper)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592242
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454619895
+gadgethacks.com##.whtaph
 gadgethacks.com##.whtaph-floatbox
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592252
@@ -488,7 +487,10 @@ tvtropes.org##.sb-ad-unit
 picktorrent.com##.aBut > .no2ref
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592327
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/42#issuecomment-517079717
 yeggi.com##.adbttm_right_300
+yeggi.com##div[style*="f2f2f2"]:not(:has(a))
+yeggi.com##div[style^="margin-right:320px;"]:style(margin-right: 12px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608673
 thehungersite.greatergood.com##.ctg-ad
@@ -497,11 +499,15 @@ thehungersite.greatergood.com##.ctg-ad
 fourfourtwo.com###leaderboard
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608707
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935679
 filehorse.com##.dx-pr-1
 filehorse.com##.dx-sb-1
+filehorse.com##div[class^="dx-pr-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608728
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935577
 color-hex.com###addivider
+color-hex.com##hr
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608733
 healthline.com##aside:has(div[data-ad="true"])
@@ -623,9 +629,6 @@ berkshireeagle.com##div.text-center.credits.col-md-3.hidden-xs
 technorms.com##.td-container > div.td-pb-row > .td-pb-span12
 technorms.com##.td-header-header
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454619895
-gadgethacks.com##.whtaph
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/8#issuecomment-454619946
 wonderhowto.com##.whtaph-floatbox
 
@@ -676,9 +679,6 @@ fallouttoyworks.keenspot.com##div.shadow:has(div[id^="div-gpt-ad-"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935557
 simkl.com##.blockplacecenter
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935577
-color-hex.com##hr
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/14#issuecomment-469960254
 roleplay.me###copyright1
@@ -792,10 +792,13 @@ www.wishafriend.com##.msg-sec:has(script[src*="/adsbygoogle"])
 www.wishafriend.com##.rw_ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/30#issuecomment-501075888
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/37#issuecomment-510285561
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/69#issuecomment-565864360
 phoronix.com###main > div:first-of-type[style*="overflow: hidden"]
+phoronix.com##.axd-widget
 phoronix.com##aside:has(:scope > div > script[src$="/gpt.js"])
 phoronix.com##div:has(:scope > div[id^="div-pg-ad"])
+phoronix.com##div:has(:scope > div[id^="gpt_"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/30#issuecomment-501075906
 lists.malwarepatrol.net##.right:has(:scope > h3:has-text(Ads by Google))
@@ -846,10 +849,6 @@ investorguide.com###wfi-ad-slot-leaderboard
 joe.ie##.hidden-xs.with-ad
 joe.ie##div:has(:scope > div[id^="div-gpt-river"])
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/37#issuecomment-510285561
-phoronix.com##.axd-widget
-phoronix.com##div:has(:scope > div[id^="gpt_"])
-
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/37#issuecomment-510285611
 smackjeeves.com###goo_ad
 
@@ -899,10 +898,6 @@ chess.com##.short-sidebar-ad-component
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/42#issuecomment-517079703
 codesforuniversalremotes.com##.code-block
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/42#issuecomment-517079717
-yeggi.com##div[style*="f2f2f2"]:not(:has(a))
-yeggi.com##div[style^="margin-right:320px;"]:style(margin-right: 12px !important;)
 
 # https://github.com/NanoMeow/QuickReports/issues/1596
 rankedboost.com##[class^="InsertTitle-Updated"]:upward(1)
