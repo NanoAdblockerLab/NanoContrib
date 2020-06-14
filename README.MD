@@ -1,4 +1,4 @@
-# Nano Contrib
+# Nano Contrib [![Build Status](https://travis-ci.org/NanoAdblockerLab/NanoContrib.svg?branch=master)](https://travis-ci.org/NanoAdblockerLab/NanoContrib)
 
 Community filters
 
