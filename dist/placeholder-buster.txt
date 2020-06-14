@@ -2400,6 +2400,9 @@ express.pk##div[id^="div-gpt-mrec"]
 # https://github.com/NanoMeow/QuickReports/issues/1083
 phimgi.net##[id*="ScriptRoot"]
 
+# https://github.com/NanoMeow/QuickReports/issues/3645
+day-hoc.org##.td-a-rec
+
 # End Vietnamese
 
 # -------------------------------------------------------------------------------------------------------------------- #
