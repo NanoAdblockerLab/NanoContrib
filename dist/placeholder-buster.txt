@@ -278,6 +278,10 @@ chess24.com###dashboardFeaturedEventAd
 chess24.com###dashboardRectangleAd
 chess24.com##.video-series-entry:has(:scope > .box-banner)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/121
+plurk.com###static-ads
+plurk.com###permanent-holder:style(padding-top: 20px !important;)
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -1914,6 +1918,9 @@ lenovo.com##.affinity-offers-wrapper
 
 # https://github.com/NanoMeow/QuickReports/issues/1128
 4shared.com##.sideRekl
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/121
+mariopartylegacy.com##iframe[data-rocket-lazyload]:upward(2)
 
 # End English
 
