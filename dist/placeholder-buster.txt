@@ -280,7 +280,7 @@ chess24.com##.video-series-entry:has(:scope > .box-banner)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/121
 plurk.com###static-ads
-plurk.com###permanent-holder:style(padding-top: 20px !important)
+plurk.com###permanent-holder:style(padding-top: 20px !important;)
 
 # End Multilingual
 
