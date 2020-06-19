@@ -261,6 +261,7 @@ pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
 pixiv.net##.ads-top-info
 pixiv.net##.area_new:not(:has(.area_title))
 pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
+pixiv.net##a[href$="=work_detail_remove_ads"]:upward(3)
 pixiv.net##div:has(:scope > div > iframe:not([src])):matches-css(padding-bottom: 56px)
 pixiv.net##iframe[height="520"]:upward(1)
 pixiv.net##iframe[height="60"]:upward(1)
