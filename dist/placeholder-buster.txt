@@ -127,7 +127,7 @@ www.cnn.com##section:not(:has-text(/\w/))
 edition.cnn.com###story-bottom
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/44#issuecomment-519327973
-manuall.*,handleidingkwijt.com,shuomingshu88.com##.col-sm-9 > div:has-text(advertisement)
+handleidingkwijt.com,manuall.*,shuomingshu88.com##.col-sm-9 > div:has-text(advertisement)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/51#issuecomment-528574601
 vimeo.com##div:has(:scope > div[id^="gpt-ad"][role="complementary"])
@@ -137,7 +137,7 @@ distrowatch.com##.sovrn-onetag-ad
 distrowatch.com##td:nth-of-type(2) > table.Info
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/54#issuecomment-533186962
-allrecipes.com.au,allrecipes.co.uk,allrecipes.ca##.gridResponsive__column:has(:scope > .docked_rail > div[id^="ads"])
+allrecipes.ca,allrecipes.co.uk,allrecipes.com.au##.gridResponsive__column:has(:scope > .docked_rail > div[id^="ads"])
 
 # https://github.com/NanoMeow/QuickReports/issues/709
 eurogamer.*###leaderboard
@@ -194,8 +194,8 @@ accuweather.com##.ad
 accuweather.com##.glacier-ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/83#issuecomment-579870364
-weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.ad
-weatheronline.*,woeurope.eu,wofrance.fr,woitalia.it,woespana.es,havaturkiye.com,woweather.com,pogodaonline.ru,woweer.nl##.banner_oben
+havaturkiye.com,pogodaonline.ru,weatheronline.*,woespana.es,woeurope.eu,wofrance.fr,woitalia.it,woweather.com,woweer.nl##.ad
+havaturkiye.com,pogodaonline.ru,weatheronline.*,woespana.es,woeurope.eu,wofrance.fr,woitalia.it,woweather.com,woweer.nl##.banner_oben
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/89#issuecomment-583693442
 transfermarkt.com##.werbung
@@ -220,7 +220,7 @@ sat24.com###headercontent-onder
 vice.com##.short-form-right-rail__content
 
 # https://github.com/NanoMeow/QuickReports/issues/3448
-downdetector.*,allestoringen.*,xn--allestrungen-9ib.*##.ad + .card.my-3:style(margin-top: 0.5rem !important;)
+allestoringen.*,downdetector.*,xn--allestrungen-9ib.*##.ad + .card.my-3:style(margin-top: 0.5rem !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/105#issuecomment-609855620
 shoutwiki.com###content.mw-body:style(margin-right: 8px !important;)
@@ -525,7 +525,7 @@ healthline.com##aside:has(div[data-ad="true"])
 gamespot.com##div[x-enc="id class"]:has(div > div[data-ad-type])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608757
-avclub.com,gizmodo.com,deadspin.com,jalopnik.com,kotaku.com,lifehacker.com,splinternews.com,thetakeout.com,theroot.com,theonion.com,theinventory.com##.contained-ad-container
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.contained-ad-container
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608760
 thedroidguy.com###secondary
@@ -1311,7 +1311,7 @@ americanmilitarynews.com###blogposts > div:not(:has(a))
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643239
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/94#issuecomment-592803187
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/96#issuecomment-594229219
-bastropenterprise.com,donaldsonvillechief.com,tricountyindependent.com,echo-pilot.com,postsouth.com,therecordherald.com,sleepyeyenews.com,stjamesnews.com,chronicle-express.com,the-leader.com,wellsvilledaily.com##.ad
+bastropenterprise.com,chronicle-express.com,donaldsonvillechief.com,echo-pilot.com,postsouth.com,sleepyeyenews.com,stjamesnews.com,the-leader.com,therecordherald.com,tricountyindependent.com,wellsvilledaily.com##.ad
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/75#issuecomment-570643332
 dailypress.com##.pb-container:last-of-type
@@ -1854,7 +1854,7 @@ moving2canada.com##.ajax_advert:upward(.sidebar_module)
 moving2canada.com##.header_advertisement_clear
 
 # https://github.com/NanoMeow/QuickReports/issues/633
-2conv.com,flvto.biz,flv2mp3.by##.content-right-bar:has(:scope > .square-ads)
+2conv.com,flv2mp3.by,flvto.biz##.content-right-bar:has(:scope > .square-ads)
 
 # https://github.com/NanoMeow/QuickReports/issues/3981
 mousecity.com##.banner-box-square
@@ -1873,16 +1873,16 @@ apnews.com##.bellow-article
 apnews.com##div[class^="Component-dfp-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/122#issuecomment-646910000
-games.baltimoresun.com,games.charlotteobserver.com,games.chicagotribune.com,games.dailypress.com,games.mcall.com,games.nydailynews.com,games.orlandosentinel.com,games.sun-sentinel.com,games.dailymail.co.uk##div[data-element-description$=" ad"]
+games.baltimoresun.com,games.charlotteobserver.com,games.chicagotribune.com,games.dailymail.co.uk,games.dailypress.com,games.mcall.com,games.nydailynews.com,games.orlandosentinel.com,games.sun-sentinel.com##div[data-element-description$=" ad"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/122#issuecomment-646910018
-games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##.arena-ad-col + ark-article:style(margin-right: 0px !important; max-width: initial !important;)
-games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##[display-ad-location] > *
+games.express.co.uk,games.mirror.co.uk,games.usatoday.com,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk##.arena-ad-col + ark-article:style(margin-right: 0px !important; max-width: initial !important;)
+games.express.co.uk,games.mirror.co.uk,games.usatoday.com,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk##[display-ad-location] > *
 
-https://github.com/NanoAdblockerLab/NanoContrib/pull/123#issuecomment-646912422
-arkadiumarena.com##div[data-element-description$=" ad"]
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/123#issuecomment-646912422
 arkadiumarena.com##.arena-ad-col + ark-article:style(margin-right: 0px !important; max-width: initial !important;)
 arkadiumarena.com##[display-ad-location] > *
+arkadiumarena.com##div[data-element-description$=" ad"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/119#issuecomment-641650527
 theguardian.com##.aside-slot-container
@@ -1976,7 +1976,7 @@ rule34hentai.net##.blockbody:has(:scope > script:only-child)
 rule34hentai.net##.blockbody:has(:scope > script[src*="exosrv"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/100#issuecomment-600108738
-hard55.com,analbooru.com,zombooru.com##.banner_hor
+analbooru.com,hard55.com,zombooru.com##.banner_hor
 
 # https://github.com/NanoMeow/QuickReports/issues/3270
 pornhub.*###hd-rightColVideoPage > div.clearfix
@@ -1998,7 +1998,7 @@ spankwire.com##.adsbox
 # https://github.com/NanoAdblocker/NanoFilters/issues/489
 # https://github.com/NanoAdblocker/NanoFilters/issues/490
 # https://github.com/NanoAdblocker/NanoFilters/issues/491
-kvador.com,kropic.com,picbaron.com##br
+kropic.com,kvador.com,picbaron.com##br
 
 # https://github.com/NanoMeow/QuickReports/issues/3979
 mygames4girls.com##.auextend
