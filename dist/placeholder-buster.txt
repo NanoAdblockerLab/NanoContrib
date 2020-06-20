@@ -1873,11 +1873,16 @@ apnews.com##.bellow-article
 apnews.com##div[class^="Component-dfp-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/122#issuecomment-646910000
-arkadiumarena.com,games.baltimoresun.com,games.charlotteobserver.com,games.chicagotribune.com,games.dailypress.com,games.mcall.com,games.nydailynews.com,games.orlandosentinel.com,games.sun-sentinel.com,games.dailymail.co.uk##div[data-element-description$=" ad"]
+games.baltimoresun.com,games.charlotteobserver.com,games.chicagotribune.com,games.dailypress.com,games.mcall.com,games.nydailynews.com,games.orlandosentinel.com,games.sun-sentinel.com,games.dailymail.co.uk##div[data-element-description$=" ad"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/122#issuecomment-646910018
-arkadiumarena.com,games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##.arena-ad-col + ark-article:style(margin-right: 0px !important; max-width: initial !important;)
-arkadiumarena.com,games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##[display-ad-location] > *
+games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##.arena-ad-col + ark-article:style(margin-right: 0px !important; max-width: initial !important;)
+games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##[display-ad-location] > *
+
+https://github.com/NanoAdblockerLab/NanoContrib/pull/123#issuecomment-646912422
+arkadiumarena.com##div[data-element-description$=" ad"]
+arkadiumarena.com##.arena-ad-col + ark-article:style(margin-right: 0px !important; max-width: initial !important;)
+arkadiumarena.com##[display-ad-location] > *
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/119#issuecomment-641650527
 theguardian.com##.aside-slot-container
