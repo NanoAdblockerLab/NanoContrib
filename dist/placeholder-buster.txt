@@ -1872,12 +1872,12 @@ apnews.com##.RightRail
 apnews.com##.bellow-article
 apnews.com##div[class^="Component-dfp-"]
 
-# https://github.com/NanoMeow/QuickReports/issues/4042
-! Arkadium games new design
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/122#issuecomment-646910000
 games.baltimoresun.com,games.charlotteobserver.com,games.chicagotribune.com,games.dailypress.com,games.mcall.com,games.nydailynews.com,games.orlandosentinel.com,arkadiumarena.com,games.sun-sentinel.com,games.dailymail.co.uk##div[data-element-description$=" ad"]
-! Arkadium games old design
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/122#issuecomment-646910018
+games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##.arena-ad-col + ark-article:style(margin-right: 0px !important; max-width: initial !important;)
 games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##[display-ad-location] > *
-games.express.co.uk,puzzles.bestforpuzzles.com,puzzles.independent.co.uk,puzzles.standard.co.uk,games.mirror.co.uk,games.usatoday.com##.arena-ad-col + ark-article:style(margin-right:0!important;max-width:initial!important)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/119#issuecomment-641650527
 theguardian.com##.aside-slot-container
