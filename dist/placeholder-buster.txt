@@ -283,14 +283,14 @@ chess24.com##.video-series-entry:has(:scope > .box-banner)
 plurk.com###permanent-holder:style(padding-top: 20px !important;)
 plurk.com###static-ads
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/124
-lmtonline.com##.ctpl-fullbanner
-lmtonline.com###ctpl-fullbanner-spacer
-lmtonline.com###menuBar,#subHead:style(transform: none; -webkit-transform: none !important;)
-lmtonline.com###menuBar:style(margin-top: 50px !important;)
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/124#issuecomment-647145937
 !#if !env_mobile
 lmtonline.com###siteNav:style(transform: none; -webkit-transform: none !important;)
 !#endif
+lmtonline.com###ctpl-fullbanner-spacer
+lmtonline.com###menuBar, #subHead:style(transform: none; -webkit-transform: none !important;)
+lmtonline.com###menuBar:style(margin-top: 50px !important;)
+lmtonline.com##.ctpl-fullbanner
 
 # End Multilingual
 
@@ -1941,28 +1941,28 @@ lenovo.com##.affinity-offers-wrapper
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/121#issuecomment-644815438
 mariopartylegacy.com##iframe[data-rocket-lazyload]:upward(2)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/124
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/124#issuecomment-647145960
 newsday.com##.fullBanner
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/124
-michigansthumb.com,myjournalcourier.com,theintelligencer.com,mrt.com,ourmidland.com,beaumontenterprise.com,thetelegraph.com##.ctpl-fullbanner
-michigansthumb.com,myjournalcourier.com,theintelligencer.com,mrt.com,ourmidland.com,beaumontenterprise.com,thetelegraph.com###ctpl-fullbanner-spacer
-michigansthumb.com,myjournalcourier.com,theintelligencer.com,mrt.com,ourmidland.com,beaumontenterprise.com,thetelegraph.com###menuBar,#subHead:style(transform: none; -webkit-transform: none !important;)
-michigansthumb.com,myjournalcourier.com,theintelligencer.com,mrt.com,ourmidland.com,beaumontenterprise.com,thetelegraph.com###menuBar:style(margin-top: 50px !important;)
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/124#issuecomment-647146026
 !#if !env_mobile
-michigansthumb.com,myjournalcourier.com,theintelligencer.com,mrt.com,ourmidland.com,beaumontenterprise.com,thetelegraph.com###siteNav:style(transform: none; -webkit-transform: none !important;)
+beaumontenterprise.com,michigansthumb.com,mrt.com,myjournalcourier.com,ourmidland.com,theintelligencer.com,thetelegraph.com###siteNav:style(transform: none; -webkit-transform: none !important;)
 !#endif
+beaumontenterprise.com,michigansthumb.com,mrt.com,myjournalcourier.com,ourmidland.com,theintelligencer.com,thetelegraph.com###ctpl-fullbanner-spacer
+beaumontenterprise.com,michigansthumb.com,mrt.com,myjournalcourier.com,ourmidland.com,theintelligencer.com,thetelegraph.com###menuBar, #subHead:style(transform: none; -webkit-transform: none !important;)
+beaumontenterprise.com,michigansthumb.com,mrt.com,myjournalcourier.com,ourmidland.com,theintelligencer.com,thetelegraph.com###menuBar:style(margin-top: 50px !important;)
+beaumontenterprise.com,michigansthumb.com,mrt.com,myjournalcourier.com,ourmidland.com,theintelligencer.com,thetelegraph.com##.ctpl-fullbanner
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/124
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/124#issuecomment-647146043
 mountain-news.com##.dfpAd
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/124
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/124#issuecomment-647146061
 northernstar.info##.ad-:upward(3)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/124
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/124#issuecomment-647146090
 brownsvilleherald.com##.td-header-header
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/124
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/124#issuecomment-647146108
 wickenburgsun.com##.dfpAd
 
 # End English
