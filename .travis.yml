@@ -9,5 +9,5 @@ before_script:
 - npm install qd-filter-lint
 script:
 - npm ls
-- qd-filter-lint ./dist/placeholder-buster.txt
+- qd-filter-lint ./dist/placeholder-buster.txt --auto-strict
 - git diff --exit-code
