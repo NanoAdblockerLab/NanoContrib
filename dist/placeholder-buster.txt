@@ -562,7 +562,6 @@ supercheats.com##div[id^="bottom_ad_"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/9#issuecomment-455806100
 # https://github.com/NanoMeow/QuickReports/issues/4217
 sourceforge.net##.l-gutter
-sourceforge.net##.main-content > section.sterling
 sourceforge.net##.sterling
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736308
