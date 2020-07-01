@@ -441,11 +441,11 @@ link.tl##.mobsplOverlay
 
 # https://github.com/NanoMeow/QuickReports/issues/18
 # https://github.com/NanoMeow/QuickReports/issues/3984
+games2jolly.com###home_right
 games2jolly.com###leaderboard_area
 games2jolly.com###leaderboard_area_home
 games2jolly.com##.ads_310_610_sidebar_new
 games2jolly.com##.game_play > div:nth-of-type(1)
-games2jolly.com###home_right
 games2jolly.com##.main_left_home
 
 # https://github.com/NanoMeow/QuickReports/issues/156
@@ -579,7 +579,7 @@ knowyourmeme.com##.combo-right
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672357
 time.com##.padded-mobile.bottom-recirc
 time.com##.rundown-sidebar
-||time.com/kismet/spacer.png$image,1p
+||time.com/kismet/spacer.png^$image,1p
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149121
 mywindowshub.com##.td-pb-span12.tdc-column.vc_column_container:has(ins.adsbygoogle)
@@ -993,9 +993,9 @@ thesilphroad.com##div.light:has(:scope span.ezoic-ad)
 thesilphroad.com##p:has-text(Why Ads?)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/48#issuecomment-525092917
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/125
-pinknews.co.uk##div[class^="pn-ad-"]
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/125#issuecomment-652130217
 pinknews.co.uk##.pn-mobile-in-article-ad:not(:has(a[href*="pinknews.co.uk"]))
+pinknews.co.uk##div[class^="pn-ad-"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/49#issuecomment-526419848
 austinchronicle.com###top-leaderboard
@@ -1116,9 +1116,9 @@ matcha-jp.com##.c-post:has(:scope > div[class*="RelatedNative"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/58#issuecomment-542981210
 vgmaps.com##td[align="center"][width="728"]
-||vgmaps.com/Ad-*.htm$1p
-||vgmaps.com/Header.htm$1p
-||vgmaps.com/System/Main/Header-Sponsors.png$1p
+||vgmaps.com/Ad-*.htm^$1p
+||vgmaps.com/Header.htm^$1p
+||vgmaps.com/System/Main/Header-Sponsors.png^$1p
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/59#issuecomment-544735103
 stevemeadedesigns.com##div[class^="add-"]:has(.adsbygoogle)
@@ -1270,7 +1270,7 @@ toonbarn.com##.banner:has(.adsbygoogle)
 toonbarn.com##.header-sub
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/69#issuecomment-565864497
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/125
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/125#issuecomment-652130252
 !#if env_mobile
 m.imgur.com##.Ad-adhesive
 m.imgur.com##.Ad-adhesive-placeholder
@@ -1979,44 +1979,42 @@ brownsvilleherald.com##.td-header-header
 wickenburgsun.com##.dfpAd
 
 # https://github.com/NanoMeow/QuickReports/issues/4177
-codeproject.com##.bottom-promo
 codeproject.com###ctl00_RightSideBar
 codeproject.com##.align-center.padded-top
+codeproject.com##.bottom-promo
 
 # https://github.com/NanoMeow/QuickReports/issues/4124
 howstuffworks.com##.recirc-panel
 howstuffworks.com##div[data-track-gtm="Recirculate Widget"]
 
 # https://github.com/NanoMeow/QuickReports/issues/3983
-# http://www.mirchigames.com/mirchi-escape-game/find-my-gift
-mirchigames.com##.optionbox
 mirchigames.com##.bottom_wrapper
-# http://www.mirchigames.com/
 mirchigames.com##.content_side.home_one
+mirchigames.com##.optionbox
 
 # https://github.com/NanoMeow/QuickReports/issues/3982
 top10newgames.com##.adBlockEnableClass
-top10newgames.com##.ne_ban > .col-md-4
 top10newgames.com##.advertisement > div:nth-of-type(1)
 top10newgames.com##.advertisement > div:nth-of-type(3)
+top10newgames.com##.ne_ban > .col-md-4
 
 # https://github.com/NanoMeow/QuickReports/issues/3978
-bestescapegames.com##.boxed > .col-xs-12.col-md-9
 bestescapegames.com###madd_hidden
-bestescapegames.com##.right-sidebar01
-bestescapegames.com##div[class^="add_div"]:upward(2)
+bestescapegames.com##.boxed > .col-xs-12.col-md-9
 bestescapegames.com##.home_add_newgames
 bestescapegames.com##.redc_m:has-text(/^Advertisement/):upward(2)
+bestescapegames.com##.right-sidebar01
+bestescapegames.com##div[class^="add_div"]:upward(2)
 
 # https://github.com/NanoMeow/QuickReports/issues/3976
-||games4king.com/templates/braygames/images/bg_trans.png^$image
 games4king.com###home_right
 games4king.com##.newest_games > h3
+||games4king.com/templates/braygames/images/bg_trans.png^$image,1p
 
 # https://github.com/NanoMeow/QuickReports/issues/4211
 apachelounge.com##.type0:has(.adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/125
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/125#issuecomment-652130277
 tubefilter.com##.widget_custom_html
 
 # End English
@@ -2092,9 +2090,9 @@ mygames4girls.com##.auextend
 mygames4girls.com##.w300
 
 # https://github.com/NanoMeow/QuickReports/issues/3985
+dressupwho.com###game_info_ad
 dressupwho.com###leaderboard\ index
 dressupwho.com##.game_area_ad
-dressupwho.com###game_info_ad
 
 # End English NSFW
 
