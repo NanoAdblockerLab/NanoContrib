@@ -2017,6 +2017,23 @@ apachelounge.com##.type0:has(.adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/125#issuecomment-652130277
 tubefilter.com##.widget_custom_html
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+game-debate.com##.bxz:has(> div[id^=div-gpt-ad])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+||disqusservice.com/iframe/fallback^$subdocument,domain=gamersheroes.com
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+keenspot.com###ad
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+fallouttoyworks.keenspot.com###atomekarect
+fallouttoyworks.keenspot.com###atomekalead
+fallouttoyworks.keenspot.com###atomekasky
+
+# https://github.com/NanoMeow/QuickReports/issues/4226
+keenspot.com##div[id^="KS_G"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
