@@ -2018,7 +2018,7 @@ apachelounge.com##.type0:has(.adsbygoogle)
 tubefilter.com##.widget_custom_html
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126
-game-debate.com##.bxz:has(> div[id^=div-gpt-ad])
+game-debate.com##.bxz:has(:scope > div[id^="div-gpt-ad"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126
 ||disqusservice.com/iframe/fallback^$subdocument,domain=gamersheroes.com
