@@ -702,7 +702,11 @@ flipside.keenspot.com###draobredael
 flipside.keenspot.com###flip_dafoot
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103880
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
 fallouttoyworks.keenspot.com##div.shadow:has(div[id^="div-gpt-ad-"])
+fallouttoyworks.keenspot.com###atomekarect
+fallouttoyworks.keenspot.com###atomekalead
+fallouttoyworks.keenspot.com###atomekasky
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935557
 simkl.com##.blockplacecenter
@@ -2017,6 +2021,23 @@ apachelounge.com##.type0:has(.adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/125#issuecomment-652130277
 tubefilter.com##.widget_custom_html
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+game-debate.com##.bxz:has(:scope > div[id^="div-gpt-ad"])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+||disqusservice.com/iframe/fallback^$subdocument,domain=gamersheroes.com
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+# https://github.com/NanoMeow/QuickReports/issues/4226
+keenspot.com###ad
+keenspot.com##div[id^="KS_G"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+avclub.com##a[data-ga^="\[\[\"Commerce Inset"]:upward(2)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+bleedingcool.com##.responsive-leaderboard
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2281,6 +2302,10 @@ weblio.jp##.rectangle-ads-frame-www
 # https://github.com/NanoMeow/QuickReports/issues/3486
 uwagakisimasuka.blog.fc2.com##.adsbygoogle + script + br
 uwagakisimasuka.blog.fc2.com##.side_plugin:has(.adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
+freem.ne.jp##.ad-game-side
+freem.ne.jp##.game-ad-bottom
 
 # End Japanese
 
