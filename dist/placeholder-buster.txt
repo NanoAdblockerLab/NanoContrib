@@ -702,7 +702,11 @@ flipside.keenspot.com###draobredael
 flipside.keenspot.com###flip_dafoot
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103880
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
 fallouttoyworks.keenspot.com##div.shadow:has(div[id^="div-gpt-ad-"])
+fallouttoyworks.keenspot.com###atomekarect
+fallouttoyworks.keenspot.com###atomekalead
+fallouttoyworks.keenspot.com###atomekasky
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/13#issuecomment-469935557
 simkl.com##.blockplacecenter
@@ -2027,11 +2031,6 @@ game-debate.com##.bxz:has(:scope > div[id^="div-gpt-ad"])
 # https://github.com/NanoMeow/QuickReports/issues/4226
 keenspot.com###ad
 keenspot.com##div[id^="KS_G"]
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/126
-fallouttoyworks.keenspot.com###atomekarect
-fallouttoyworks.keenspot.com###atomekalead
-fallouttoyworks.keenspot.com###atomekasky
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126
 avclub.com##a[data-ga^="\[\[\"Commerce Inset"]:upward(2)
