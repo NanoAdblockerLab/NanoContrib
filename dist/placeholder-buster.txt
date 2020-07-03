@@ -540,7 +540,7 @@ healthline.com##aside:has(div[data-ad="true"])
 gamespot.com##div[x-enc="id class"]:has(div > div[data-ad-type])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608757
-avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.contained-ad-container
+deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.contained-ad-container
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608760
 thedroidguy.com###secondary
@@ -2027,12 +2027,14 @@ keenspot.com##div[id^="KS_G"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/12#issuecomment-468103880
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126#issuecomment-653651391
-fallouttoyworks.keenspot.com##div.shadow:has(div[id^="div-gpt-ad-"])
-fallouttoyworks.keenspot.com###atomekarect
 fallouttoyworks.keenspot.com###atomekalead
+fallouttoyworks.keenspot.com###atomekarect
 fallouttoyworks.keenspot.com###atomekasky
+fallouttoyworks.keenspot.com##div.shadow:has(div[id^="div-gpt-ad-"])
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608757
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126#issuecomment-653651409
+avclub.com##.contained-ad-container
 avclub.com##a[data-ga^="\[\[\"Commerce Inset"]:upward(2)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126#issuecomment-653651425
