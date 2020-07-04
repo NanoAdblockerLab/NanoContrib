@@ -2093,6 +2093,9 @@ pornhub.*###hd-rightColVideoPage > div.clearfix
 pornhub.*##body > div:has(:scope > .removeAdLink)
 
 # https://github.com/NanoMeow/QuickReports/issues/1231
+# https://github.com/NanoMeow/QuickReports/issues/4160
+redtube.*###main-container > .abovePlayer
+redtube.*##.search_upper_right_ad
 redtube.*##div:has(:scope > iframe + script + a.remove_ads)
 
 # https://github.com/NanoMeow/QuickReports/issues/3578
