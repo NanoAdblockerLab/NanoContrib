@@ -2399,13 +2399,18 @@ photoblog.pl##.frontpage-teaser-photo-container:style(height: 170px !important;)
 !#endif
 
 # https://github.com/NanoMeow/QuickReports/issues/3907
-www.onet.pl###onet-ad-right:upward(aside)
-
-# https://github.com/NanoMeow/QuickReports/issues/3907
 onet.pl###extraAdsBlock
 onet.pl###googleAdsCont
 onet.pl###onet-ad-flat-branding
 onet.pl##.asideAds
+
+# https://github.com/NanoMeow/QuickReports/issues/3907
+www.onet.pl###onet-ad-right:upward(aside)
+
+# https://github.com/NanoMeow/QuickReports/issues/4070
+!#if !env_mobile
+wiadomosci.onet.pl##.pageContent .extraList:style(margin-top: -315px !important;)
+!#endif
 
 # End Polish
 
