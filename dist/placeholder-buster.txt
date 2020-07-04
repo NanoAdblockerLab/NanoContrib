@@ -1929,6 +1929,8 @@ wowescape.com##.googleAd_one
 spectrum.ieee.org##.masthead-wrap
 
 # https://github.com/NanoMeow/QuickReports/issues/3951
+# https://github.com/NanoMeow/QuickReports/issues/4151
+geeksforgeeks.org##div[id^="AP_"]:upward(.widget)
 geeksforgeeks.org##div[style="min-height:280px"]
 
 # https://github.com/NanoMeow/QuickReports/issues/3936
