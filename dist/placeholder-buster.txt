@@ -2240,18 +2240,16 @@ gazzetta.it###l-main:style(padding-top: 0px !important;)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/14#issuecomment-469960209
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/106
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
 atwiki.jp###ads
 atwiki.jp##.adsbygoogle
 atwiki.jp###google_relate_ads
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508300946
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
 picrew.me##.imagemaker_ad_wrapper
 picrew.me##.search-Sidebar
 picrew.me##.c_related_section:first-of-type
 
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508300963
 tinami.com###main > .eventmesh + .text
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/34#issuecomment-508300993
@@ -2273,7 +2271,7 @@ www.nikkei.com##.newsTrendWatch
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/80#issuecomment-578533036
 asia.nikkei.com##.article__footer:last-child
 
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/84#issuecomment-580508585
 businessinsider.jp##.f-content-secondary > style + div
 businessinsider.jp##.p-post-content > div > p:first-child
 
@@ -2286,7 +2284,8 @@ nicoco.net###search_form + div
 # https://github.com/NanoMeow/QuickReports/issues/3167
 5ch.net###banner
 
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/99#issuecomment-597430513
+# https://github.com/NanoMeow/QuickReports/issues/3350
 shindanmaker.com###sm_pc_head_728x90_bl
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/99#issuecomment-597430538
@@ -2304,17 +2303,17 @@ freem.ne.jp##.game-ad-bottom
 
 # Japanese NSFW
 
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/14#issuecomment-469960159
 momoniji.com###content-top-in > .widget-content-top:first-child
 
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/48#issuecomment-525092904
 toranoana.jp##.tora-ads-default
 
 # https://github.com/NanoMeow/QuickReports/issues/1681
 dousyoko.net###text-3
 dousyoko.net##.floatbox2
 
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
+# https://github.com/NanoMeow/QuickReports/issues/3539
 buhidoh.net###center-left > .plugin3_outline
 buhidoh.net###center-left > .plugin3box
 buhidoh.net###right > .plugin2_outline:last-child
@@ -2325,7 +2324,6 @@ buhidoh.net###center-left:style(height: auto !important;)
 anime.eroterest.net##iframe[src^="//okbp.xyz/"]
 
 # https://github.com/NanoMeow/QuickReports/issues/923
-# https://github.com/AdguardTeam/AdguardFilters/issues/58587#issuecomment-654244903
 h723.blog.fc2.com##div[align="left"]
 h723.blog.fc2.com##div[align="left"] + div[style]
 h723.blog.fc2.com##.plugin1_outline:first-of-type
