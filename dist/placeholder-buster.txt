@@ -579,7 +579,7 @@ knowyourmeme.com##.combo-right
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672357
 time.com##.padded-mobile.bottom-recirc
 time.com##.rundown-sidebar
-||time.com/kismet/spacer.png^$image,1p
+||time.com/kismet/spacer.png$image,1p
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149121
 mywindowshub.com##.td-pb-span12.tdc-column.vc_column_container:has(ins.adsbygoogle)
@@ -951,7 +951,7 @@ globalnews.ca##.sidebar-ad
 globalnews.ca##.story-ad
 globalnews.ca##.stream-ad
 globalnews.ca##.stream-ad-read-more
-||globalnews.ca/*/pattern-greystripe.png^$image,1p
+||globalnews.ca/*/pattern-greystripe.png$image,1p
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/44#issuecomment-519327934
 techjunkie.com##.qualcont
@@ -1113,9 +1113,9 @@ matcha-jp.com##.c-post:has(:scope > div[class*="RelatedNative"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/58#issuecomment-542981210
 vgmaps.com##td[align="center"][width="728"]
-||vgmaps.com/Ad-*.htm^$1p
-||vgmaps.com/Header.htm^$1p
-||vgmaps.com/System/Main/Header-Sponsors.png^$1p
+||vgmaps.com/Ad-*.htm$1p
+||vgmaps.com/Header.htm$1p
+||vgmaps.com/System/Main/Header-Sponsors.png$1p
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/59#issuecomment-544735103
 stevemeadedesigns.com##div[class^="add-"]:has(.adsbygoogle)
@@ -2008,7 +2008,7 @@ bestescapegames.com##div[class^="add_div"]:upward(2)
 # https://github.com/NanoMeow/QuickReports/issues/3976
 games4king.com###home_right
 games4king.com##.newest_games > h3
-||games4king.com/templates/braygames/images/bg_trans.png^$image,1p
+||games4king.com/templates/braygames/images/bg_trans.png$image,1p
 
 # https://github.com/NanoMeow/QuickReports/issues/4211
 apachelounge.com##.type0:has(.adsbygoogle)
@@ -2020,7 +2020,7 @@ tubefilter.com##.widget_custom_html
 game-debate.com##.bxz:has(:scope > div[id^="div-gpt-ad"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126#issuecomment-653651287
-||disqusservice.com/iframe/fallback^$subdocument,domain=gamersheroes.com
+||disqusservice.com/iframe/fallback/$subdocument,domain=gamersheroes.com
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126#issuecomment-653651368
 # https://github.com/NanoMeow/QuickReports/issues/4226
@@ -2503,7 +2503,7 @@ acunn.com##.type-1
 
 # https://github.com/NanoMeow/QuickReports/issues/932
 turkseed.com##.pluginWrapper:last-of-type
-||i.ibb.co/*reklam-*.gif^$domain=turkseed.com
+||i.ibb.co/*reklam-*.gif$domain=turkseed.com
 
 # End Turkish
 
