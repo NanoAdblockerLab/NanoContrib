@@ -2042,6 +2042,9 @@ avclub.com##a[data-ga^="\[\[\"Commerce Inset"]:upward(2)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126#issuecomment-653651425
 bleedingcool.com##.responsive-leaderboard
 
+# https://github.com/NanoMeow/QuickReports/issues/4265
+reviewmeta.com##.adsbygoogle:upward(.row)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
