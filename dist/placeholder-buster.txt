@@ -2058,6 +2058,9 @@ opportunitydesk.org##.textwidget:has(.adsbygoogle)
 # https://github.com/NanoMeow/QuickReports/issues/4263
 mtlblog.com##.ad
 
+# https://github.com/NanoMeow/QuickReports/issues/4247
+anywho.com##.c-paid-ad:upward(1)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
