@@ -2055,6 +2055,9 @@ opportunitydesk.org##.sidebar-widget:has(.adsbygoogle)
 opportunitydesk.org##.sidebar-widget:has(a[href*="bit.ly"])
 opportunitydesk.org##.textwidget:has(.adsbygoogle)
 
+# https://github.com/NanoMeow/QuickReports/issues/4263
+mtlblog.com##.ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
