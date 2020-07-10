@@ -1864,11 +1864,11 @@ wsj.com##.snippet-right-ad
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/117#issuecomment-634995526
 variety.com###leaderboard-no-padding
 
-# https://github.com/NanoMeow/QuickReports/issues/3952
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/129#issuecomment-656455467
+# https://github.com/NanoMeow/QuickReports/issues/3952
+independent.co.uk##.dmpu
 independent.co.uk##.taboola
 independent.co.uk##.under-article-prompt-donations
-independent.co.uk##.dmpu
 
 # https://github.com/NanoMeow/QuickReports/issues/3963
 moving2canada.com##.ajax_advert:upward(.sidebar_module)
@@ -2064,8 +2064,8 @@ mtlblog.com##.ad
 anywho.com##.c-paid-ad:upward(1)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/129#issuecomment-656455522
-dexerto.com##.text-gray-700.text-center
 dexerto.com##.desktop-skin-container > .w-100
+dexerto.com##.text-gray-700.text-center
 dexerto.com##div[id^="topLeaderboardContainer"]
 
 # https://github.com/NanoMeow/QuickReports/issues/4285
