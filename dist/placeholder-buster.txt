@@ -1865,7 +1865,7 @@ wsj.com##.snippet-right-ad
 variety.com###leaderboard-no-padding
 
 # https://github.com/NanoMeow/QuickReports/issues/3952
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/129
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/129#issuecomment-656455467
 independent.co.uk##.taboola
 independent.co.uk##.under-article-prompt-donations
 independent.co.uk##.dmpu
@@ -2063,7 +2063,7 @@ mtlblog.com##.ad
 # https://github.com/NanoMeow/QuickReports/issues/4247
 anywho.com##.c-paid-ad:upward(1)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/129
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/129#issuecomment-656455522
 dexerto.com##.text-gray-700.text-center
 dexerto.com##.desktop-skin-container > .w-100
 dexerto.com##div[id^="topLeaderboardContainer"]
