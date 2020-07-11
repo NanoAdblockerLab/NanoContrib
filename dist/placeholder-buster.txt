@@ -1651,7 +1651,10 @@ sevenforums.com##.media400:has(.adsbygoogle):not(:has(.myh3))
 techrepublic.com##.content > div:has(:scope > .sharethrough-article)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/104#issuecomment-609051813
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/130
 newrepublic.com##.inserted-dfp
+newrepublic.com##.inserted-housead
+newrepublic.com##.house-ad-unit
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/105#issuecomment-609855684
 getfootballnewsfrance.com##.widget_text
@@ -2071,6 +2074,13 @@ dexerto.com##div[id^="topLeaderboardContainer"]
 # https://github.com/NanoMeow/QuickReports/issues/4285
 note.nkmk.me##.ad-block-inside
 note.nkmk.me##.side-ad-block:upward(1)
+
+! https://github.com/NanoMeow/QuickReports/issues/4292
+linuxquestions.org##.KonaBody > #posts + div[align]
+linuxquestions.org##.KonaBody > #posts ~ div[style^="clear"]
+
+! https://github.com/NanoMeow/QuickReports/issues/4293
+thespruce.com##div[id^="mntl-leaderboard-spacer"]
 
 # End English
 
