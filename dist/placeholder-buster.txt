@@ -2075,11 +2075,11 @@ dexerto.com##div[id^="topLeaderboardContainer"]
 note.nkmk.me##.ad-block-inside
 note.nkmk.me##.side-ad-block:upward(1)
 
-! https://github.com/NanoMeow/QuickReports/issues/4292
+# https://github.com/NanoMeow/QuickReports/issues/4292
 linuxquestions.org##.KonaBody > #posts + div[align]
 linuxquestions.org##.KonaBody > #posts ~ div[style^="clear"]
 
-! https://github.com/NanoMeow/QuickReports/issues/4293
+# https://github.com/NanoMeow/QuickReports/issues/4293
 thespruce.com##div[id^="mntl-leaderboard-spacer"]
 
 # End English
