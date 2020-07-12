@@ -1651,10 +1651,10 @@ sevenforums.com##.media400:has(.adsbygoogle):not(:has(.myh3))
 techrepublic.com##.content > div:has(:scope > .sharethrough-article)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/104#issuecomment-609051813
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/130
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/130#issuecomment-657162742
+newrepublic.com##.house-ad-unit
 newrepublic.com##.inserted-dfp
 newrepublic.com##.inserted-housead
-newrepublic.com##.house-ad-unit
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/105#issuecomment-609855684
 getfootballnewsfrance.com##.widget_text
