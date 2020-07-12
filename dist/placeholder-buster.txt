@@ -2027,7 +2027,8 @@ tubefilter.com##.widget_custom_html
 game-debate.com##.bxz:has(:scope > div[id^="div-gpt-ad"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126#issuecomment-653651287
-||disqusservice.com/iframe/fallback/$subdocument,domain=gamersheroes.com
+# https://github.com/NanoMeow/QuickReports/issues/4306
+7labs.io,gamersheroes.com##iframe[src^="https://disqusservice.com/iframe/fallback/"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/126#issuecomment-653651368
 # https://github.com/NanoMeow/QuickReports/issues/4226
