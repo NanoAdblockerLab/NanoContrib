@@ -2370,6 +2370,10 @@ h723.blog.fc2.com##.plugin1_outline:nth-of-type(n + 3)
 h723.blog.fc2.com##div[align="left"]
 h723.blog.fc2.com##div[align="left"] + div[style]
 
+# https://github.com/NanoMeow/QuickReports/issues/4271
+moeimg.net###main-2 > .post:has(:scope > .pc_ad:only-child)
+moeimg.net##div[id^="side"] > .widget-area > .widget-container
+
 # End Japanese NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
