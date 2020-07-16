@@ -2086,7 +2086,7 @@ thespruce.com##div[id^="mntl-leaderboard-spacer"]
 # https://github.com/NanoMeow/QuickReports/issues/4037
 portableapps.com##.block-block:has(.adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/131
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/131#issuecomment-659577803
 hexus.net###right > div:has(:scope > script[src*="serve.themediateam"])
 
 # End English
@@ -2279,10 +2279,10 @@ mobimart.it##.widget_text.item:has(script[src^="//served-by.pixfuture.com/"])
 # https://github.com/NanoMeow/QuickReports/issues/2544
 gazzetta.it###l-main:style(padding-top: 0px !important;)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/131
-cartonionline.com##.widget:not(:has(a)):not(:has(input))
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/131#issuecomment-659577865
 cartonionline.com##.ugaam-adsense-ad
 cartonionline.com##.ugaam-sticky-ad
+cartonionline.com##.widget:not(:has(a)):not(:has(input))
 
 # End Italian
 
