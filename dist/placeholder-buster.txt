@@ -2083,6 +2083,9 @@ linuxquestions.org##.KonaBody > #posts ~ div[style^="clear"]
 # https://github.com/NanoMeow/QuickReports/issues/4293
 thespruce.com##div[id^="mntl-leaderboard-spacer"]
 
+# https://github.com/NanoMeow/QuickReports/issues/4037
+portableapps.com##.block-block:has(.adsbygoogle)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
