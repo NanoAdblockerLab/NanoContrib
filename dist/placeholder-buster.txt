@@ -2349,6 +2349,10 @@ weblio.jp##.rectangle-ads-frame-www
 freem.ne.jp##.ad-game-side
 freem.ne.jp##.game-ad-bottom
 
+# https://github.com/NanoMeow/QuickReports/issues/3486
+uwagakisimasuka.blog.fc2.com##.adsbygoogle + script + br
+uwagakisimasuka.blog.fc2.com##.side_plugin:has(.adsbygoogle)
+
 # End Japanese
 
 # -------------------------------------------------------------------------------------------------------------------- #
