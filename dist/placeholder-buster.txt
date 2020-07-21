@@ -2095,6 +2095,9 @@ mhktricks.org##a[href="https://www.deepbrid.com/"]:upward(.sidebar-widget)
 # https://github.com/NanoMeow/QuickReports/issues/4357
 androidpolice.com##[id^="ai_widget-"]
 
+# https://github.com/NanoMeow/QuickReports/issues/4360
+scriptinghelpers.org##.shvertise-skyscraper
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
