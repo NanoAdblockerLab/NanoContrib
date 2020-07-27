@@ -2101,6 +2101,9 @@ scriptinghelpers.org##.shvertise-skyscraper
 # https://github.com/NanoMeow/QuickReports/issues/4361
 wall.alphacoders.com##[class*="ads-"]
 
+# https://github.com/NanoMeow/QuickReports/issues/4383
+horriblesubs.info##.showpage-spons:upward(.well)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
