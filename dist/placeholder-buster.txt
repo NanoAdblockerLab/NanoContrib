@@ -2487,6 +2487,9 @@ vejasp.abril.com.br##[id^="superbanner"]:has(.ad-top)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/70#issuecomment-567284314
 bolha.com##.BannerBillboard
 
+# https://github.com/NanoMeow/QuickReports/issues/4389
+baixarsoftware.com##.wppaszone:upward(.widget)
+
 # End Portuguese
 
 # -------------------------------------------------------------------------------------------------------------------- #
