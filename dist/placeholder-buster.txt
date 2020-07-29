@@ -401,6 +401,15 @@ nfmovies.com##.myui-ra-container
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Chinese (Simplified) NSFW
+
+# https://github.com/NanoMeow/QuickReports/issues/4363
+tucao.one##div[style="margin-top:16px;overflow:hidden;height:200px;"]
+
+# End Chinese (Simplified) NSFW
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # Dhivehi
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608678
@@ -1675,8 +1684,11 @@ slate.com##.ad--inArticleBanner
 
 # https://github.com/NanoMeow/QuickReports/issues/2867
 # https://github.com/NanoMeow/QuickReports/issues/3825
+# https://github.com/NanoMeow/QuickReports/issues/4335
 researchgate.net##.is-sticky:style(top: 0px !important;)
 researchgate.net##.lite-page__above:has(:scope > .lite-page-ad)
+researchgate.net##.nova-l-flex:has(#nativo-slot-1)
+researchgate.net##.lite-page__header-navigation:style(top: 0px !important)
 
 # https://github.com/NanoMeow/QuickReports/issues/406
 mysanantonio.com###ctpl-fullbanner-spacer
@@ -2104,6 +2116,18 @@ wall.alphacoders.com##[class*="ads-"]
 # https://github.com/NanoMeow/QuickReports/issues/4383
 horriblesubs.info##.showpage-spons:upward(.well)
 
+# https://github.com/NanoMeow/QuickReports/issues/4300
+nationalpost.com##.ad__section-border
+
+# https://github.com/NanoMeow/QuickReports/issues/4322
+almanac.com##div[class*="pane-advertising-"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/132
+mygreekdish.com##.widget_text
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/132
+comicbookmovie.com###adATF728x90
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2156,10 +2180,13 @@ pornhub.*##body > div:has(:scope > .removeAdLink)
 
 # https://github.com/NanoMeow/QuickReports/issues/1231
 # https://github.com/NanoMeow/QuickReports/issues/4160
+# https://github.com/NanoMeow/QuickReports/issues/4353
 redtube.*###main-container > .abovePlayer
 redtube.*###side_section_videos:style(margin-top: 0px !important;)
 redtube.*##.search_upper_right_ad
 redtube.*##div:has(:scope > iframe + script + a.remove_ads)
+redtube.*###trending_country_section .adsbytrafficjunky:upward(2)
+redtube.*##.adsbytrafficjunky:upward(1)
 
 # https://github.com/NanoMeow/QuickReports/issues/3578
 simpleflying.com###featured-video
@@ -2184,6 +2211,10 @@ mygames4girls.com##.w300
 dressupwho.com###game_info_ad
 dressupwho.com###leaderboard\ index
 dressupwho.com##.game_area_ad
+
+# https://github.com/NanoMeow/QuickReports/issues/4331
+biguz.net##.topb
+biguz.net###under
 
 # End English NSFW
 
