@@ -1687,8 +1687,8 @@ slate.com##.ad--inArticleBanner
 # https://github.com/NanoMeow/QuickReports/issues/4335
 researchgate.net##.is-sticky:style(top: 0px !important;)
 researchgate.net##.lite-page__above:has(:scope > .lite-page-ad)
+researchgate.net##.lite-page__header-navigation:style(top: 0px !important;)
 researchgate.net##.nova-l-flex:has(#nativo-slot-1)
-researchgate.net##.lite-page__header-navigation:style(top: 0px !important)
 
 # https://github.com/NanoMeow/QuickReports/issues/406
 mysanantonio.com###ctpl-fullbanner-spacer
@@ -2122,10 +2122,10 @@ nationalpost.com##.ad__section-border
 # https://github.com/NanoMeow/QuickReports/issues/4322
 almanac.com##div[class*="pane-advertising-"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/132
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/132#issuecomment-665977666
 mygreekdish.com##.widget_text
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/132
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/132#issuecomment-665977694
 comicbookmovie.com###adATF728x90
 
 # End English
@@ -2183,10 +2183,10 @@ pornhub.*##body > div:has(:scope > .removeAdLink)
 # https://github.com/NanoMeow/QuickReports/issues/4353
 redtube.*###main-container > .abovePlayer
 redtube.*###side_section_videos:style(margin-top: 0px !important;)
-redtube.*##.search_upper_right_ad
-redtube.*##div:has(:scope > iframe + script + a.remove_ads)
 redtube.*###trending_country_section .adsbytrafficjunky:upward(2)
 redtube.*##.adsbytrafficjunky:upward(1)
+redtube.*##.search_upper_right_ad
+redtube.*##div:has(:scope > iframe + script + a.remove_ads)
 
 # https://github.com/NanoMeow/QuickReports/issues/3578
 simpleflying.com###featured-video
@@ -2213,8 +2213,8 @@ dressupwho.com###leaderboard\ index
 dressupwho.com##.game_area_ad
 
 # https://github.com/NanoMeow/QuickReports/issues/4331
-biguz.net##.topb
 biguz.net###under
+biguz.net##.topb
 
 # End English NSFW
 
