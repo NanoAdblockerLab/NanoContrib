@@ -2128,6 +2128,9 @@ mygreekdish.com##.widget_text
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/132#issuecomment-665977694
 comicbookmovie.com###adATF728x90
 
+# https://github.com/NanoMeow/QuickReports/issues/4401
+news.sky.com##div[data-ad-format="leaderboard"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
