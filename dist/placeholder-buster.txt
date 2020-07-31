@@ -2131,6 +2131,9 @@ comicbookmovie.com###adATF728x90
 # https://github.com/NanoMeow/QuickReports/issues/4401
 news.sky.com##div[data-ad-format="leaderboard"]
 
+# https://github.com/NanoMeow/QuickReports/issues/4411
+webmotors.com.br##[id^="ad-search-result-"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
