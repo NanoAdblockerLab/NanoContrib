@@ -2420,6 +2420,7 @@ toranoana.jp##.tora-ads-default
 
 # https://github.com/NanoMeow/QuickReports/issues/1681
 dousyoko.net###text-3
+dousyoko.net##.floatbox1
 dousyoko.net##.floatbox2
 
 # https://github.com/NanoMeow/QuickReports/issues/3539
