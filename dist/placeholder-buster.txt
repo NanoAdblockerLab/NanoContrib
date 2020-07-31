@@ -2135,6 +2135,9 @@ news.sky.com##div[data-ad-format="leaderboard"]
 # https://github.com/NanoMeow/QuickReports/issues/4411
 webmotors.com.br##[id^="ad-search-result-"]
 
+# https://github.com/NanoMeow/QuickReports/issues/4394
+ibtimes.sg##.ad-container
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
