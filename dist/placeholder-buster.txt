@@ -2000,6 +2000,7 @@ wickenburgsun.com##.dfpAd
 codeproject.com###ctl00_RightSideBar
 codeproject.com##.align-center.padded-top
 codeproject.com##.bottom-promo
+codeproject.com##[data-type="ad"]:upward(1)
 
 # https://github.com/NanoMeow/QuickReports/issues/4124
 howstuffworks.com##.recirc-panel
