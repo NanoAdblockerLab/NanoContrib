@@ -2150,6 +2150,11 @@ myanimelist.net##.border_top > div
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/133#issuecomment-667580533
 ghacks.net##div.profile-content:style(margin: -110px 0 0 -1px !important; background-color: #FFFFFF !important; position: relative !important; padding: 25px !important;)
 
+# https://github.com/NanoMeow/QuickReports/issues/4418
+hotexamples.com##.ezoic-ad:remove()
+hotexamples.com##[class^="addthis_inline_share_toolbox_"]:empty:remove()
+hotexamples.com##[id^="ezoic-pub-ad-placeholder-"]:remove()
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
