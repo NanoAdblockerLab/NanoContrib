@@ -2151,9 +2151,8 @@ myanimelist.net##.border_top > div
 ghacks.net##div.profile-content:style(margin: -110px 0 0 -1px !important; background-color: #FFFFFF !important; position: relative !important; padding: 25px !important;)
 
 # https://github.com/NanoMeow/QuickReports/issues/4418
-hotexamples.com##.ezoic-ad:remove()
-hotexamples.com##[class^="addthis_inline_share_toolbox_"]:empty:remove()
-hotexamples.com##[id^="ezoic-pub-ad-placeholder-"]:remove()
+hotexamples.com##.example-item:style(margin-top: 0px !important; margin-bottom: 15px !important)
+hotexamples.com##.main-content > [style="margin-top: 10px"]
 
 # End English
 
