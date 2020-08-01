@@ -2138,6 +2138,9 @@ webmotors.com.br##[id^="ad-search-result-"]
 # https://github.com/NanoMeow/QuickReports/issues/4394
 ibtimes.sg##.ad-container
 
+# https://github.com/NanoMeow/QuickReports/issues/4430
+humanbenchmark.com##[id^="pubg-"]:empty:upward(1)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
