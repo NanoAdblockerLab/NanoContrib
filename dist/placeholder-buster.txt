@@ -2154,6 +2154,10 @@ ghacks.net##div.profile-content:style(margin: -110px 0 0 -1px !important; backgr
 hotexamples.com##.example-item:style(margin-top: 0px !important; margin-bottom: 15px !important;)
 hotexamples.com##.main-content > [style="margin-top: 10px"]
 
+# https://github.com/NanoMeow/QuickReports/issues/3824
+tutorialspark.com###mainblock:style(top: 0px !important; bottom: 1px !important;)
+tutorialspark.com###toprect
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
