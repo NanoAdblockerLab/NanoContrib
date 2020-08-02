@@ -2145,6 +2145,7 @@ humanbenchmark.com##[id^="pubg-"]:empty:upward(1)
 fifibook.com##.adsense--content
 
 # https://github.com/NanoMeow/QuickReports/issues/4349
+myanimelist.net##.amazon-ads
 myanimelist.net##.border_top > div
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/133#issuecomment-667580533
