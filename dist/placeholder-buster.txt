@@ -2159,6 +2159,9 @@ hotexamples.com##.main-content > [style="margin-top: 10px"]
 tutorialspark.com###mainblock:style(top: 0px !important; bottom: 1px !important;)
 tutorialspark.com###toprect
 
+# https://github.com/NanoMeow/QuickReports/issues/4439
+bestbuy.ca##[class^="advertisementListContainer"]:upward(3)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
