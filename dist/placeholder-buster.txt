@@ -301,10 +301,10 @@ marketscreener.com##[id^="zpp"]
 # https://github.com/NanoMeow/QuickReports/issues/4266
 ||engine.fxempire.com^
 ||cdn.fxempire.com^
-fxempire.com##button:has-text(Sponsored):has(.fa-info-circle):upward(div[class=""])
-fxempire.com##[class*="ColSystem"]>[class*="-sc-"]:has-text(/^Advertisement|Sponsored by$/)
-fxempire.com##[class^="fx-grid__Content"]:has-text(/Advertisement/)
+fxempire.com##button:has-text(/Sponsored|Advertising Disclosure/):has(.fa-info-circle):upward([class*="fx-grid"])
+fxempire.com##span[id^="zone"]:empty:upward([class*="-sc-"][class*="__"]>div)
 fxempire.com##[class*="TopButtonAd"]
+fxempire.com##li[class^="Tab-"] div[class*=" fx-grid__ColSystem-"]:has-text(Top Brokers)
 
 # End Multilingual
 
