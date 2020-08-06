@@ -298,6 +298,13 @@ lmtonline.com##.ctpl-fullbanner
 marketscreener.com##.myFooter
 marketscreener.com##[id^="zpp"]
 
+# https://github.com/NanoMeow/QuickReports/issues/4266
+||engine.fxempire.com^
+||cdn.fxempire.com^
+fxempire.com##[class*="ColSystem"]>[class*="-sc-"]:has-text(/Sponsored|Advertisement/)
+fxempire.com##[class^="fx-grid__Content"]:has-text(/Advertisement/)
+fxempire.com##[class*="TopButtonAd"]
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
