@@ -301,7 +301,8 @@ marketscreener.com##[id^="zpp"]
 # https://github.com/NanoMeow/QuickReports/issues/4266
 ||engine.fxempire.com^
 ||cdn.fxempire.com^
-fxempire.com##[class*="ColSystem"]>[class*="-sc-"]:has-text(/Sponsored|Advertisement/)
+fxempire.com##button:has-text(Sponsored):has(.fa-info-circle):upward(div[class=""])
+fxempire.com##[class*="ColSystem"]>[class*="-sc-"]:has-text(/^Advertisement|Sponsored by$/)
 fxempire.com##[class^="fx-grid__Content"]:has-text(/Advertisement/)
 fxempire.com##[class*="TopButtonAd"]
 
