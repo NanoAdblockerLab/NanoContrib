@@ -2259,7 +2259,6 @@ simpleflying.com##.widget:has(.simpl-adlabel)
 
 # https://github.com/NanoMeow/QuickReports/issues/2246
 spankwire.com###js-react-search-list div:has-text(/^Advertisement$/):upward(1)
-spankwire.com###js-react-video-player div:has-text(/^Advertisement$/):upward(2)
 spankwire.com##.adsbox
 
 # https://github.com/NanoAdblocker/NanoFilters/issues/489
