@@ -2162,6 +2162,9 @@ tutorialspark.com###toprect
 # https://github.com/NanoMeow/QuickReports/issues/4439
 bestbuy.ca##[class^="advertisementListContainer"]:upward(3)
 
+# https://github.com/NanoMeow/QuickReports/issues/4183
+lagom.nl##.ad
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
