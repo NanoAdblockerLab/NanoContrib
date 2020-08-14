@@ -306,6 +306,9 @@ fxempire.com##span[id^="zone"]:empty:upward([class*="-sc-"][class*="__"]>div)
 fxempire.com##[class*="TopButtonAd"]
 fxempire.com##li[class^="Tab-"] div[class*=" fx-grid__ColSystem-"]:has-text(Top Brokers)
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/134
+glosbe.com###topContainer
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
