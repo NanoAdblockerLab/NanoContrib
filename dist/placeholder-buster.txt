@@ -2165,6 +2165,9 @@ bestbuy.ca##[class^="advertisementListContainer"]:upward(3)
 # https://github.com/NanoMeow/QuickReports/issues/4183
 lagom.nl##.ad
 
+# https://github.com/NanoMeow/QuickReports/issues/4489
+cpuid.com##[class*=" widget-advert-"]:style(visibility: hidden !important;)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
