@@ -299,10 +299,10 @@ marketscreener.com##.myFooter
 marketscreener.com##[id^="zpp"]
 
 # https://github.com/NanoMeow/QuickReports/issues/4266
-fxempire.com##button:has-text(/Sponsored|Advertising Disclosure/):has(.fa-info-circle):upward([class*="fx-grid"])
-fxempire.com##span[id^="zone"]:empty:upward([class*="-sc-"][class*="__"]>div)
 fxempire.com##[class*="TopButtonAd"]
+fxempire.com##button:has-text(/Sponsored|Advertising Disclosure/):has(.fa-info-circle):upward([class*="fx-grid"])
 fxempire.com##li[class^="Tab-"] div[class*=" fx-grid__ColSystem-"]:has-text(Top Brokers)
+fxempire.com##span[id^="zone"]:empty:upward([class*="-sc-"][class*="__"] > div)
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/134#issuecomment-674471630
 glosbe.com###topContainer
@@ -2185,8 +2185,8 @@ cpuid.com##[class*=" widget-advert-"]:style(visibility: hidden !important;)
 joshuawright.net##.adsbygoogle:upward(1)
 
 # https://github.com/NanoMeow/QuickReports/issues/4080
-tellymix.co.uk##.adb_top
 tellymix.co.uk##.a-text
+tellymix.co.uk##.adb_top
 
 # https://github.com/NanoMeow/QuickReports/issues/4066
 streamingmedia.com##.container1
@@ -2196,8 +2196,8 @@ abovetopsecret.com###third300
 abovetopsecret.com##.threadpost > [style^="width: 630px;"]
 
 # https://github.com/NanoMeow/QuickReports/issues/3915
-adage.com##.ad-entity-container
 adage.com###piano-inline_nsl
+adage.com##.ad-entity-container
 
 # End English
 
