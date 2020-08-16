@@ -295,6 +295,8 @@ lmtonline.com###menuBar:style(margin-top: 50px !important;)
 lmtonline.com##.ctpl-fullbanner
 
 # https://github.com/NanoMeow/QuickReports/issues/3895
+marketscreener.com###zppMiddle2:upward(table)
+marketscreener.com##.hPubRight2
 marketscreener.com##.myFooter
 marketscreener.com##[id^="zpp"]
 
