@@ -304,7 +304,7 @@ fxempire.com##span[id^="zone"]:empty:upward([class*="-sc-"][class*="__"]>div)
 fxempire.com##[class*="TopButtonAd"]
 fxempire.com##li[class^="Tab-"] div[class*=" fx-grid__ColSystem-"]:has-text(Top Brokers)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/134
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/134#issuecomment-674471630
 glosbe.com###topContainer
 
 # End Multilingual
@@ -2181,7 +2181,7 @@ lagom.nl##.ad
 # https://github.com/NanoMeow/QuickReports/issues/4489
 cpuid.com##[class*=" widget-advert-"]:style(visibility: hidden !important;)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/134
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/134#issuecomment-674471702
 joshuawright.net##.adsbygoogle:upward(1)
 
 # https://github.com/NanoMeow/QuickReports/issues/4080
