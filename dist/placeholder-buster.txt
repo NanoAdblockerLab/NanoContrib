@@ -2201,6 +2201,9 @@ abovetopsecret.com##.threadpost > [style^="width: 630px;"]
 adage.com###piano-inline_nsl
 adage.com##.ad-entity-container
 
+# https://github.com/NanoMeow/QuickReports/issues/4547
+techlicious.com##.invis
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
