@@ -2204,6 +2204,10 @@ adage.com##.ad-entity-container
 # https://github.com/NanoMeow/QuickReports/issues/4547
 techlicious.com##.invis
 
+# https://github.com/NanoMeow/QuickReports/issues/4538
+eetimes.com###se_widget_hook
+eetimes.com##.block:has(.ad)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
