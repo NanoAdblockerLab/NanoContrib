@@ -2208,6 +2208,9 @@ techlicious.com##.invis
 eetimes.com###se_widget_hook
 eetimes.com##.block:has(.ad)
 
+# https://github.com/NanoMeow/QuickReports/issues/4549
+gamepedia.com###btflb
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
