@@ -2268,6 +2268,7 @@ pornhub.*##body > div:has(:scope > .removeAdLink)
 # https://github.com/NanoMeow/QuickReports/issues/4160
 # https://github.com/NanoMeow/QuickReports/issues/4353
 redtube.*###main-container > .abovePlayer
+redtube.*###playlist_videos_tab > div:has(.adsbytrafficjunky)
 redtube.*###side_section_videos:style(margin-top: 0px !important;)
 redtube.*###trending_country_section .adsbytrafficjunky:upward(2)
 redtube.*##.adsbytrafficjunky:upward(1)
