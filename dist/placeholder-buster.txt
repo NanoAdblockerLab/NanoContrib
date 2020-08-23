@@ -2211,6 +2211,9 @@ eetimes.com##.block:has(.ad)
 # https://github.com/NanoMeow/QuickReports/issues/4549
 gamepedia.com###btflb
 
+# https://github.com/NanoMeow/QuickReports/issues/4565
+matthewfl.com###div-1230420347562:empty
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
