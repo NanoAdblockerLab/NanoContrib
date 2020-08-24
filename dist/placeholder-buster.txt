@@ -9,6 +9,9 @@
 
 # Multilingual
 
+# https://github.com/easylist/easylist/commit/96798d49e0909c09f7bf7d63ba593bd012973893
+engadget.com##ul[data-component=LatestStream] > li:has([data-component=GeminiAdItem])
+
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/21#issuecomment-487796545
