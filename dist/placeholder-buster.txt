@@ -10,7 +10,7 @@
 # Multilingual
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/135#issuecomment-679171575
-engadget.com##ul[data-component=LatestStream] > li:has([data-component=GeminiAdItem])
+engadget.com##ul[data-component="LatestStream"] > li:has([data-component="GeminiAdItem"])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/3#issuecomment-450736303
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/5#issuecomment-452149638
