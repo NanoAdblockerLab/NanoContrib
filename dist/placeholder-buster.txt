@@ -260,19 +260,26 @@ twitter.com##div[aria-label*=" - "] > div[style^="padding-"] > div[style^="paddi
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/112#issuecomment-626087012
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/128#issuecomment-655823059
 !#if !env_mobile
-pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
-pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
-pixiv.net##.ads-top-info
+!pixiv.net###js-mount-point-header.with-ad:style(min-height: 0px !important;)
+!pixiv.net###root > header + div + div:not(:has(a)):not(:has(img))
+!pixiv.net##.ads-top-info
+!pixiv.net##.area_new:not(:has(.area_title))
+!pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
+!pixiv.net##a[href$="=work_detail_remove_ads"]:upward(3)
+!pixiv.net##div:has(:scope > div > iframe:not([src])):matches-css(padding-bottom: 56px)
+!pixiv.net##iframe[height="520"]:not([src]):upward(1)
+!pixiv.net##iframe[height="60"]:upward(1)
+!pixiv.net##iframe[height="90"]:upward(1)
+!pixiv.net##li[size="2"][offset="1"]
+dic.pixiv.net###article-relation > section:has(script)
+novel.pixiv.net##.related-books
+pixiv.net##div:not(.submit-area):has(:scope > iframe:not([src]))
+pixiv.net###root > div > div > div:has(iframe[name="footer"]):not(:has(img))
 pixiv.net##.area_new:has(:scope > .area_title + div > #ads-illust_manage_rectangle)
-pixiv.net##.area_new:not(:has(.area_title))
-pixiv.net##.sc-AykKF:style(padding-bottom: 0px !important;)
-pixiv.net##a[href$="=work_detail_remove_ads"]:upward(3)
-pixiv.net##div:has(:scope > div > iframe:not([src])):matches-css(padding-bottom: 56px)
-pixiv.net##iframe[height="520"]:not([src]):upward(1)
-pixiv.net##iframe[height="60"]:upward(1)
-pixiv.net##iframe[height="90"]:upward(1)
+pixiv.net##div[class^=sc-]:has(:scope > div[style] > iframe[width="728"][height="90"])
+pixiv.net##div[span="1"]:has(:scope > div > div > iframe[name=dashboard_home])
 pixiv.net##li:has(:scope > iframe[name="infeed"])
-pixiv.net##li[size="2"][offset="1"]
+pixiv.net##li[size]:has(:scope > div > iframe[name=topbranding_rectangle])
 !#endif
 !#if env_mobile
 pixiv.net##.ad-frame-container
