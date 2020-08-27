@@ -260,9 +260,9 @@ twitter.com##div[aria-label*=" - "] > div[style^="padding-"] > div[style^="paddi
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/112#issuecomment-626087012
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/128#issuecomment-655823059
 !#if !env_mobile
-pixiv.net##div:not(.submit-area):has(:scope > iframe:not([src]))
 pixiv.net###root > div > div > div:has(iframe[name="footer"]):not(:has(img))
 pixiv.net##.area_new:has(:scope > .area_title + div > #ads-illust_manage_rectangle)
+pixiv.net##div:not(.submit-area):has(:scope > iframe:not([src]))
 pixiv.net##div[class^=sc-]:has(:scope > div[style] > iframe[width="728"][height="90"])
 pixiv.net##div[span="1"]:has(:scope > div > div > iframe[name=dashboard_home])
 pixiv.net##li:has(:scope > iframe[name="infeed"])
