@@ -2216,6 +2216,10 @@ gamepedia.com###btflb
 # https://github.com/NanoMeow/QuickReports/issues/4565
 matthewfl.com###div-1230420347562:empty
 
+# https://github.com/NanoMeow/QuickReports/issues/4586
+osbot.org###ipsLayout_footer > center
+osbot.org###ipsLayout_mainArea > #elContent + div[style]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
