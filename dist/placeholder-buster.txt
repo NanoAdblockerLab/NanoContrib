@@ -2236,6 +2236,12 @@ matthewfl.com###div-1230420347562:empty
 # https://github.com/NanoMeow/QuickReports/issues/4586
 osbot.org###ipsLayout_mainArea > #elContent + div[style]
 
+# https://github.com/NanoMeow/QuickReports/issues/4566
+rightwingtribune.com##.powerinbox:upward(.code-block)
+rightwingtribune.com##.powerinbox:upward(.sb-widget)
+rightwingtribune.com##.sb-widget:not(:has-text(/\w/))
+rightwingtribune.com##.z-ad-lockerdome-inline
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
