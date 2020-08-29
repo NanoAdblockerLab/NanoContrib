@@ -827,7 +827,11 @@ bleepingcomputer.com##.cz-related-article-wrapp:has(:scope > .adsbygoogle)
 thehardtimes.net##.code-block:has(script:has-text(googletag))
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/26#issuecomment-495962647
+# https://github.com/NanoMeow/QuickReports/issues/4585
+!#if !env_mobile
 itprotoday.com##.banner-top-wrapper
+!#endif
+itprotoday.com##.banner-aside-wrapper + hr
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/26#issuecomment-495962653
 howtogeek.com##.article-bottom
@@ -2244,6 +2248,15 @@ rightwingtribune.com##.z-ad-lockerdome-inline
 
 # https://github.com/NanoMeow/QuickReports/issues/4593
 thesaurus.com##aside[id*="_serp_"][id*="tf_"][class]
+
+# https://github.com/NanoMeow/QuickReports/issues/4548
+whocallsme.com##div[id^="cnt_"]
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/137
+fwi.co.uk##.page-split
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/137
+dnslytics.com##.adboxcontentbrowse
 
 # End English
 
