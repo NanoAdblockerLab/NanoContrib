@@ -2252,10 +2252,10 @@ thesaurus.com##aside[id*="_serp_"][id*="tf_"][class]
 # https://github.com/NanoMeow/QuickReports/issues/4548
 whocallsme.com##div[id^="cnt_"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/137
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/137#issuecomment-683323125
 fwi.co.uk##.page-split
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/137
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/137#issuecomment-683323135
 dnslytics.com##.adboxcontentbrowse
 
 # End English
