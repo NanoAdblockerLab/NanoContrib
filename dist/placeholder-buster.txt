@@ -2242,6 +2242,9 @@ rightwingtribune.com##.powerinbox:upward(.sb-widget)
 rightwingtribune.com##.sb-widget:not(:has-text(/\w/))
 rightwingtribune.com##.z-ad-lockerdome-inline
 
+# https://github.com/NanoMeow/QuickReports/issues/4593
+thesaurus.com##aside[id*="_serp_"][id*="tf_"][class]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
