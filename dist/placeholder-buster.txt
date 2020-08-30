@@ -2258,6 +2258,9 @@ fwi.co.uk##.page-split
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/137#issuecomment-683323135
 dnslytics.com##.adboxcontentbrowse
 
+# https://github.com/NanoMeow/QuickReports/issues/4598
+thingiverse.com##[class^="DownloadingModal"]:style(padding: 0px !important;)
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
