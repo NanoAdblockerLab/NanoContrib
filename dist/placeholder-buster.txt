@@ -329,6 +329,9 @@ fxempire.com##span[id^="zone"]:empty:upward([class*="-sc-"][class*="__"] > div)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/134#issuecomment-674471630
 glosbe.com###topContainer
 
+# https://github.com/
+www.makeuseof.com##.ad-zone-container
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
