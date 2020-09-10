@@ -1992,6 +1992,8 @@ geeksforgeeks.org##div[style="min-height:280px"]
 
 # https://github.com/NanoMeow/QuickReports/issues/3936
 # https://github.com/NanoMeow/QuickReports/issues/4159
+# https://github.com/NanoMeow/QuickReports/issues/4672
+unknowncheats.me###hmmk
 unknowncheats.me##.alt1 > center
 unknowncheats.me##table[id^="post"]:has(div[id^="ab_notice"])
 
