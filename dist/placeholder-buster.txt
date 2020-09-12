@@ -329,6 +329,10 @@ fxempire.com##span[id^="zone"]:empty:upward([class*="-sc-"][class*="__"] > div)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/134#issuecomment-674471630
 glosbe.com###topContainer
 
+# https://github.com/NanoMeow/QuickReports/issues/4624
+w3big.com###mainLeaderboard
+w3big.com###skyscraper
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2262,6 +2266,12 @@ dnslytics.com##.adboxcontentbrowse
 
 # https://github.com/NanoMeow/QuickReports/issues/4598
 thingiverse.com##[class^="DownloadingModal"]:style(padding: 0px !important;)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/139
+dslreports.com##.soft-tbl-5 tr:has(.adsbygoogle)
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/139
+tutorviacomputer.com##.topMargin15
 
 # End English
 
