@@ -2267,10 +2267,10 @@ dnslytics.com##.adboxcontentbrowse
 # https://github.com/NanoMeow/QuickReports/issues/4598
 thingiverse.com##[class^="DownloadingModal"]:style(padding: 0px !important;)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/139
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/139#issuecomment-691359571
 dslreports.com##.soft-tbl-5 tr:has(.adsbygoogle)
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/139
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/139#issuecomment-691359598
 tutorviacomputer.com##.topMargin15
 
 # End English
