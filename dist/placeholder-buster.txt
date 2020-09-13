@@ -2273,6 +2273,9 @@ dslreports.com##.soft-tbl-5 tr:has(.adsbygoogle)
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/139#issuecomment-691359598
 tutorviacomputer.com##.topMargin15
 
+# https://github.com/NanoMeow/QuickReports/issues/4614
+coderwall.com##._300x250
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
