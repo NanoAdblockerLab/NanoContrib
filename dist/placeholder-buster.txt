@@ -2364,6 +2364,7 @@ dressupwho.com##.game_area_ad
 biguz.net###under
 biguz.net##.topb
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/140#issuecomment-692244051
 spankbang.com##.ptgncdn_holder
 
 # End English NSFW
