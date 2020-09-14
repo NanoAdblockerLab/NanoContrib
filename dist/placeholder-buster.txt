@@ -2364,6 +2364,8 @@ dressupwho.com##.game_area_ad
 biguz.net###under
 biguz.net##.topb
 
+spankbang.com##.ptgncdn_holder
+
 # End English NSFW
 
 # -------------------------------------------------------------------------------------------------------------------- #
