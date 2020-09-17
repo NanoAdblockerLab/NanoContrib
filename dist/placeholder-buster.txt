@@ -2276,13 +2276,13 @@ tutorviacomputer.com##.topMargin15
 # https://github.com/NanoMeow/QuickReports/issues/4614
 coderwall.com##._300x250
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/140
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/141#issuecomment-694560936
 pcsx2.net##p[style^="text-align: center;margin: 0px 160px"]
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/140
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/141#issuecomment-694560971
 droidwin.com##.widget_custom_html
 
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/140
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/141#issuecomment-694561001
 androidexplained.com##article + div[class^="astra-advanced-hook-"]
 
 # https://github.com/NanoMeow/QuickReports/issues/4711
