@@ -632,11 +632,13 @@ smallbusiness.chron.com##.leaderboard
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608696
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672325
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/142#issuecomment-695358083
 !#if env_mobile
 knowyourmeme.com##.complex-ad-wrapper
 knowyourmeme.com##.content-unit-refresh-wrapper
 !#endif
 knowyourmeme.com##.combo-right
+knowyourmeme.com##.collection > .bodycopy > div[style]:not([class])
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672357
 time.com##.padded-mobile.bottom-recirc
@@ -2299,9 +2301,6 @@ androidexplained.com##article + div[class^="astra-advanced-hook-"]
 
 # https://github.com/NanoMeow/QuickReports/issues/4711
 afternerd.com##aside:has(script[src^="//cdn.carbonads."])
-
-# https://github.com/NanoAdblockerLab/NanoContrib/pull/141
-knowyourmeme.com##.collection > .bodycopy > div[style]:not([class])
 
 # https://github.com/NanoMeow/QuickReports/issues/4722
 theladders.com##.publication-instream-ad-container
