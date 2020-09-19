@@ -449,6 +449,16 @@ tucao.one##div[style="margin-top:16px;overflow:hidden;height:200px;"]
 
 # -------------------------------------------------------------------------------------------------------------------- #
 
+# Chinese (Traditional) NSFW
+
+# https://github.com/NanoMeow/QuickReports/issues/4725
+avseesee.com##[id^="nativeAds_"]:upward(.widget)
+avseesee.com##.widget:has(ins)
+
+# End Chinese (Traditional) NSFW
+
+# -------------------------------------------------------------------------------------------------------------------- #
+
 # Dhivehi
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/2#issuecomment-450608678
