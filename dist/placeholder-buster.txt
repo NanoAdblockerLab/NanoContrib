@@ -452,8 +452,8 @@ tucao.one##div[style="margin-top:16px;overflow:hidden;height:200px;"]
 # Chinese (Traditional) NSFW
 
 # https://github.com/NanoMeow/QuickReports/issues/4725
-avseesee.com##[id^="nativeAds_"]:upward(.widget)
 avseesee.com##.widget:has(ins)
+avseesee.com##[id^="nativeAds_"]:upward(.widget)
 
 # End Chinese (Traditional) NSFW
 
