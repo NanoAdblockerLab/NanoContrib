@@ -637,8 +637,8 @@ smallbusiness.chron.com##.leaderboard
 knowyourmeme.com##.complex-ad-wrapper
 knowyourmeme.com##.content-unit-refresh-wrapper
 !#endif
-knowyourmeme.com##.combo-right
 knowyourmeme.com##.collection > .bodycopy > div[style]:not([class])
+knowyourmeme.com##.combo-right
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/4#issuecomment-451672357
 time.com##.padded-mobile.bottom-recirc
