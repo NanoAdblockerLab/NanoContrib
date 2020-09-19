@@ -561,7 +561,7 @@ fileinfo.com##.linkAds
 # https://github.com/NanoMeow/QuickReports/issues/4718
 investopedia.com###partnerlinks_1-0
 investopedia.com##.right-rail--ad-container
-investopedia.com##div[id^="performance-marketing"]
+investopedia.com##div[id^="performance-marketing_"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592305
 lame.buanzo.org###ads
