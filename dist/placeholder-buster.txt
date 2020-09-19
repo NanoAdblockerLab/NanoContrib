@@ -558,8 +558,10 @@ issuu.com##div[class*="adPlacementContainer"]
 fileinfo.com##.linkAds
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592297
+# https://github.com/NanoMeow/QuickReports/issues/4718
 investopedia.com###partnerlinks_1-0
 investopedia.com##.right-rail--ad-container
+investopedia.com##div[id^="performance-marketing"]
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/1#issuecomment-450592305
 lame.buanzo.org###ads
@@ -2297,6 +2299,19 @@ androidexplained.com##article + div[class^="astra-advanced-hook-"]
 
 # https://github.com/NanoMeow/QuickReports/issues/4711
 afternerd.com##aside:has(script[src^="//cdn.carbonads."])
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/141
+knowyourmeme.com##.collection > .bodycopy > div[style]:not([class])
+
+# https://github.com/NanoMeow/QuickReports/issues/4722
+theladders.com##.publication-instream-ad-container
+theladders.com##.publication-leaderboard-ad-unit:upward(2)
+
+# https://github.com/NanoMeow/QuickReports/issues/4719
+ktm2day.com##.vc_wp_text
+
+# https://github.com/NanoMeow/QuickReports/issues/4710
+dailycaller.com##[class*="index__adWrapper--"]
 
 # End English
 
