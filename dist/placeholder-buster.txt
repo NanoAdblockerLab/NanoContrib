@@ -333,6 +333,16 @@ glosbe.com###topContainer
 w3big.com###mainLeaderboard
 w3big.com###skyscraper
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/143
+athome.lu##.suggestedservices
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/143
+luxauto.lu##.imu
+luxauto.lu##.services
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/143
+luxbazar.lu##td[width="250"]
+
 # End Multilingual
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2312,6 +2322,9 @@ ktm2day.com##.vc_wp_text
 # https://github.com/NanoMeow/QuickReports/issues/4710
 dailycaller.com##[class*="index__adWrapper--"]
 
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/143
+glynrob.com###text-4
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -2402,6 +2415,10 @@ biguz.net##.topb
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/140#issuecomment-692244051
 spankbang.com##.ptgncdn_holder
+
+# https://github.com/NanoAdblockerLab/NanoContrib/pull/143
+||rexxx.org/banner^
+rexxx.org##.cont_right
 
 # End English NSFW
 
