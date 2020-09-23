@@ -2417,7 +2417,7 @@ biguz.net##.topb
 spankbang.com##.ptgncdn_holder
 
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/143
-||rexxx.org/banner^
+rexxx.org##[src^="/banner?"]
 rexxx.org##.cont_right
 
 # End English NSFW
