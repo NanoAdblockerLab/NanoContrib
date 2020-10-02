@@ -2326,12 +2326,12 @@ dailycaller.com##[class*="index__adWrapper--"]
 glynrob.com###text-4
 
 # https://github.com/NanoMeow/QuickReports/issues/4537
-geekzone.co.nz##.cornered
 geekzone.co.nz##.container:not(:has(.forumText[style^="width"]))
+geekzone.co.nz##.cornered
 
 # https://github.com/NanoMeow/QuickReports/issues/4570
-keybr.com##.Body-header
 keybr.com##.Body-aside
+keybr.com##.Body-header
 
 # https://github.com/NanoMeow/QuickReports/issues/4480
 steamgifts.com##.sidebar + div div[style^="padding-top"]
