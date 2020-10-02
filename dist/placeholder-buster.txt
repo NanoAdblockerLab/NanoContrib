@@ -2325,6 +2325,17 @@ dailycaller.com##[class*="index__adWrapper--"]
 # https://github.com/NanoAdblockerLab/NanoContrib/pull/143#issuecomment-697120119
 glynrob.com###text-4
 
+# https://github.com/NanoMeow/QuickReports/issues/4537
+geekzone.co.nz##.cornered
+geekzone.co.nz##.container:not(:has(.forumText[style^="width"]))
+
+# https://github.com/NanoMeow/QuickReports/issues/4570
+keybr.com##.Body-header
+keybr.com##.Body-aside
+
+# https://github.com/NanoMeow/QuickReports/issues/4480
+steamgifts.com##.sidebar + div div[style^="padding-top"]
+
 # End English
 
 # -------------------------------------------------------------------------------------------------------------------- #
